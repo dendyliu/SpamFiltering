@@ -35,7 +35,7 @@ def preprocess(sentence):
 #3 Kalau pake BOW(Bag of word) :
 #	Hitung frekuensi kemunculan katanya
 #4 Kalau gk pake BOW:
-#5  Cukup di data katanya gk usah diitung
+#   Cukup di data katanya gk usah diitung
 def get_features(text, is_bow):
     if  is_bow.lower() == 'y':
         return {word: count for word, count in Counter(preprocess(text)).items() if not word in stoplist}
