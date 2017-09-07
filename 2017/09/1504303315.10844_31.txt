@@ -1,0 +1,83 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 5352 invoked from network); 01 Sep 2017 18:47:04 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 01 Sep 2017 18:47:04 -0000
+Received: (qmail 9547 invoked from network); 1 Sep 2017 18:47:04 -0000
+Received: from ceraya.trade (contract.toshade.us [66.225.198.24])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 01 Sep 2017 18:47:04 -0000
+Date: Fri, 01 Sep 2017 11:40:34 -0700
+Content-Type: multipart/alternative; boundary="Section.f8f706c3938feec43d1f111ad3c0a047"
+Subject: You have been personally chosen to take survey about Walgreens. $50 Reward.
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.10930783.16296112@ceraya.trade_2sw>
+Content-Transfer-Encoding: 8bit
+To: <bruce@untroubled.org>
+From: Walgreens Customer Poll <Walgreens.Customer.Poll@ceraya.trade>
+Mime-Version: 1.0
+Content-Length: 2706
+
+
+----Part.16296112.10930783
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Greetings bruce@untroubled.org,
+
+You have been personally chosen to take survey about Walgreens. $50 Reward.
+
+Claim Your $50 Gift Card Here: http://alternate.ceraya.trade/walgreens
+
+(Hurry! Offer Ends Saturday, September 2, 2017.)
+
+
+----Part.16296112.10930783
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>Walgreen</title> 
+ </head> 
+ <body style="font-family:Helvetica, sans-serif; background-color:#e31836; "> 
+  <table style="background-color:#ffffff; padding:15px; " width="460" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:center; " width="200"> <a href="http://alternate.ceraya.trade/walgreens" style="text-decoration:none; "> <img src="http://alternate.ceraya.trade/pic67" width="250" /> </a> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align:center; "> <a href="http://alternate.ceraya.trade/walgreens" style="text-decoration:none; "> <p style="margin:0; font-size:25px; color:#000; "> <b>Congrats bruce@untroubled.org!</b> </p> </a> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <br /> 
+  <table style="background-color:#ffffff; padding:15px; " width="460" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:center; "> 
+      <table style="" align="center"> 
+       <tbody>
+        <tr> 
+         <td style="text-align:center; "> <p style="margin:0; font-size:20px; "> </p> </td> 
+         <td style="text-align:center; "> <p style="margin:0; font-size:28px; "> Thank You for Shopping at Walgreens!<br /> Let us reward you with this $50 voucher. </p> <br /> <a href="http://alternate.ceraya.trade/walgreens" style="text-decoration:none; "> <p style="margin:0; font-size:35px; background-color:#e31836; color:#fff; padding:10px; font-family:serif; "> <i>Print Your <b>$50</b> Voucher Here</i> </p> </a> <br /> <p style="margin:0; font-size:15px; color:#671115; "> (Hurry! Offer Ends Saturday, September 2, 2017.) </p> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align:center; "> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <table width="297" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; font-size:14px; color:#fff; "> <br /><br /><br /><br /><br /><br /><br /><br /> <p><a href="http://alternate.ceraya.trade/break"><img src="http://alternate.ceraya.trade/unsubimage" alt="f8f706c3938feec43d1f111ad3c0a047"/></a>.</p> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>
+
+----Part.16296112.10930783--

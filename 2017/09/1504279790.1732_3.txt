@@ -1,0 +1,795 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 2587 invoked from network); 01 Sep 2017 08:34:18 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 01 Sep 2017 08:34:18 -0000
+Received: (qmail 13316 invoked from network); 1 Sep 2017 08:34:17 -0000
+Received: from mail3.mlcampaignir.com (mail3.mlcampaignir.com [195.12.186.96])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 01 Sep 2017 08:34:17 -0000
+Received: from mail3.mlcampaignir.com (mail3.mlcampaignir.com [195.12.186.96])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client CN "mlcampaignir.com", Issuer "mlcampaignir.com" (verified OK))
+	by mail3.mlcampaignir.com (Postfix) with ESMTPS id 5758E22CC0D
+	for <bruce@untroubled.org>; Fri,  1 Sep 2017 11:31:11 +0300 (EEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mlcampaignir.com;
+	s=ml; t=1504254671; bh=jcCgYU0gd+rj3MaqPcBov91h4f88T+j1rSyrIUpSf1Q=;
+	h=Date:To:From:Reply-To:Subject:List-Unsubscribe;
+	b=kXXD8GBr9EyvGCJWoDbsYAek1uaFwVFz0Q3oq+P3Hcng9h+PXcSvohvMNcGuFCMnC
+	 b0qVOcXuCbPC1DWlbWV3Lznmq69hmiKFuel4dSRvMy/a+aP1pCBpaVAtC3IUJVASV3
+	 5oTsUIr2vtAyFQO014fjV3h8vrVdNG/EFOK35Jac=
+Date: Fri, 1 Sep 2017 08:30:19 +0000
+To: bruce@untroubled.org
+From: =?utf-8?Q?=D9=81=D8=B1=D9=88=D8=B4_=D9=88=DB=8C=DA=98=D9=87?= <meghdadit@gmail.com>
+Reply-To: =?utf-8?Q?=D9=81=D8=B1=D9=88=D8=B4_=D9=88=DB=8C=DA=98=D9=87?= <meghdadit@gmail.com>
+Subject: =?utf-8?Q?=F0=9F=98=B3=F0=9F=98=B3=C2=A0=D9=82=D8=B7=D8=B9=D8=A7=D8=AA_=DA=A9=D8=A7=D9=85=D9=BE=DB=8C=D9=88=D8=AA=D8=B1_=D8=B1=D9=88_=D8=B2=DB=8C=D8=B1_=D9=82=DB=8C=D9=85=D8=AA_=D8=A8=D8=AE=D8=B1=DB=8C=D8=AF=C2=A0=F0=9F=98=B3=F0=9F=98=B3?=
+Message-ID: <2ffe0e331edff7e0bd55e6889b59758e@mlcampaignir.com>
+X-Mailer-SubscriberID: 706218613878555751;s0v8;a586daf39d4b9d306b6e1d5b85f708d3
+X-Mailru-Msgtype: a586daf39d4b9d306b6e1d5b85f708d3
+Precedence: bulk
+Feedback-ID: l3t6y9:a586daf39d4b9d306b6e1d5b85f708d3:28514306480105441:MailerLite
+Sender: =?utf-8?Q?"=D9=81=D8=B1=D9=88=D8=B4=20=D9=88=DB=8C=DA=98=D9=87"?=<meghdadit=gmail.com@mlcampaignir.com>
+List-Unsubscribe: <mailto:unsubscribe-706218613878555751-s0v8-a586daf39d4b9d306b6e1d5b85f708d3@mlcampaignir.com?body=unsubscribe>, <http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTcyMSZkPWw3azVmNnM=.kBxdwSKrh40Aqmdi3Uz-IdWQ6aYVFBQOgJUS-UfXvrI>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ffe0e331edff7e0bd55e6889b59758e"
+Content-Length: 38541
+
+
+--b1_2ffe0e331edff7e0bd55e6889b59758e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=D8=B3=D9=84=D8=A7=D9=85=D8=8C
+
+=D8=B4=D9=85=D8=A7 =DB=8C=DA=A9 =D8=AE=D8=A8=D8=B1=D9=86=D8=A7=D9=85=D9=87=
+ =D8=A7=D8=B2 =D9=85=D9=82=D8=AF=D8=A7=D8=AF =D8=A2=DB=8C =D8=AA=DB=8C =D8=
+=AF=D8=B1=DB=8C=D8=A7=D9=81=D8=AA =DA=A9=D8=B1=D8=AF=D9=87 =D8=A7=DB=8C=D8=
+=AF.
+=D8=A7=DA=AF=D8=B1 =D9=86=D8=B1=D9=85 =D8=A7=D9=81=D8=B2=D8=A7=D8=B1 =D8=A7=
+=DB=8C=D9=85=DB=8C=D9=84 =D9=86=D9=85=DB=8C =D8=AA=D9=88=D8=A7=D9=86=D8=AF=
+ =D8=A7=DB=8C=D9=85=DB=8C=D9=84 =D9=87=D8=A7=DB=8C HTML =D8=B1=D8=A7 =D9=86=
+=D9=85=D8=A7=DB=8C=D8=B4 =D8=AF=D9=87=D8=AF. =D8=B4=D9=85=D8=A7 =D9=85=DB=
+=8C =D8=AA=D9=88=D8=A7=D9=86=DB=8C=D8=AF =D8=AE=D8=A8=D8=B1=D9=86=D8=A7=D9=
+=85=D9=87 =D8=B1=D8=A7 =D8=A8=D8=A7 =DA=A9=D9=84=DB=8C=DA=A9 =D8=B1=D9=88=
+=DB=8C =D9=84=DB=8C=D9=86=DA=A9 =D8=B2=DB=8C=D8=B1 =D9=85=D8=B4=D8=A7=D9=87=
+=D8=AF=D9=87 =DA=A9=D9=86=DB=8C=D8=AF:
+http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4=
+JmU9NDk4NjM3NyZiPTEyMTUwNTcxNyZkPXYwZzlzMGE=3D.3WXWrccHw2C28F-VqemkoM2Mwg=
+hPjYs3DcnPzce8fqI
+=D8=B4=D9=85=D8=A7 =D8=A7=DB=8C=D9=86 =D8=AE=D8=A8=D8=B1=D9=86=D8=A7=D9=85=
+=D9=87 =D8=B1=D8=A7 =D8=A8=D9=87 =D8=AF=D9=84=DB=8C=D9=84 =D8=B9=D9=84=D8=
+=A7=D9=82=D9=85=D9=86=D8=AF =D8=A8=D9=88=D8=AF=D9=86 =D8=A8=D9=87 =D9=85=D9=
+=82=D8=AF=D8=A7=D8=AF =D8=A2=DB=8C =D8=AA=DB=8C =D8=AF=D8=B1=DB=8C=D8=A7=D9=
+=81=D8=AA =D9=85=DB=8C =DA=A9=D9=86=DB=8C=D8=AF.
+=D8=A7=DA=AF=D8=B1 =D8=B9=D9=84=D8=A7=D9=82=D9=85=D9=86=D8=AF =D9=86=DB=8C=
+=D8=B3=D8=AA=D9=86=D8=AF=D8=9F =D8=A8=D8=A7 =DA=A9=D9=84=DB=8C=DA=A9 =D8=AF=
+=D8=B1 =D8=A7=DB=8C=D9=86=D8=AC=D8=A7 =D9=84=D8=BA=D9=88 =D8=A7=D8=B4=D8=AA=
+=D8=B1=D8=A7=DA=A9 =DA=A9=D9=86=DB=8C=D8=AF:
+http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4=
+JmU9NDk4NjM3NyZiPTEyMTUwNTcyMyZkPXgyYTh5N2s=3D.H5s2cFsTkC85NmZjSa-12vBkhu=
+gblktD6K5zPfu0cwM
+
+
+--b1_2ffe0e331edff7e0bd55e6889b59758e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+
+<html class=3D"no-js" lang=3D"fa" style=3D"font-family: sans-serif; -ms-t=
+ext-size-adjust: 100%; -webkit-text-size-adjust: 100%; font-size: 1em; li=
+ne-height: 1.4;">
+
+<head>
+
+
+
+    <!-- Meta Tags -->
+    <meta charset=3D"utf-8">
+    <meta http-equiv=3D"x-ua-compatible" content=3D"ie=3Dedge">
+    <meta name=3D"description" content=3D"">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scal=
+e=3D1">
+
+
+
+    <!-- Title -->
+    <title>=D9=81=D8=B1=D9=88=D8=B4=DA=AF=D8=A7=D9=87 =D8=A7=DB=8C=D9=86=D8=
+=AA=D8=B1=D9=86=D8=AA=DB=8C =D9=85=D9=82=D8=AF=D8=A7=D8=AF =D8=A2=DB=8C =D8=
+=AA=DB=8C | meghdadit.com</title>
+
+
+
+    <!-- Icon -->
+
+
+
+    <!-- CSS Style -->
+    <style></style>
+    <style></style>
+
+
+    <!-- JS Files -->
+
+
+
+
+</head>
+
+
+<!-- Start Body -->
+
+<body id=3D"body" style=3D"margin: 0; background-color: #ebeef0; font-siz=
+e: 62.5%;"><style>div.OutlookMessageHeader, table.moz-email-headers-table=
+, blockquote #_t, #MailContainerBody #_t {background-image:url("http://tr=
+ack.mlcampaignir.com/link/f/cnM9NzA2MjE4NjEzODc4NTU1NzUxJmNvZGU9czB2OCZyP=
+Tc4MjY5NTE=3D.DYY18_u3ugRJubNn5PEkM1z4TloKvrMLXe5ozEl3SI0")} </style><img=
+ src=3D"http://track.mlcampaignir.com/link/o/YT03MDYyMTg2MTM4Nzg1NTU3NTEm=
+Yz1zMHY4JmU9NDk4NjM3Nw=3D=3D.0O79RFjNY_IA9sG_DmTR3Z90U9k8WYRCyzXBzM2eYzo"=
+ class=3D"open_img" style=3D"display:block; height:0px; width:0px; max-wi=
+dth:0px; max-height:0px; overflow:hidden;" width=3D"1" height=3D"1" borde=
+r=3D"0" alt=3D"" />
+
+
+
+    <!--[if lt IE 8]>
+		<p class=3D"browserupgrade">
+			You are using an <strong>outdated</strong> browser. Please=20
+			<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1NT=
+U3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU0NSZkPXc0aTJyNGI=3D.PRfdaJKLBKl1=
+hSl5udMtJ3jP21yPZ5_XDnnW8BduN_s" data-link-id=3D"121505545" target=3D"_bl=
+ank">upgrade your browser</a> to improve your experience.
+		</p>
+	<![endif]-->
+
+
+
+
+
+
+
+
+
+    <!-- Start Container -->
+    <div id=3D"container" style=3D"width: 640px; margin: 0px auto; backgr=
+ound-color: red;">
+
+
+
+        <!-- Start Disable -->
+        <!--<p id=3D"disable"> =D8=AF=D8=B1 =D8=AF=DB=8C=D8=AF=D9=86 =D8=AA=
+=D8=B5=D8=A7=D9=88=DB=8C=D8=B1 =D9=85=D8=B4=DA=A9=D9=84 =D8=AF=D8=A7=D8=B1=
+=DB=8C=D8=AF=D8=9F <a href=3D""> =D8=A7=DB=8C=D9=86=D8=AC=D8=A7 =DA=A9=D9=
+=84=DB=8C=DA=A9 =DA=A9=D9=86=DB=8C=D8=AF. </a></p>-->
+        <!-- End Disable -->
+
+
+        <!-- Start Line Top Header -->
+        <div class=3D"line_top_header" style=3D"width: 100%; height: 2px;=
+ background-color: #1991de;"></div>
+        <!-- End Line Top Header -->
+
+
+        <!-- Start Logo Box -->
+        <div id=3D"logo_box" style=3D"background-color: #f8f8f8; width: 6=
+40px; height: 87px; margin: 0px; float: right;">
+            <a id=3D"logo" href=3D"http://track.mlcampaignir.com/link/c/Y=
+T03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU0NyZkPWQ4eT=
+J2M3c=3D.nfUprzO9YlQHP_wjYbWpidSSQgvDdoZ85521Lf1rS7I" data-link-id=3D"121=
+505547" target=3D"_blank" style=3D"-ms-transition: all .3s ease; backgrou=
+nd-color: transparent; display: block; -webkit-transition: all .3s ease; =
+-moz-transition: all .3s ease; text-decoration: none; -o-transition: all =
+.3s ease; transition: all .3s ease; width: 640px; height: 87px; margin: 0=
+px;">
+            	<img src=3D"https://bucket.mlcdn.com/a/223/223973/images/f11=
+8273c6edfb52f81308853e60a7c0284c894fd.jpg" style=3D"border: 0 none; verti=
+cal-align: middle;">
+            </a>
+        </div>
+        <!-- End Logo Box -->
+
+
+        <!-- Start Navigation -->
+        <div id=3D"nav_back" style=3D"width: 100%; height: 90px; float: r=
+ight; background-color: #333132;">
+            <header class=3D"header_box" style=3D"display: block; width: =
+630px; height: 90px; background-color: #333132; margin: 0px auto;">
+
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU0OSZkPWQybjVrNmM=3D=
+.yNSPK659X18LtP75i7NOhcIEzoD2bWsuYSDmwozTmTw" data-link-id=3D"121505549" =
+class=3D"navig" target=3D"_blank" style=3D"-ms-transition: all .3s ease; =
+display: block; -webkit-transition: all .3s ease; -moz-transition: all .3=
+s ease; text-decoration: none; -o-transition: all .3s ease; transition: a=
+ll .3s ease; background-color: #333132; float: right; height: 90px; color=
+: #fff;">
+					<span style=3D"float: right; background-color: #333132; font-size: 1=
+.2em; margin: 5px 10px; text-align: center; line-height: 30px; height: 80=
+px; letter-spacing: .3px; width: 84px;"><img src=3D"https://bucket.mlcdn.=
+com/a/223/223973/images/bab643deaa856f2b337c6ceac6acb883c7005050.png" sty=
+le=3D"border: 0 none; vertical-align: middle;"></span>
+				</a>
+                <span class=3D"sep_line" style=3D"float: right; height: 6=
+0px; margin: 15px 0px;"><img src=3D"https://bucket.mlcdn.com/a/223/223973=
+/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg" style=3D"border: 0 =
+none; vertical-align: middle;"></span>
+
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU1MSZkPWgwdzhyOW0=3D=
+.kHi3FyEPBaev2YOnRzAfHyuQlzsTZfUVbyPtFUXBeuk" data-link-id=3D"121505551" =
+class=3D"navig" target=3D"_blank" style=3D"-ms-transition: all .3s ease; =
+display: block; -webkit-transition: all .3s ease; -moz-transition: all .3=
+s ease; text-decoration: none; -o-transition: all .3s ease; transition: a=
+ll .3s ease; background-color: #333132; float: right; height: 90px; color=
+: #fff;">
+					<span style=3D"float: right; background-color: #333132; font-size: 1=
+.2em; margin: 5px 10px; text-align: center; line-height: 30px; height: 80=
+px; letter-spacing: .3px; width: 84px;"><img src=3D"https://bucket.mlcdn.=
+com/a/223/223973/images/66253bc7421e4754e456760a3c1ed6d602cf91a6.png" sty=
+le=3D"border: 0 none; vertical-align: middle;"></span>
+				</a>
+                <span class=3D"sep_line" style=3D"float: right; height: 6=
+0px; margin: 15px 0px;"><img src=3D"https://bucket.mlcdn.com/a/223/223973=
+/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg" style=3D"border: 0 =
+none; vertical-align: middle;"></span>
+
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU1MyZkPW85cjliMG4=3D=
+.8WovZYniT7NelHPtvSvv7M3uhM7aYPM_N6W3zQvdDi4" data-link-id=3D"121505553" =
+class=3D"navig" target=3D"_blank" style=3D"-ms-transition: all .3s ease; =
+display: block; -webkit-transition: all .3s ease; -moz-transition: all .3=
+s ease; text-decoration: none; -o-transition: all .3s ease; transition: a=
+ll .3s ease; background-color: #333132; float: right; height: 90px; color=
+: #fff;">
+					<span style=3D"float: right; background-color: #333132; font-size: 1=
+.2em; margin: 5px 10px; text-align: center; line-height: 30px; height: 80=
+px; letter-spacing: .3px; width: 84px;"><img src=3D"https://bucket.mlcdn.=
+com/a/223/223973/images/be9736060ae69416f81f1042306461b5958f1f8f.png" sty=
+le=3D"border: 0 none; vertical-align: middle;"></span>
+				</a>
+                <span class=3D"sep_line" style=3D"float: right; height: 6=
+0px; margin: 15px 0px;"><img src=3D"https://bucket.mlcdn.com/a/223/223973=
+/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg" style=3D"border: 0 =
+none; vertical-align: middle;"></span>
+
+                <!--  Editable Area  -->
+
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU1NSZkPXY3aDZ3OHc=3D=
+.s7U3zPpQ2_HClawMmf9TRz6bQ8U6ST9kPa9GLEJEru0" data-link-id=3D"121505555" =
+class=3D"navig" target=3D"_blank" style=3D"-ms-transition: all .3s ease; =
+display: block; -webkit-transition: all .3s ease; -moz-transition: all .3=
+s ease; text-decoration: none; -o-transition: all .3s ease; transition: a=
+ll .3s ease; background-color: #333132; float: right; height: 90px; color=
+: #fff;">
+					<span style=3D"float: right; background-color: #333132; font-size: 1=
+.2em; margin: 5px 10px; text-align: center; line-height: 30px; height: 80=
+px; letter-spacing: .3px; width: 84px;"><img src=3D"https://bucket.mlcdn.=
+com/a/223/223973/images/48d283a2a0482fd9ed5f724facbca3dc85c4410f.png" sty=
+le=3D"border: 0 none; vertical-align: middle;"></span>
+				</a>
+                <span class=3D"sep_line" style=3D"float: right; height: 6=
+0px; margin: 15px 0px;"><img src=3D"https://bucket.mlcdn.com/a/223/223973=
+/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg" style=3D"border: 0 =
+none; vertical-align: middle;"></span>
+
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU1NyZkPWQzdjV5MnM=3D=
+.wOAMUwbmGPrVmVXFsHxd9ob-faX7TiHrcE8hOs536qQ" data-link-id=3D"121505557" =
+class=3D"navig" target=3D"_blank" style=3D"-ms-transition: all .3s ease; =
+display: block; -webkit-transition: all .3s ease; -moz-transition: all .3=
+s ease; text-decoration: none; -o-transition: all .3s ease; transition: a=
+ll .3s ease; background-color: #333132; float: right; height: 90px; color=
+: #fff;">
+					<span style=3D"float: right; background-color: #333132; font-size: 1=
+.2em; margin: 5px 10px; text-align: center; line-height: 30px; height: 80=
+px; letter-spacing: .3px; width: 84px;"><img src=3D"https://bucket.mlcdn.=
+com/a/223/223973/images/4f07bf7ecefabf0e43a00ca137715ded57c27a58.png" sty=
+le=3D"border: 0 none; vertical-align: middle;"></span>
+				</a>
+                <span class=3D"sep_line" style=3D"float: right; height: 6=
+0px; margin: 15px 0px;"><img src=3D"https://bucket.mlcdn.com/a/223/223973=
+/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg" style=3D"border: 0 =
+none; vertical-align: middle;"></span>
+
+                <!--<a href=3D"http://track.mlcampaignir.com/link/c/YT03M=
+DYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU1OSZkPWwzaTJjOX=
+k=3D.7ElnNJIq5yZN-xAGpNIrLU4-a0cspiZzpFnMt7SN0mQ" data-link-id=3D"1215055=
+59" class=3D"navig" target=3D"_blank">
+					<span><img src=3D"img/navigation_items/accessories.png"></span>
+				</a>
+				<span class=3D"sep_line"><img src=3D"https://bucket.mlcdn.com/a/223/2=
+23973/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg"></span>-->
+
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU2MSZkPWM3dTdqOWs=3D=
+.XDQve1fdDRVl0aHZtKZwq6bkyKL_oyc1lFEXmWAN1FI" data-link-id=3D"121505561" =
+class=3D"navig" target=3D"_blank" style=3D"-ms-transition: all .3s ease; =
+display: block; -webkit-transition: all .3s ease; -moz-transition: all .3=
+s ease; text-decoration: none; -o-transition: all .3s ease; transition: a=
+ll .3s ease; background-color: #333132; float: right; height: 90px; color=
+: #fff;">
+					<span style=3D"float: right; background-color: #333132; font-size: 1=
+.2em; margin: 5px 10px; text-align: center; line-height: 30px; height: 80=
+px; letter-spacing: .3px; width: 84px;"><img src=3D"https://bucket.mlcdn.=
+com/a/223/223973/images/2e954757cc0c506b7b1dca2791301a1a306323f5.png" sty=
+le=3D"border: 0 none; vertical-align: middle;"></span>
+				</a>
+                <!--<span class=3D"sep_line"><img src=3D"https://bucket.m=
+lcdn.com/a/223/223973/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg=
+"></span>-->
+
+                <!--<a href=3D"http://track.mlcampaignir.com/link/c/YT03M=
+DYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU2MyZkPXA5bTRjM3=
+E=3D.oHdiq4IX7Zcm1BE4jTfi7KDMaM2GTj24CwFAgoYxCek" data-link-id=3D"1215055=
+63" class=3D"navig" target=3D"_blank">
+					<span><img src=3D"img/navigation_items/office machines.png"></span>
+				</a>
+				<span class=3D"sep_line"><img src=3D"https://bucket.mlcdn.com/a/223/2=
+23973/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg"></span>-->
+
+                <!--<a href=3D"http://track.mlcampaignir.com/link/c/YT03M=
+DYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU2NSZkPXM4dTZ6Mm=
+0=3D.nPOUIdjoIEF6jv1OasPcWA9eVgt71vLgasqqZvhK8Eg" data-link-id=3D"1215055=
+65" class=3D"navig" target=3D"_blank">
+					<span><img src=3D"img/navigation_items/voice & video.png"></span>
+				</a>
+				<span class=3D"sep_line"><img src=3D"https://bucket.mlcdn.com/a/223/2=
+23973/images/ff7b582d2b2585fee377b36d8b9ce42595ca54f6.jpg"></span>-->
+
+                <!--<a href=3D"http://track.mlcampaignir.com/link/c/YT03M=
+DYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU2NyZkPWIybjJvOX=
+Q=3D.eLYPpD7RhKiPJamLYDoV45eYsGRwLrfSq-DnyXIiA4M" data-link-id=3D"1215055=
+67" class=3D"navig" target=3D"_blank">
+					<span><img src=3D"img/navigation_items/camera.png"></span>
+				</a>-->
+
+            </header>
+        </div>
+        <!-- End Navigation -->
+
+
+
+        <!-- Start Slider 1 -->
+        <!--<a id=3D"slider2" href=3D"http://track.mlcampaignir.com/link/=
+c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU2OSZkPWI=
+yczRnOGY=3D.xs1R4-gZcXTOxitxcch9YGqrGRf0TVfUG4ea9sQDZTg" data-link-id=3D"=
+121505569" target=3D"_blank">
+        	<img src=3D"https://bucket.mlcdn.com/a/223/223973/images/c4e2349=
+e0e607553a8c5c056600e7aa1a5938d58.jpg">
+        </a>-->
+        <!-- End Slider 1 -->
+
+
+
+        <!-- Start Title -->
+        <!--<a id=3D"title" href=3D"http://track.mlcampaignir.com/link/c/=
+YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU3MSZkPXkyb=
+DRhNnA=3D.tUxPxlFQiG6MAFsQ-TiISIzGeEidej5c_k1UXIrALD8" data-link-id=3D"12=
+1505571" target=3D"_blank">
+        	<img src=3D"img/slider_1/1.jpg">
+        </a>-->
+        <!-- End Title -->
+
+
+        <!-- Start Title -->
+        <a id=3D"title" href=3D"http://track.mlcampaignir.com/link/c/YT03=
+MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU3MyZkPXo4dDF4M=
+nk=3D.Txwrz042gXlWNhJ-wk94qmcAoId0iGZHTRbFnYdE4JQ" data-link-id=3D"121505=
+573" target=3D"_blank" style=3D"-ms-transition: all .3s ease; display: bl=
+ock; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; tex=
+t-decoration: none; -o-transition: all .3s ease; transition: all .3s ease=
+; background-color: red; width: 640px; height: 70px; float: left;">
+        	<img src=3D"https://bucket.mlcdn.com/a/223/223973/images/c4e2349=
+e0e607553a8c5c056600e7aa1a5938d58.jpg" style=3D"border: 0 none; vertical-=
+align: middle;">
+        </a>
+        <!-- End Title -->
+
+
+        <!-- Start Asseble Item -->
+        <div id=3D"ass_box_new" style=3D"width: 640px; float: left;">
+            <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2M=
+TM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU3NSZkPWIwdDRmMHQ=3D.f2X=
+-IXT8Y1ty3KjVyYmGuvRWcPKLfrnuBS3rUQljEkQ" data-link-id=3D"121505575" targ=
+et=3D"_blank" style=3D"background-color: transparent; text-decoration: no=
+ne; display: block; -webkit-transition: all .3s ease; -moz-transition: al=
+l .3s ease; -ms-transition: all .3s ease; -o-transition: all .3s ease; tr=
+ansition: all .3s ease; float: left;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/3aaba107f63f745f5dc35f3d1df328de3f93dc1f.jpg" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2M=
+TM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU3NyZkPXI1eTd4NHU=3D.P4Y=
+mz00K6dlFVIc2XHLOnhRHWTHe-gAsGELxQcTSm4Q" data-link-id=3D"121505577" targ=
+et=3D"_blank" style=3D"background-color: transparent; text-decoration: no=
+ne; display: block; -webkit-transition: all .3s ease; -moz-transition: al=
+l .3s ease; -ms-transition: all .3s ease; -o-transition: all .3s ease; tr=
+ansition: all .3s ease; float: left;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/eaa3e03a471e67e5403372601b61ac70b672545f.jpg" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2M=
+TM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU3OSZkPW05dDNhM3Y=3D.EFU=
+ClLQvspE0tL1P5hGbxgn-iNTTJdGScFsNK-Aj7-U" data-link-id=3D"121505579" targ=
+et=3D"_blank" style=3D"background-color: transparent; text-decoration: no=
+ne; display: block; -webkit-transition: all .3s ease; -moz-transition: al=
+l .3s ease; -ms-transition: all .3s ease; -o-transition: all .3s ease; tr=
+ansition: all .3s ease; float: left;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/238697798bad95a02e6c5c412d7626f962dae298.jpg" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2M=
+TM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU4MSZkPWUwbjRyNWM=3D.alE=
+yspZTb1LCvSWw_e462jgXlVE620XKCSqK1RUqyZc" data-link-id=3D"121505581" targ=
+et=3D"_blank" style=3D"background-color: transparent; text-decoration: no=
+ne; display: block; -webkit-transition: all .3s ease; -moz-transition: al=
+l .3s ease; -ms-transition: all .3s ease; -o-transition: all .3s ease; tr=
+ansition: all .3s ease; float: left;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/2b5f9b4ad041926cdc7823dc239e4fbcdc9f738e.jpg" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2M=
+TM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU4MyZkPWswbzN5MmQ=3D.TWC=
+tolrM-0EJay-LJyJgpT7jLaGtBebIf6OIrZmOD88" data-link-id=3D"121505583" targ=
+et=3D"_blank" style=3D"background-color: transparent; text-decoration: no=
+ne; display: block; -webkit-transition: all .3s ease; -moz-transition: al=
+l .3s ease; -ms-transition: all .3s ease; -o-transition: all .3s ease; tr=
+ansition: all .3s ease; float: left;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/c6fe8dc97b1aded8a91834c4ac072f446cef3497.jpg" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2M=
+TM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU4NSZkPW41ejR4OHU=3D.QRE=
+GmBQmLznla123Yi9n8QHyTSJ-NIYpAuuqr_St7Hw" data-link-id=3D"121505585" targ=
+et=3D"_blank" style=3D"background-color: transparent; text-decoration: no=
+ne; display: block; -webkit-transition: all .3s ease; -moz-transition: al=
+l .3s ease; -ms-transition: all .3s ease; -o-transition: all .3s ease; tr=
+ansition: all .3s ease; float: left;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/311f2a898790d4454b068494290eb295b78a54fb.jpg" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+        </div>
+        <!-- End Assembel Item -->
+
+
+
+        <!-- Start Contact US -->
+        <a id=3D"contact_box" href=3D"http://track.mlcampaignir.com/link/=
+c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU4NyZkPXQ=
+zbTdqM2k=3D.idRr7AyH7MSAFgBy_oXrjJy8-hJ4bmcATAFOqiGoTwI" data-link-id=3D"=
+121505587" target=3D"_blank" style=3D"-o-transition: all .3s ease; backgr=
+ound-color: transparent; display: block; -webkit-transition: all .3s ease=
+; -moz-transition: all .3s ease; -ms-transition: all .3s ease; text-decor=
+ation: none; transition: all .3s ease; width: 640px; float: right; height=
+: 70px; margin: 0px 0px 1px 0px;">
+        	<img src=3D"https://bucket.mlcdn.com/a/223/223973/images/5cafcc3=
+7863449997be2ca104e0440f74add99fc.jpg" style=3D"border: 0 none; vertical-=
+align: middle;">
+		</a>
+        <!-- End Contact US -->
+
+
+
+
+
+        <!-- Start Telegram banner -->
+        <!--<a id=3D"telegram_box" href=3D"http://track.mlcampaignir.com/=
+link/c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU4OS=
+ZkPXA0ZThlMXA=3D.IAtYtaJJdEaCUeCS1ZwjFoEcDx55OL_AMULGteZvTww" data-link-i=
+d=3D"121505589" target=3D"_blank">
+        	<img src=3D"img/telegram_banner/telegram_banner.jpg">
+		</a>-->
+        <!-- End Telegram banner -->
+
+
+        <!-- Start Social Icons -->
+        <div class=3D"line_top_footer" style=3D"width: 640px; height: 60p=
+x; float: left; margin-bottom: 1px; background-color: red; border-top: 1p=
+x #8f6baa solid;">
+            <div class=3D"follow_us" style=3D"width: 640px; height: 60px;=
+ margin: 0px auto;">
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU5MSZkPXcxdzl3MWs=3D=
+.sl1SjI51V8YNVIygTGdSWfyTmgrtDXoMfC2ylUxKJXs" data-link-id=3D"121505591" =
+target=3D"_blank" style=3D"-ms-transition: all .3s ease; background-color=
+: transparent; display: block; -webkit-transition: all .3s ease; -moz-tra=
+nsition: all .3s ease; text-decoration: none; -o-transition: all .3s ease=
+; transition: all .3s ease; height: 60px; width: 128px; float: left;">
+                    	<img src=3D"https://bucket.mlcdn.com/a/223/223973/im=
+ages/11ce4ddc289268348354cf627adf1f6bdede0094.jpg" style=3D"border: 0 non=
+e; vertical-align: middle;">
+                    </a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU5MyZkPWE5aDZ5OWo=3D=
+.uij3bp5vdeS6G09ZbOR6hd_r5HKIQVWOxCwWYY2WCVg" data-link-id=3D"121505593" =
+target=3D"_blank" style=3D"-ms-transition: all .3s ease; background-color=
+: transparent; display: block; -webkit-transition: all .3s ease; -moz-tra=
+nsition: all .3s ease; text-decoration: none; -o-transition: all .3s ease=
+; transition: all .3s ease; height: 60px; width: 128px; float: left;">
+                    	<img src=3D"https://bucket.mlcdn.com/a/223/223973/im=
+ages/c9e83f9ac71c21e4cddfecb4ce25705d284e090f.jpg" style=3D"border: 0 non=
+e; vertical-align: middle;">
+                    </a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU5NSZkPWEzczhyMXg=3D=
+.xd8jX-xHawiVzSSz0Wgi6aFEtRRHL91JmP9CFuNLEV0" data-link-id=3D"121505595" =
+target=3D"_blank" style=3D"-ms-transition: all .3s ease; background-color=
+: transparent; display: block; -webkit-transition: all .3s ease; -moz-tra=
+nsition: all .3s ease; text-decoration: none; -o-transition: all .3s ease=
+; transition: all .3s ease; height: 60px; width: 128px; float: left;">
+                    	<img src=3D"https://bucket.mlcdn.com/a/223/223973/im=
+ages/99357fe56bcb4971023345074e9620705c20992c.jpg" style=3D"border: 0 non=
+e; vertical-align: middle;">
+                    </a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU5NyZkPXUzdTJiOXg=3D=
+.uPdWIQXmIyIhkwBpqvttfBdcH4IUpRSRJ0-LR92siWQ" data-link-id=3D"121505597" =
+target=3D"_blank" style=3D"-ms-transition: all .3s ease; background-color=
+: transparent; display: block; -webkit-transition: all .3s ease; -moz-tra=
+nsition: all .3s ease; text-decoration: none; -o-transition: all .3s ease=
+; transition: all .3s ease; height: 60px; width: 128px; float: left;">
+                    	<img src=3D"https://bucket.mlcdn.com/a/223/223973/im=
+ages/74481fbd25701445e7f699bd0af77a5318af6d35.jpg" style=3D"border: 0 non=
+e; vertical-align: middle;">
+                    </a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTU5OSZkPXc4YzdpM2Y=3D=
+.wE_WL_PzqHnTF879hZHZ_BIkUzPjxlwfwcRCwur8_Kg" data-link-id=3D"121505599" =
+target=3D"_blank" style=3D"-ms-transition: all .3s ease; background-color=
+: transparent; display: block; -webkit-transition: all .3s ease; -moz-tra=
+nsition: all .3s ease; text-decoration: none; -o-transition: all .3s ease=
+; transition: all .3s ease; height: 60px; width: 128px; float: left;">
+                    	<img src=3D"https://bucket.mlcdn.com/a/223/223973/im=
+ages/2189f3505d9f657f9cd566ed370b99e26ac81ddb.jpg" style=3D"border: 0 non=
+e; vertical-align: middle;">
+                    </a>
+            </div>
+        </div>
+        <!-- End Social Icons -->
+
+
+
+
+
+
+        <!-- Start Footer -->
+        <div id=3D"footer_box" style=3D"width: 640px; float: right; backg=
+round-color: #323232; padding: 10px 0px 10px 0px;">
+            <div class=3D"foot_item_box" style=3D"width: 200px; height: 1=
+44px; float: right; margin-right: 10px;">
+                <a class=3D"foot_item" style=3D"-o-transition: all .3s ea=
+se; background-color: transparent; display: block; -webkit-transition: al=
+l .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; =
+text-decoration: none; transition: all .3s ease; width: 200px; height: 35=
+px; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.c=
+om/a/223/223973/images/c7e04723d8ed73d818db81e3fc0e38822f85ba4a.png" styl=
+e=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYwMSZkPWwxajd0M3Q=3D=
+.jGxknaq1fjRfna2ZRJbK7Xxd9RaNmX7tHzH2VIVx_5g" data-link-id=3D"121505601" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/ab6f3ef7f73d52d2f2a78dff8da17f1680020c8f.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYwMyZkPW4zbzd3OWY=3D=
+.lSy20qCnE4JpNB79en-SzVlVCQ-taMh9mXz5y0JyiGQ" data-link-id=3D"121505603" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/ea22b0dde5128ec221a89fdd4a51af5d927e5513.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYwNSZkPXoweTR6M3I=3D=
+.i-u5wygoakgnfL56kxKdznMIHhWAPffe2K74Z3o1DEk" data-link-id=3D"121505605" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/e25f1864eaca407a30061a7c5aa0e0c9047cc4d0.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            </div>
+            <div class=3D"foot_item_box" style=3D"width: 200px; height: 1=
+44px; float: right; margin-right: 10px;">
+                <a class=3D"foot_item" style=3D"-o-transition: all .3s ea=
+se; background-color: transparent; display: block; -webkit-transition: al=
+l .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; =
+text-decoration: none; transition: all .3s ease; width: 200px; height: 35=
+px; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.c=
+om/a/223/223973/images/62ba21a5ec903870cb5904e04164a7f2e1cce70f.png" styl=
+e=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYwNyZkPWQwZDNwNXQ=3D=
+.t-fRXRmJDbL8J_0Sc6TtQ9bjRbWVGZygpHIwmgtq79U" data-link-id=3D"121505607" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/7d9cf969cc1d16e27f7da159107e1c3e4e7aa3d3.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYwOSZkPW83dDl3M2c=3D=
+.3nclE7c6gRoajkg097IRueL8IaiSrp-C2JFvxS2HQzI" data-link-id=3D"121505609" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/e604018116eba56ea4a617d8e98e03fcd6097abc.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYxMSZkPXYzdjlkNXc=3D=
+.6i0--UYghbm2cU9oNANRqTcz1F5pdt7PQZzYnoibFMk" data-link-id=3D"121505611" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/3f828b9e66c00edf45752333d339173972a7659e.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            </div>
+            <div class=3D"foot_item_box" style=3D"width: 200px; height: 1=
+44px; float: right; margin-right: 10px;">
+                <a class=3D"foot_item" style=3D"-o-transition: all .3s ea=
+se; background-color: transparent; display: block; -webkit-transition: al=
+l .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; =
+text-decoration: none; transition: all .3s ease; width: 200px; height: 35=
+px; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.c=
+om/a/223/223973/images/866f3a54d4dcaf5a84c32eac8fe4ab693b7d7221.png" styl=
+e=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYxMyZkPXIwZjN5NGs=3D=
+.9D4aLxa9xue04Fes5_H3ZYUUtM2PMbk9uCqYfymPmdI" data-link-id=3D"121505613" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/aa99c771e3ec5bb296d70b6da21f608e41f207f0.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYxNSZkPWM0ejNpN3o=3D=
+.6fef4ZmB9F7roO6E_1F2MSXTKC8mZoLyleWz4Gp5k-0" data-link-id=3D"121505615" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/46514e132a1109ffac6281f6709868c6f50e8ebe.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+                <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyM=
+Tg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYxNyZkPWgxbjR4NHk=3D=
+.NobAwzjZWBLuyokWAM588NJJreYWyN41VnTkKjr5FV0" data-link-id=3D"121505617" =
+target=3D"_blank" class=3D"foot_item" style=3D"-o-transition: all .3s eas=
+e; background-color: transparent; display: block; -webkit-transition: all=
+ .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; t=
+ext-decoration: none; transition: all .3s ease; width: 200px; height: 35p=
+x; float: right; margin-bottom: 1px;"><img src=3D"https://bucket.mlcdn.co=
+m/a/223/223973/images/a2df4d5f1d98a9dbe29a3e443af7492eea23539a.png" style=
+=3D"border: 0 none; vertical-align: middle;"></a>
+            </div>
+        </div>
+        <!-- End Footer -->
+
+
+        <!-- Start Disable -->
+        <p id=3D"disable" style=3D"width: 640px; float: right; background=
+-color: #fff; text-align: center; display: block; font-size: 1.7em; paddi=
+ng: 5px 0px 5px 0px; direction: rtl; border-bottom: 5px solid #323232;"> =
+=D9=85=D8=A7=DB=8C=D9=84 =D8=A8=D9=87 =D8=AF=D8=B1=DB=8C=D8=A7=D9=81=D8=AA=
+ =D8=AE=D8=A8=D8=B1=D9=86=D8=A7=D9=85=D9=87 =D9=86=DB=8C=D8=B3=D8=AA=DB=8C=
+=D8=AF=D8=9F <a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2=
+MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTcxOSZkPWoydzF3NWs=3D.9I=
+m75IFWxbE2exE-XkkfoT14u55Y52BDH75q83nuz2E" style=3D"background-color: tra=
+nsparent; text-decoration: none; -webkit-transition: all .3s ease; -moz-t=
+ransition: all .3s ease; -ms-transition: all .3s ease; -o-transition: all=
+ .3s ease; transition: all .3s ease; display: inline-block; color: #15761=
+4;"> =D8=A7=DB=8C=D9=86=D8=AC=D8=A7 =DA=A9=D9=84=DB=8C=DA=A9 =DA=A9=D9=86=
+=DB=8C=D8=AF. </a></p>
+
+        <!-- End Disable -->
+
+
+
+        <!-- Start Table Structure -->
+        <!--<div class=3D"table_structure_back">
+			<div class=3D"table_left_side">
+				<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1N=
+TU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYxOSZkPWs5aTRuMWc=3D.J-ConC9Tkn5=
+0_-53lJUNBZKFN3Q0WgdXCvpPsvmagxg" data-link-id=3D"121505619" target=3D"_b=
+lank"><img src=3D"img/table_structure/1.jpg"></a>
+				<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1N=
+TU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYyMSZkPWExeDJ4MHU=3D.N3bmur_3lUi=
+qfZz_TEcAX9bAgisCDgM2pr9AO0A24cI" data-link-id=3D"121505621" target=3D"_b=
+lank"><img src=3D"img/table_structure/2.jpg"></a>
+			</div>
+			<div class=3D"table_right_side">
+				<div class=3D"top_right">
+					<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1=
+NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYyMyZkPWc3djlpMHA=3D.HHcuCHnvuz=
+tNSCS2bObSs6tgTZpsL9zhY1oNt7a_ksM" data-link-id=3D"121505623" target=3D"_=
+blank"><img src=3D"img/table_structure/3.jpg"></a>
+					<section class=3D"break">
+						<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg=
+1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYyNSZkPWM2djVnNmE=3D.TTktqGbTg=
+KI5QBEQrve9XLwBmsol0QWV2Lu0z_VxS7U" data-link-id=3D"121505625" target=3D"=
+_blank"><img src=3D"img/table_structure/4.jpg"></a>
+						<div>
+							<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nz=
+g1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYyNyZkPXUzdDduMGE=3D.zZfeumD5=
+oLQfzgRPYavGNiegYL2xTNL9cJh62TLk_-Q" data-link-id=3D"121505627" target=3D=
+"_blank"><img src=3D"img/table_structure/5.jpg"></a>
+							<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nz=
+g1NTU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYyOSZkPWoyeDNtM2Y=3D.qMxc80mi=
+wf_nYx-3RzvtHGRqaat5nN6TA4iMop_LuTA" data-link-id=3D"121505629" target=3D=
+"_blank"><img src=3D"img/table_structure/6.jpg"></a>
+						</div>
+					</section>
+				</div>
+				<a href=3D"http://track.mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1N=
+TU3NTEmYz1zMHY4JmU9NDk4NjM3NyZiPTEyMTUwNTYzMSZkPWwxaDJsNWk=3D.Hv9i1L0lY2z=
+dohZ5KSNUMpLQPlaNx-amaQMHks9KD0M" data-link-id=3D"121505631" target=3D"_b=
+lank" class=3D"bottom_right"><img src=3D"img/table_structure/7.jpg"></a>
+			</div>
+		</div>-->
+        <!-- End Table Structure -->
+
+
+
+
+
+
+    </div>
+    <!-- End Container -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+
+
+
+
+<table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bg=
+color=3D"#ffffff">
+    <tr>
+        <td align=3D"center" style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:11px; color:#000000; line-height:17px; padding-top:30px;=
+ padding-bottom:15px;">2017 =C2=A9 <b>=D9=85=D9=82=D8=AF=D8=A7=D8=AF =D8=A2=
+=DB=8C =D8=AA=DB=8C</b></td>
+    </tr>
+    <tr>
+        <td align=3D"center" style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:11px; color:#000000; line-height:17px; padding-bottom:30=
+px;">
+            If you no longer want to receive emails from us, you can <a s=
+tyle=3D"color:#000000; text-decoration: underline;" href=3D"http://track.=
+mlcampaignir.com/link/c/YT03MDYyMTg2MTM4Nzg1NTU3NTEmYz1zMHY4JmU9NDk4NjM3N=
+yZiPTEyMTUwNTcxOSZkPWoydzF3NWs=3D.9Im75IFWxbE2exE-XkkfoT14u55Y52BDH75q83n=
+uz2E">unsubscribe</a>.
+        </td>
+    </tr>
+
+    </table>
+</body>
+<!-- End Body -->
+
+
+</html>
+
+
+
+--b1_2ffe0e331edff7e0bd55e6889b59758e--

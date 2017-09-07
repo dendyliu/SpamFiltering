@@ -1,0 +1,37 @@
+Delivered-To: bruce-lists-sather@bruce-guenter.dyndns.org
+Received: (qmail 5360 invoked from network); 1 Sep 2017 00:15:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 00:15:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 00:15:55 -0000
+Received: (qmail 21308 invoked from network); 1 Sep 2017 00:15:54 -0000
+Received: from webmail.servpro.com.br (HELO garoa.servpro.com.br) (189.90.208.67)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 00:15:54 -0000
+Received: from [127.0.0.1] (81-225-98-54-no133.bredband.skanova.com [81.225.98.54])
+	(Authenticated sender: berg_freitas@servpro.com.br)
+	by garoa.servpro.com.br (Postfix) with ESMTPSA id 784F94D1387
+	for <bruce-lists-sather@bruce-guenter.dyndns.org>; Thu, 31 Aug 2017 10:18:01 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=servpro.com.br;
+	s=mail; t=1504185482;
+	bh=NnbhVbyTuOl5KRz2oZmfKlRwTUpu6dCSESSut7Uu5rQ=;
+	h=Date:Subject:From:To:From;
+	b=O9+XKOVhhgz6Nvmg80NP0BoJM4j2k6j3ejzD/pAGJz+tA4VlRxfqq6AvB0shXtc8f
+	 QkhKxgDja9urxrXv+8CxUe5ieXADyCH+2yPhcFGHQ2sbtybm3O58kTXSYk0OuH68KG
+	 +V7aqpbk0FBjETNJm6AcKHhIW5TfiPqHA0XmJJEw=
+Date: Thu, 31 Aug 2017 15:42:44 +0200
+Subject: Make $ while getting in shape =?UTF-8?B?4oCT?= LEARN HOW
+Message-ID: <ilevopz655kuh69wbfey2oxz.1165401067505@servpro.com.br>
+From: berg_freitas@servpro.com.br
+To: bruce-lists-sather@bruce-guenter.dyndns.org
+Content-Transfer-Encoding: base64
+Content-Type: text/plain; charset=UTF-8
+Content-Length: 487
+
+V2UgdGFrZSBwcmlkZSBpbiBiZWluZyB0aGUgVVNBJ3MgbnVtYmVyIG9uZSBkaWV0IHByb2R1Y3Qu
+DQpXaXRoIHRoaXMgZW1haWwgd2UgYXNrIHlvdSB0byBwYXJ0YWtlIGluIG91ciBsYXRlc3Qgc3Bl
+Y2lhbCBkZWFsLg0KRm9yIGV2ZXJ5IHNpbmdsZSBwb3VuZCB5b3UgbG9zZSwgd2UgcGF5IHlvdSB0
+aHJlZSBkb2xsYXJzLg0KTGV0J3MgbWFrZSB0aGUgVVNBIGEgZml0dGVyIHBsYWNlIOKAkyBieSBq
+b2luaW5nIGZvcmNlcy4NCkxlYXJuIG1vcmUgYWJvdXQgdGhlIGRlYWwgYnkgY2xpY2tpbmcgb24g
+dGhpcyBVUkwuLg0KDQpodHRwOi8vZXNybWV4Lm15Y3VwY2FrZWNvcm5lci54eXovT0M4ek1TOHlN
+REUzT3pFMU9qUXlPalF6DQo=

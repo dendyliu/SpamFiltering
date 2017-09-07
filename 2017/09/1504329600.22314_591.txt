@@ -1,0 +1,28 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 17672 invoked from network); 1 Sep 2017 07:05:48 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 07:05:48 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 07:05:48 -0000
+Received: (qmail 27327 invoked from network); 1 Sep 2017 07:05:46 -0000
+Received: from rgylrak.llqcd7t.com (103.18.102.203)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 07:05:46 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id 842B8611896
+	for <bruce@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 16:05:40 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id 7AEBD611615
+	for <bruce@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 16:05:40 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?5LiN5Zyo552A5L+h44Ki44Oq?=
+From: =?UTF-8?B?44Kk44Oz44OV44Kp44Oh44O844K344On44Oz?= <info@fn8mpubw.com>
+Date: Fri, 01 Sep 2017 16:05:45 +0900
+Message-ID: <1c6a7f521b9b11537c37f30ef2419fa7a84d752c>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+不在着信がありましたのでお知らせします
+http://fn8mpubw.com/nD3KmTw8
+

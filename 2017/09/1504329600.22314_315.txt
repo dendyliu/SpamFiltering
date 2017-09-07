@@ -1,0 +1,27 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 21471 invoked from network); 01 Sep 2017 07:54:41 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 01 Sep 2017 07:54:41 -0000
+Received: (qmail 30251 invoked from network); 1 Sep 2017 07:54:41 -0000
+Received: from mail.netac.com (34.65.176.220.broad.px.jx.dynamic.163data.com.cn [220.176.65.34])
+  by mx03.futurequest.net ([69.5.6.174])
+  with SMTP via TCP; 01 Sep 2017 07:54:41 -0000
+Received: from mail.netac.com (unknown (61.202.88.66])
+	 by mail.netac.com with SMTP id 025360f8-0dc8-4308-98ef-6861e93a008f;
+	 for <2066044032@qq.com>;Fri, 01 Sep 2017 15:54:29 +08:00
+Message-ID: <fb1251842175527e50a19a04152d08ae@qq.com>
+From: "=?utf-8?B?5rGq6Jm5?=" <2066044032@qq.com>
+To: <bruce@untroubled.org>
+Subject: =?utf-8?B?4piF4piF4piF4piF4piF4omu5r6z6ZaA6YqA5rKzMTE2OTQ4?=
+	=?utf-8?B?6bueY29t772c6Ki75YaK5Y2z6YCBMzjlj4rlt6Xos4fvvZzph6bph6bvvJoz?=
+	=?utf-8?B?MzAwODE5MDbvvZznvqTomZ/vvJo1MTIxMzc1OTLvvZzmmYLmmYI5?=
+	=?utf-8?B?Ljg45YKZP2Vy?=
+Date: Fri, 01 Sep 2017 15:54:29 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Disposition-Notification-To: 2066044032@qq.com
+
+

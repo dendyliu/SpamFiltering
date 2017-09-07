@@ -1,0 +1,32 @@
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 24697 invoked from network); 31 Aug 2017 16:21:21 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 16:21:21 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 16:21:21 -0000
+Received: (qmail 14656 invoked from network); 31 Aug 2017 16:21:20 -0000
+Received: from unknown (HELO 69.5.6.152) (216.239.180.216)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 16:21:20 -0000
+X-Message-Info: PHLZcEA36eS0FazB1XavbP9C6K7m60HM
+Received: from tirana.hbwheeler.us ([119.82.62.198]) by uu55-m10.hbwheeler.us with Microsoft SMTPSVC(5.0.2195.6824);
+	 Thu, 31 Aug 2017 16:17:19 -0100
+Received: from sme3-ire5.hbwheeler.us (pinball5 [86.208.99.42])
+	by alexandre.l0.com (5.91.4/2.50.4) with ESMTP id a5HK2tx85024
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Thu, 31 Aug 2017 12:16:19 -0500 GMT
+Received: (from u5embedding@localhost)
+	by hcx5-fluctuate9.hbwheeler.us (5.42.6/9.42.0) id r1RW5cc27032;
+	Thu, 31 Aug 2017 23:15:19 +0600 GMT
+X-Authentication-Warning: jkp4-brown5.hbwheeler.us: u6bootstrap set sender to gmhafp@atsec.us using -f
+MIME-Version: 1.0
+Date: Thu, 31 Aug 2017 13:15:19 -0400
+From: Alaina Higgins <gmhafp@atsec.us>
+Subject: I am thinking about f%cking you
+To: lists-openssl-dev@bruce-guenter.dyndns.org
+Message-Id: <ocv8_ehi4-1050107683-5656557612-80-56422.4151561410@talky2>
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+
+Whazap gorgeous. I’ve seen, found your picture and loved your sexy body sooo much. I can’t stop dreaming of u . I wish to know you more. Find me <a href="http://bit.ly/2f6A1bk">on that website</a>
+

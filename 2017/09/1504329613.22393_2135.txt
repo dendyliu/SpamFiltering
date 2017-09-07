@@ -1,0 +1,46 @@
+Delivered-To: lists-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 25145 invoked from network); 1 Sep 2017 10:51:57 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 10:51:57 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 10:51:57 -0000
+Received: (qmail 13577 invoked from network); 1 Sep 2017 10:51:56 -0000
+Received: from nsg-static-90.191.75.182-airtel.com (182.75.191.90)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 10:51:56 -0000
+Date: Fri, 01 Sep 2017 16:21:54 +0530
+From: "Voicemail Service" <vmservice@bruce-guenter.dyndns.org>
+To: "lists-ezmlm@bruce-guenter.dyndns.org" <lists-ezmlm@bruce-guenter.dyndns.org>
+Subject: New voice  message 16768651458 in mailbox 167686514581 from "16768651458" <9591524492>
+Message-ID: <Asterisk-16768651458-494993098-167686514581-3097@local>
+X-Asterisk-CallerID: 9591524492
+X-Asterisk-CallerIDName: 16768651458
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_1676865145816768651458405881609792959"
+X-Nonspam: None
+
+
+This is a multi-part message in MIME format.
+
+------voicemail_1676865145816768651458405881609792959
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Dear user:
+
+just wanted to let you know you were just left a 0:33 long message (number 16768651458)
+in mailbox 167686514581 from "16768651458" <9591524492>, on Fri, 01 Sep 2017 16:21:54 +0530
+so you might want to check it when you get a chance.  Thanks!
+
+				--Voicemail Service
+
+------voicemail_1676865145816768651458405881609792959
+Content-Type: message/external-body; access-type=x-deleted; length=4737
+
+
+Content-Type: application/octet-stream; name="MSG0000000876.7z"
+Content-Transfer-Encoding: base64
+Content-Description: Voicemail archive attachment.
+Content-Disposition: attachment; filename="MSG0000000876.7z"
+
+------voicemail_1676865145816768651458405881609792959--

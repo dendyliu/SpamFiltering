@@ -1,0 +1,31 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 7729 invoked from network); 1 Sep 2017 01:31:11 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 01:31:11 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 01:31:11 -0000
+Received: (qmail 22476 invoked from network); 1 Sep 2017 01:31:10 -0000
+Received: from xtxplys.llqcd7t.com (103.18.102.207)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 01:31:10 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id 4CCCF61211A
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 10:26:56 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id 3A3EA611AC7
+	for <lists-djb-ezmlm@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 10:26:56 +0900 (JST)
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?54++5Zyo54Sh5paZ44Gn44GU5Yip55So5Y+v6IO944Go44Gq44Gj44Gm?=
+	=?UTF-8?B?44GK44KK44G+44GZ?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@fr5xfaqg.com>
+Date: Fri, 01 Sep 2017 10:31:08 +0900
+Message-ID: <b6af0a0b8b5b58a6604d892c2c415329acdb50ef>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2ZyNXhmYXFnLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTUwNDIyOTE4MSZjaWQ9MTIzMjImbWlkPTE5MzE0NTUmZGR2PTNhOGQyM2ZkOTllNTBlN2Yx
+YjBkZTRiYWMzMzliNjJkIj5odHRwOi8vZnI1eGZhcWcuY29tL2pPTDVRcHkvSm94RlJteVRrUFJC
+RnNtPC9hPjxicj4NCuKZr+KImu+9m+KGkOKUneOAle+8iOKUneKXj+OAh8O34pmt44CC
+

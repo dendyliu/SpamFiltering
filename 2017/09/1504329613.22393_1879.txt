@@ -1,0 +1,28 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 2698 invoked from network); 31 Aug 2017 23:06:17 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 23:06:17 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 23:06:17 -0000
+Received: (qmail 20159 invoked from network); 31 Aug 2017 23:06:16 -0000
+Received: from wvngsdk.llqcd7t.com (103.18.102.201)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 23:06:16 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id 3E1B261625C
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 08:05:46 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id 31A9461594C
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 08:05:46 +0900 (JST)
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?5LiN5Zyo552A5L+h44Ki44Oq?=
+From: =?UTF-8?B?44Kk44Oz44OV44Kp44Oh44O844K344On44Oz?= <info@fr5xfaqg.com>
+Date: Fri, 01 Sep 2017 08:06:15 +0900
+Message-ID: <c9c086dffa9e689916e2c525606cb756bb7d7e9d>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+不在着信がありましたのでお知らせします
+http://fr5xfaqg.com/JVwEu/WSYV/vVuYRtT5m
+

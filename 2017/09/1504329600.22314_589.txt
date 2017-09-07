@@ -1,0 +1,28 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 28715 invoked from network); 31 Aug 2017 19:05:55 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 19:05:55 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 19:05:55 -0000
+Received: (qmail 16895 invoked from network); 31 Aug 2017 19:05:54 -0000
+Received: from qjqnbql.llqcd7t.com (103.18.102.224)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 19:05:54 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id 6D3E7611939
+	for <bruce@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 04:05:38 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id 631FE611935
+	for <bruce@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 04:05:38 +0900 (JST)
+To: bruce@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?5LiN5Zyo552A5L+h44Ki44Oq?=
+From: =?UTF-8?B?44Kk44Oz44OV44Kp44Oh44O844K344On44Oz?= <info@fr5xfaqg.com>
+Date: Fri, 01 Sep 2017 04:05:52 +0900
+Message-ID: <a9b4e7ea7971b8eb1ca970b29a3bd145e289f660>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+不在着信がありましたのでお知らせします
+http://fr5xfaqg.com/GNVKR/0E
+

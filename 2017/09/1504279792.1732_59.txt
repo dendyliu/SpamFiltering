@@ -1,0 +1,66 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 26098 invoked from network); 01 Sep 2017 11:44:02 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 01 Sep 2017 11:44:02 -0000
+Received: (qmail 30864 invoked from network); 1 Sep 2017 11:44:02 -0000
+Received: from lbyoxo.club ([162.217.206.45])
+  by mx10.futurequest.net ([69.5.6.182])
+  with ESMTP via TCP; 01 Sep 2017 11:44:02 -0000
+Date: Fri, 01 Sep 2017 04:44:08 -0700
+To: <bruce@untroubled.org>
+Subject: Special Home Program for All Current/Former Government Workers. 
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.17736610.16879623@lbyoxo.club_au8>
+Mime-Version: 1.0
+From: Clayton.Morgan <Clayton.Morgan@lbyoxo.club>
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative; boundary="Section.f8f706c3938feec43d1f111ad3c0a047"
+Content-Length: 2805
+
+
+--Section.f8f706c3938feec43d1f111ad3c0a047
+Content-Type: text/plain
+
+Government Worker Benefit Announcement - Current and Former Government Employees May Be Eligible for Special Mortgage Programs.  
+Check Your Eligibility Here: http://referral.lbyoxo.club/homeprogram
+
+
+.f8f706c3938feec43d1f111ad3c0a047
+
+
+--Section.f8f706c3938feec43d1f111ad3c0a047
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body style="background-color:#fefdfc; font-family: verdana, geneva; font-size: 12px; text-align:center;">
+<table style="width: 575px;" border="0" align="center">
+<tbody>
+<tr>
+<td align="left">
+<p><span style="font-family: verdana, geneva; font-size: 22px; font-weight: normal; color: #003366;">GOVT<span style="color:red;">WORKER</span>BENEFITS</span></p>
+<p><span style="font-family: verdana, geneva; font-size: 18px; font-style: italic; color: #003366;">Benefit Announcement</span></p>
+</td>
+<td style="border-color: #4b5057; border-left: 0px solid;" align="right">
+<p><span style="font-family: 'Times New Roman', Times, serif; font-size: 16px; font-weight: normal; color: #003366;">09/01/17</p>
+<p><b><a style="color: red" href="http://referral.lbyoxo.club/homeprogram">Current/Former Govt Worker<br> Mortgage Benefit Details</a></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p><a style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14pt; font-style: normal; line-height: normal; text-transform: capitalize; font-weight: 400; color: #5674a9; text-decoration: underline overline blink;" href="http://referral.lbyoxo.club/homeprogram"><img src="http://referral.lbyoxo.club/image66" alt="GOVERNMENT EMPLOYEE BENEFITS" /></a></p>
+<br>
+<a style="font-family: Open Sans, sans-serif; font-size: 22px; color: #000000; width: 300px; padding: 12px; background-color: #ff9933; border-radius: 8px;" href="http://referral.lbyoxo.club/homeprogram"><b>See If You Qualify</b></a>
+
+<p style="font-family: Arial, Helvetica, sans-serif; font-size: small; font-style: italic; line-height: normal; text-transform: uppercase; font-weight: bold; font-variant: small-caps; color: #48b770; text-decoration: overline line-through;"><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><a href="http://referral.lbyoxo.club/deny"><img src="http://referral.lbyoxo.club/unsub41" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p style="visibility:hidden; "><br><br><br><br><br><br><br><span style="font-family: verdana, geneva; font-size: 8px; font-weight: bold; vertical-align: top; text-align: left;">-f8f706c3938feec43d1f111ad3c0a047</span></p>
+
+</body>
+</html>
+--Section.f8f706c3938feec43d1f111ad3c0a047--

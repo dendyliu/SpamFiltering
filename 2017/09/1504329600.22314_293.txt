@@ -1,0 +1,87 @@
+Delivered-To: inquiries@untroubled.org
+Received: (fqmail 14304 invoked from network); 01 Sep 2017 06:10:03 -0000
+Received: from mx11.futurequest.net (mx11.futurequest.net [69.5.6.184])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 01 Sep 2017 06:10:03 -0000
+Received: (qmail 32490 invoked from network); 1 Sep 2017 06:10:03 -0000
+Received: from static.vnpt.vn (static.vnpt.vn [14.172.222.6])
+  by mx11.futurequest.net ([69.5.6.184])
+  with ESMTP via TCP; 01 Sep 2017 06:10:02 -0000
+From: "Dropbox" <no-reply@dropbox.com>
+To: <inquiries@untroubled.org>
+Subject: Please verify your email address
+Date: Fri, 01 Sep 2017 13:10:00 +0700
+Message-ID: <979569791b1908e5-592af861-2856-4fa1-0f0e-5d2aad603a06-000000@us-west-2.amazonses.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1218_C1E48354.41A073A1"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: EHtJbIsfWhRUyMRFRdKxDXXyV+BtNA==
+X-Envelope-To: inquiries@untroubled.org
+X-Dropbox-Message-ID: 50026118142228003774
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_1218_C1E48354.41A073A1
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+
+  <https://cf.dropboxstatic.com/static/images/emails/glyph/glyph%402x.png>
+
+
+Hi inquiries,
+
+We just need to verify your email address before your sign up is complete!
+
+Verify your email
+<http://autoecoledufrene.com/dropbox.html>
+Happy Dropboxing!
+
+------=_NextPart_000_1218_C1E48354.41A073A1
+Content-Type: text/html;
+	boundary="===============6412119293345552516==";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><!--[if !mso]><!-- =
+--><style>
+            @font-face {
+                font-family: Open Sans;
+                src: =
+url('http://fonts.googleapis.com/css?family=3DOpen+Sans');
+            }
+        </style><!--<![endif]--></head><body style=3D"font-size: 31px; =
+font-family: 'Open Sans', 'HelveticaNeue-Light', 'Helvetica Neue Light',
+    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; =
+color: #404040; padding: 0; width: 100% !important; =
+-webkit-text-size-adjust: 100%; font-weight: 300 !important; margin: 0; =
+-ms-text-size-adjust: 100%;" marginheight=3D"0" marginwidth=3D"0" =
+id=3D"dbx-email-body"><div style=3D"max-width: 600px !important; =
+padding: 4px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"padding: 0 45px; width: 100% !important; padding-top: 45px; =
+border: 1px solid #F0F0F0; background-color: #FFFFFF;" border=3D"0" =
+align=3D"center"><tr><td align=3D"center">
+<table cellspacing=3D"0" border=3D"0" width=3D"100%"><tr><td =
+style=3D"font-size: 0px;text-align: left;" valign=3D"top"><img =
+width=3D"40px" style=3D"" alt=3D"The Dropbox logo" =
+src=3D"https://cf.dropboxstatic.com/static/images/emails/glyph/glyph%402x=
+.png"></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%"><tr style=3D"font-size: 16px; font-weight: =
+300; color: #404040; font-family: 'Open Sans', 'HelveticaNeue-Light', =
+'Helvetica Neue Light',
+    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; =
+line-height: 26px; text-align: left;"><td>
+<br><br>Hi inquiries,<br><br>We just need to verify your  email address before =
+your sign up is complete!<br><br><a style=3D'border-radius: 4px; =
+font-size: 15px; color: white; text-decoration: none; padding: 14px 7px =
+14px 7px; width: 210px; max-width: 210px; font-family: "Open Sans", =
+"Helvetica Neue", Arial; margin: 0; display: block; background-color: =
+#007ee6; text-align: center;' =
+href=3D"http://autoecoledufrene.com/dropbox.html">Ve=
+rify your email</a><br>Happy Dropboxing!</td></tr><tr><td =
+height=3D"40"></td></tr></table></td></tr></table></div></body></html>
+------=_NextPart_000_1218_C1E48354.41A073A1--

@@ -1,0 +1,27 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 8723 invoked from network); 1 Sep 2017 02:08:13 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 02:08:13 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 02:08:13 -0000
+Received: (qmail 22995 invoked from network); 1 Sep 2017 02:08:12 -0000
+Received: from static-ip-203-193-113-114.globalhk.biz (HELO re08.leadx.link) (114.113.193.203)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 02:08:12 -0000
+Received: from zsankuraimedai.com (unknown [103.241.16.33])
+	by re08.leadx.link (Postfix) with ESMTP id 75E0B2029B9
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 11:08:11 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCRnxIZkxuJFIkKyRqGyhC?= <mail@zsankuraimedai.com>
+To: lists-bikini@bruce-guenter.dyndns.org
+Message-ID: <1300444496.89992504.1504231691358.JavaMail.info@zsankuraimedai.com>
+Subject: =?ISO-2022-JP?B?GyRCJWEla00nOCskPyQkJEpJYURMJEo0WBsoQg==?=
+ =?ISO-2022-JP?B?GyRCNzgkQyRGJEkkJjtXJCQkXiQ5JCshKRsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+
+http://uopgu.zsankuraimedai.com/as/member/message/Message-reply.html?pp=cWExsv0LWeIs3odTVA-SeA==&message_id=1872961000
+
+
+

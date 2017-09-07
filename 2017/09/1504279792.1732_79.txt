@@ -1,0 +1,67 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 30656 invoked from network); 01 Sep 2017 15:11:27 -0000
+Received: from mx03.futurequest.net (mx03.futurequest.net [69.5.6.174])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 01 Sep 2017 15:11:27 -0000
+Received: (qmail 19713 invoked from network); 1 Sep 2017 15:11:27 -0000
+Received: from mail.people2meetthat.loan (116-2-88-167.reverse-dns [167.88.2.116])
+  by mx03.futurequest.net ([69.5.6.174])
+  with ESMTP via TCP; 01 Sep 2017 15:11:26 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=people2meetthat.loan;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=heidi.bendick@people2meetthat.loan;
+ bh=oq28jMVTy5SiwaYf4pcLFB1bWUc=;
+ b=a4jB+G+g6xXGC9rvUP65LdZwvoTpPlaE9c0on5oBci4WBm6luVI32IbqMw11vgYKi8foDyAjfa7V
+   CykGaWk/9jVFGqngrfdF5jkwhnRglB6tZpDfkIVzqUJPCGzl16neK1871Fssm765QLTdRisOtSOt
+   LgvYkkulw8xnEXBWBvY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=people2meetthat.loan;
+ b=TURnJXMt70Qw1l2ldTeEfMRfNfOZ7vG52eitcT6qu6Qq50TkQHn3cgrBtKt8PUGgKbNNmQzAX+D6
+   3qpQ8ULsa2EzjitbJTw06GqxjYcAOXZ+1qOLVBrgg2TxZTH0tI1mNCA35vVgO7b3IUvq0ut7qNBT
+   rbIi6bBP6v0G2L7L8Yo=;
+Received: by mail.people2meetthat.loan id hl5u5i0001gp for <bruce@untroubled.org>; Fri, 1 Sep 2017 11:14:42 -0400 (envelope-from <heidi.bendick-bruce=untroubled.org@people2meetthat.loan>)
+Date: Fri, 1 Sep 2017 11:14:42 -0400
+From: Heidi Bendick <heidi.bendick@people2meetthat.loan>
+To:   <bruce@untroubled.org>
+Subject: Congrats! You've Received a $50 Reward - See Inside
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_430_1728258431.1504277923686"
+List-Unsubscribe: <http://www.people2meetthat.loan/trouser-inkings/ef4s8U9zr11hfe6WLkVMOFVgUkhVLxONzhkracb>
+Message-ID: <0.0.0.2F.1D3233509CFF9F0.470BBE@mail.people2meetthat.loan>
+Content-Length: 4295
+
+------=_Part_430_1728258431.1504277923686
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+You have been selected to Receive $50 in Walgreens Reward
+If you are experiencing difficulty viewing this message,  visit here. 
+
+Please take our Walgreens customer feedback survey
+and earn a $50 Walgreens Reward!
+http://www.people2meetthat.loan/7af86oy4601Kfe6GLkVMOFVgUkhVLxONzhkr32d/trouser-inkings
+
+
+
+
+If you'd prefer not to receive future emails, go here. 
+List Management Dept.  PO Box 4668 #85919
+ New York, NY 10163-4668
+http://www.people2meetthat.loan/concentrations-describe/1d48U6K46_03Nfe6uLkVMOFVgUkhVLxONzhkr9be
+
+------=_Part_430_1728258431.1504277923686
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><font face="Arial, Helvetica, sans-serif" size="2"><strong><a href="http://www.people2meetthat.loan/concentrations-describe/d6e8GQ64601Kfe6ALkVMOFVgUkhVLxONzhkr1c5" target="_blank">You have been selected to Receive $50 in Walgreens Reward</a></strong></font><br /> <span style="color: rgb(102, 102, 102); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; ">If you are experiencing difficulty viewing this message,&nbsp; </span><a href="http://www.people2meetthat.loan/concentrations-describe/d6e8GQ64601Kfe6ALkVMOFVgUkhVLxONzhkr1c5" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; " target="_blank">visit here.</a></p> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><strong><span style="font-family: arial, helvetica, sans-serif; ">Please take our Walgreens customer feedback survey<br /> and earn a $50 Walgreens Reward!</span></strong></p> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><a href="http://www.people2meetthat.loan/concentrations-describe/d6e8GQ64601Kfe6ALkVMOFVgUkhVLxONzhkr1c5"><img alt="" data-height="0" data-width="0" height="102" id="lp-image" src="http://www.people2meetthat.loan/953R7aB4604ufe6PLkVMOFVgUkhVLxONzhkr5a3/henchmen-plebian" width="570" /></a><br /> <br /> <span style="font-family: arial, helvetica, sans-serif; "><strong><span style="font-size: 18px; "><a href="http://www.people2meetthat.loan/concentrations-describe/d6e8GQ64601Kfe6ALkVMOFVgUkhVLxONzhkr1c5">Get Started</a></span></strong></span></p> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><br /> <br /> <br /> <br /> <br /> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.people2meetthat.loan/11q8D6k4602Jfe6QLkVMOFVgUkhVLxONzhkr675/concentrations-describe">go here</a><a href="http://www.people2meetthat.loan/henchmen-plebian/be886qg4Y603Ofe6JLkVMOFVgUkhVLxONzhkr1e4">.</a><br /> List Management Dept. </font><span style="font-size:12px; ">PO Box 4668 #85919<br /> &nbsp; New York, NY 10163-4668</span></p>   
+ <img src="http://www.people2meetthat.loan/101j85q4605gfe6RLkVMOFVgUkhVLxONzhkr5rd/sportswriting-Jeannie" alt=""/></body>
+</html>
+
+------=_Part_430_1728258431.1504277923686--

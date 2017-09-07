@@ -1,0 +1,46 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 26607 invoked from network); 1 Sep 2017 11:29:04 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 11:29:04 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 11:29:04 -0000
+Received: (qmail 14838 invoked from network); 1 Sep 2017 11:29:03 -0000
+Received: from abts-kk-dynamic-040.211.178.122.airtelbroadband.in (122.178.211.40)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 11:29:03 -0000
+Date: Fri, 01 Sep 2017 16:59:03 +0530
+From: "Voicemail Service" <vmservice@bruce-guenter.dyndns.org>
+To: "lists-djb-ezmlm@bruce-guenter.dyndns.org" <lists-djb-ezmlm@bruce-guenter.dyndns.org>
+Subject: New voice  message 14184191579 in mailbox 141841915791 from "14184191579" <9933993708>
+Message-ID: <Asterisk-14184191579-157157257-141841915791-3097@local>
+X-Asterisk-CallerID: 9933993708
+X-Asterisk-CallerIDName: 14184191579
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_1418419157914184191579562740848782293"
+X-Nonspam: None
+
+
+This is a multi-part message in MIME format.
+
+------voicemail_1418419157914184191579562740848782293
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Dear user:
+
+just wanted to let you know you were just left a 0:24 long message (number 14184191579)
+in mailbox 141841915791 from "14184191579" <9933993708>, on Fri, 01 Sep 2017 16:59:03 +0530
+so you might want to check it when you get a chance.  Thanks!
+
+				--Voicemail Service
+
+------voicemail_1418419157914184191579562740848782293
+Content-Type: message/external-body; access-type=x-deleted; length=4750
+
+
+Content-Type: application/octet-stream; name="MSG0000000548.7z"
+Content-Transfer-Encoding: base64
+Content-Description: Voicemail archive attachment.
+Content-Disposition: attachment; filename="MSG0000000548.7z"
+
+------voicemail_1418419157914184191579562740848782293--

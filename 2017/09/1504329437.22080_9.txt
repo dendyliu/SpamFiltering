@@ -1,0 +1,76 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7823 invoked from network); 02 Sep 2017 00:03:11 -0000
+Received: from mx09.futurequest.net (mx09.futurequest.net [69.5.6.181])
+  by 10.170.1.170 ([10.170.1.170])
+  with FQDP via TCP; 02 Sep 2017 00:03:11 -0000
+Received: (qmail 7816 invoked from network); 2 Sep 2017 00:03:11 -0000
+Received: from harvest.wsmrt.bid (104-168-65-249-host.colocrossing.com [104.168.65.249])
+  by mx09.futurequest.net ([69.5.6.181])
+  with ESMTP via TCP; 02 Sep 2017 00:03:11 -0000
+Date: Fri, 01 Sep 2017 17:03:18 -0700
+Mime-Version: 1.0
+Subject: You Have Been Chosen to Receive a $50 Voucher for Your Local Target (Ends Labor Day)
+From: Target Customer Relations <Target_Customer_Relations@harvest.wsmrt.bid>
+Content-Type: multipart/alternative; boundary="----=_Part_592_12962759.16797171"
+Content-Transfer-Encoding: 8bit
+To: <bruce@untroubled.org>
+Okay: 12962759-f8f706c3938feec43d1f111ad3c0a047_16797171
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.Dieffenbachia.Phyllostomidae.@harvest.wsmrt.bid_8sa>
+Content-Length: 3099
+
+
+------=_Part_592_12962759.16797171
+Content-Type: text/plain
+
+Greetings bruce@untroubled.org!
+
+Your latest activity qualifies you for a new Target promotional gift.
+
+*PRINT YOUR $50 VOUCHER* here: http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047
+
+Only until 09/03/17. (See Details here: http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047
+
+
+
+
+------=_Part_592_12962759.16797171
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset=us-ascii
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>CVS</title> 
+ </head> 
+ <body style="background-color:#d2d2d2; "> 
+  <br /> 
+  <table style="color:#fff; padding:10px; background-color:#fe2d29; " width="550" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; padding:5px; "> <a href="http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047" style="text-decoration:none; color:#fff; "> <p style="margin:0; font-size:50px; color:#fff; font-family:helvetica; "> <b><strong>TARGET</strong></b> </p> <p style="margin:0; font-size:20px; color:#fff; font-family:sans-serif; "> </p> </a> </td> 
+     <td style="text-align:center; "> <a href="http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047" style="text-decoration:none; "> 
+       <table style="color:#fff; font-family:helvetica font-size:14px; " align="center"> 
+        <tbody> 
+         <tr> 
+          <td><strong> Clothing |</strong></td> 
+          <td><strong> Household |</strong></td> 
+          <td><strong> Luxury Beauty </strong></td> 
+         </tr> 
+        </tbody> 
+       </table> </a> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+  <table style="background-color: #fff; color:#fe2d29; " width="550" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:left; padding:10px; font-family:helvetica"> <p style="font-size:27px; "> Hello bruce@untroubled.org!<br /><br /> Your latest activity qualifies you to a new promotional gift. <a href="http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047" style="text-decoration:none; "> </a></p> <a href="http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047" style="text-decoration:none; "> <p style="text-align:center; margin:10px; background-color:#fe2d29; padding: 10px 20px; color:#FFF; font-size:23px; font-family:helvetica; "> <strong> <i>Print Your $50 Voucher</i> </strong> </p> </a> <p style="text-align:center; margin:0; font-size:13px; font-family:helvetica; "> Only until this Sunday. <a href="http://getithere.wsmrt.bid/couple/f8f706c3938feec43d1f111ad3c0a047">(See Details)</a> </p> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <br /> 
+<center><p><br><br><br><br><br><br><br><br><br><br><a href="http://getithere.wsmrt.bid/gladness/16797171_modify"><img src="http://getithere.wsmrt.bid/behold/_unsubmain" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p></center>
+</body>
+</html>
+------=_Part_592_12962759.16797171--

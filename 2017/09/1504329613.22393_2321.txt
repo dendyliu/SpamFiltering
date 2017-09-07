@@ -1,0 +1,37 @@
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 17151 invoked from network); 2 Sep 2017 02:10:02 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 Sep 2017 02:10:02 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 Sep 2017 02:10:02 -0000
+Received: (qmail 326 invoked from network); 2 Sep 2017 02:10:00 -0000
+Received: from unknown (HELO 69.5.6.152) (168.197.14.130)
+  by zak.futurequest.net with SMTP; 2 Sep 2017 02:10:00 -0000
+X-Message-Info: 3oFKnV19BtY2B3DYuELgonqqyTbGc52U
+Received: from by.gca.gustavus.ak.us ([157.133.61.176]) by wj9-l37.gca.gustavus.ak.us with Microsoft SMTPSVC(5.0.2195.6824);
+	 Sat, 02 Sep 2017 08:04:59 +0500
+Received: from babe.gca.gustavus.ak.us (minibike.gca.gustavus.ak.us [6.81.31.16])
+	by bump.gca.gustavus.ak.us (8.12.10/8.12.9) with ESMTP id d0NLPoNR244927
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Sat, 02 Sep 2017 01:08:59 -0200 (EST)
+	(envelope-from kcegainzabs@ci.shrewsbury.ma.us)
+Received: from AM360459361364 (modemcable905.075-049-56.tc.gca.gustavus.ak.us [239.64.51.251])
+	(authenticated bits=0)
+	by earthy.gca.gustavus.ak.us (8.12.10/8.12.9) with ESMTP id h6VDC6qm976958
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Sat, 02 Sep 2017 08:00:59 +0500 (EST)
+	(envelope-from kcegainzabs@ci.shrewsbury.ma.us)
+Message-ID: <190619g8huk9$ng4e2f09$4266d8m9@EA113473227778>
+From: "Alessandra Stanley" <kcegainzabs@ci.shrewsbury.ma.us>
+To: <Lists-openssl-dev>
+Subject: want to be my new f#ckbuddy
+Date: Fri, 01 Sep 2017 23:01:59 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+
+Hi I am only looking for a beautiful guy to enjoy day with. I think that you would enjoy to spend a day with me. 
+
+Text me <a href="http://bit.ly/2vmXknx">there</a> tonight. I miss you already. 
+
+

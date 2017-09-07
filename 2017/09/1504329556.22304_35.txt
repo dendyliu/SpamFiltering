@@ -1,0 +1,28 @@
+Delivered-To: bait@untroubled.org
+Received: (fqmail 26199 invoked from network); 31 Aug 2017 20:55:18 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 31 Aug 2017 20:55:18 -0000
+Received: (qmail 26964 invoked from network); 31 Aug 2017 20:55:17 -0000
+Received: from rmi.ge (rmi.ge [217.147.231.235])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 31 Aug 2017 20:55:17 -0000
+Received: from User ([40.69.217.93])
+	(authenticated bits=0)
+	by rmi.ge (8.13.8/8.13.8) with ESMTP id v7VKnAV4007069;
+	Fri, 1 Sep 2017 00:49:11 +0400
+Message-Id: <201708312049.v7VKnAV4007069@rmi.ge>
+Reply-To: <changgordon61@yahoo.com.hk>
+From: "GORD CHO"<laz@rmi.ge>
+Subject: INFO!!
+Date: Thu, 31 Aug 2017 21:49:27 +0100
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+I have important transaction for you as next of kin to claim US$8.37m  email me at changgordon61@yahoo.com.hk so I can send you more details

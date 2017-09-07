@@ -1,0 +1,40 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 10884 invoked from network); 1 Sep 2017 03:22:50 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 03:22:50 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 03:22:50 -0000
+Received: (qmail 24008 invoked from network); 1 Sep 2017 03:22:49 -0000
+Received: from kyjzkmw.llqcd7t.com (103.18.102.204)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 03:22:49 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id E1A5061197C
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 12:22:33 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id D2C14611580
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 12:22:33 +0900 (JST)
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?6YqA6KGM5ZCN44Go5pSv5bqX5ZCN44Go5Y+j5bqn56iu5Yil44Go5Y+j?=
+	=?UTF-8?B?5bqn55Wq5Y+344Go5Y+j5bqn5ZCN576p44Gg44GR44CB56eB44GM6LK05pa544Gr?=
+	=?UTF-8?B?5Lyd44GI44Gm44KL44Gu44Gv44Gd44Gu5oOF5aCx44KS5pWZ44GI44Gm44GP44Gg?=
+	=?UTF-8?B?44GV44GE44Go44GE44GG5LqL44Gn44GZ44CC44Gd44Gu5Y+j5bqn44GrMeWEhA==?=
+	=?UTF-8?B?5YaG44KS54Sh5YSf44Gn5oyv44KK6L6844G/44G+44GZ44CC5Yu/6KuW44CM5LuK?=
+	=?UTF-8?B?44CN44Gn44GZ44CC5L2V5pWF44Gq44KJ56eB44Gr44Gv44G+44GK44GG5pmC6ZaT?=
+	=?UTF-8?B?44GM5q6L44GV44KM44Gm44GE44Gq44GE44Gu44Gn44GZ44CC44Gd44Gu55CG55Sx?=
+	=?UTF-8?B?44Gv6LK05pa544KC44GU5a2Y55+l44Gu6YCa44KK44CB44GK5Yy76ICF5qeY44Gr?=
+	=?UTF-8?B?5L2Z5ZG95a6j5ZGK44KS44GV44KM44Gm44GX44G+44Gj44Gf44GL44KJ44CC55eF?=
+	=?UTF-8?B?5ZCN44Gv55mM44Gn44CB44KC44GG5pei44Gr5pyr5pyf44Gq44KT44Gg44Gd44GG?=
+	=?UTF-8?B?44Gn44GZ44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@fr5xfaqg.com>
+Date: Fri, 01 Sep 2017 12:22:47 +0900
+Message-ID: <f84344e6bda3e6a3261694c3672b408a3adb89a1>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2ZyNXhmYXFnLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTUwNDIzNjEyNiZjaWQ9MTIzOTcmbWlkPTE5MzE4MjQmZGR2PWQ0NzMzMWZmOTE2NGQ0YWMw
+NTIyNGMzMDk2Y2QwMmMxIj5odHRwOi8vZnI1eGZhcWcuY29tL1dKQjl1WGFpPC9hPjxicj4NCuKI
+guOAiu+/oeKUgsKw4oip4oCm44CD772jw5fvvLzilLPilqDih5Q=
+

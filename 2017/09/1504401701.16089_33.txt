@@ -1,0 +1,24 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 11863 invoked from network); 02 Sep 2017 15:25:05 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 02 Sep 2017 15:25:05 -0000
+Received: (qmail 16474 invoked from network); 2 Sep 2017 15:25:05 -0000
+Received: from taab.com ([183.40.12.90])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 02 Sep 2017 15:25:04 -0000
+Received: from USER-20170826NP ([127.0.0.1]) by localhost via TCP with ESMTPA; Sat, 02 Sep 2017 23:21:13 +0800
+MIME-Version: 1.0
+From: =?utf-8?Q?=E4=BB=A3=E5=BC=80=E6=AD=A3=E8=A7=84=E7=99=BC=E7=A5=A8=E9=9C=80=E7=94=B513917405230?= <oaccemwgb@taab.com>
+Sender: =?utf-8?Q?=E4=BB=A3=E5=BC=80=E6=AD=A3=E8=A7=84=E7=99=BC=E7=A5=A8=E9=9C=80=E7=94=B513917405230?= <oaccemwgb@taab.com>
+To: bruce@untroubled.org
+Date: 2 Sep 2017 23:21:13 +0800
+Subject: =?utf-8?B?5Luj5byA5q2j6KeE55m856Wo6ZyA55S1MTM5MTc0MDUyMzA=?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGJvZHk+77yI5oq15omj44CB5oql6ZSA44CB5YGa6LSm77yJ77yM5pmu6YCa5aKe
+5YC85LiT55So5aKe5YC855m856Wo77yM5Z2H5Y+v5Yqe55CGLOeCueaVsOS8mOaDoO+8jOmq
+jOWQjuS7mOasvi4uLjxCUj7miYvmnLrlvq7kv6HlkIzlj7fvvJoxMzkxNzQwNTIzMOadjue7
+j+eQhjwvYm9keT48L2h0bWw+
+

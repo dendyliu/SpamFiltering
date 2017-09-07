@@ -1,0 +1,27 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 11677 invoked from network); 1 Sep 2017 03:46:45 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 03:46:45 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 03:46:45 -0000
+Received: (qmail 24370 invoked from network); 1 Sep 2017 03:46:44 -0000
+Received: from static-ip-191-193-113-114.globalhk.biz (HELO re08.leadx.link) (114.113.193.191)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 03:46:44 -0000
+Received: from zsankuraimedai.com (unknown [103.241.16.33])
+	by re08.leadx.link (Postfix) with ESMTP id C53FC202967
+	for <bruce@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 12:46:43 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCS2UhJiRmJCYkMxsoQg==?= <mail@zsankuraimedai.com>
+To: bruce@bruce-guenter.dyndns.org
+Message-ID: <622424246.90046765.1504237603790.JavaMail.info@zsankuraimedai.com>
+Subject: =?ISO-2022-JP?B?GyRCJCo3OyRBJGMkcyFESzskNyQkJDcbKEI=?=
+ =?ISO-2022-JP?B?GyRCISIycSQoJEYkSiQkJEckNyRnIUQhKRsoQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+
+http://lafpy.zsankuraimedai.com/as/member/message/Message-reply.html?pp=OTY5HbojjqMs3odTVA-SeA==&message_id=1873025484
+
+
+

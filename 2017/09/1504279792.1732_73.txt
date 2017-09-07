@@ -1,0 +1,74 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 32712 invoked from network); 01 Sep 2017 14:52:09 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 01 Sep 2017 14:52:09 -0000
+Received: (qmail 25688 invoked from network); 1 Sep 2017 14:52:08 -0000
+Received: from xtsgh.trade ([104.167.4.120])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 Sep 2017 14:52:08 -0000
+Date: Fri, 01 Sep 2017 07:45:33 -0700
+Content-Transfer-Encoding: 8bit
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="Section.f8f706c3938feec43d1f111ad3c0a047"
+Subject: Banks Are Competing for Your Business. Shop Lower Rates and Save.
+To: <bruce@untroubled.org>
+From: Troy.Phillips <Troy.Phillips@xtsgh.trade>
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.4886650.15559663@xtsgh.trade_4yn>
+Content-Length: 3905
+
+
+--Section.f8f706c3938feec43d1f111ad3c0a047
+Content-Type: text/plain
+
+Millions of Americans are eligible for lower home rates. Take the FHA Quiz to see if you're eligible to save thousands on your home payments, Exclusively Here>>> http://welcoming.xtsgh.trade/lower-rates 
+
+
+.f8f706c3938feec43d1f111ad3c0a047
+
+--Section.f8f706c3938feec43d1f111ad3c0a047
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body>
+<table style="width: 575px;" border="0" align="center">
+<tbody>
+<tr>
+<td align="left">
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 22px; font-weight: normal; color: #003366;"><b>FHA<span style="color:red;">MORTGAGE</span>RATES</b></span></p>
+
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14px; font-style: italic; color: #003366;">More Americans Are Eligible for Historic Low Rates</span></p>
+
+</td>
+<td style="border-color: #f9f9fa; border-left: 2px solid;" align="right">
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #003366;">Aug. 24, 2017</p>
+<p><b><a style="color: red" href="http://welcoming.xtsgh.trade/lower-rates">FHA Benefit Details</a></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+<center>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14pt; font-style: italic; color: #003366;">HARP Will NOT Be Extended.<br> The Home Savings Program will expire on 9/30/2017.</span></p>
+
+<p><a style="font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 16pt; line-height: 3pt; text-transform: uppercase; font-weight: 500; font-variant-ligatures: normal; font-variant-caps: normal; color: #5674a9; text-decoration: underline;" href="http://welcoming.xtsgh.trade/lower-rates"><img src="http://welcoming.xtsgh.trade/mainimage" alt="FHA.MORTGAGE.RATES" /></a></p>
+<br>
+
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; color: #003366;">3.6 million Americans have found substantial savings through HARP.<br> You can save up to $320 per month <i>per Freddie Mac Research</i>.</span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; color: #003366;">All you need to do is take 2 minutes right now<br> to <a style="color: red" href="http://welcoming.xtsgh.trade/lower-rates">secure your savings</a> before HARP?? is gone for good.</span></p>
+<p><span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; color: #003366;">There is still time to <a style="color: red" href="http://welcoming.xtsgh.trade/lower-rates">lock up your new rate</a>,<br> so please take this 2-minutes to view all your options.</span></p>
+<br/>
+
+<a style="font-family: Open Sans, sans-serif; font-size: 22px; color: #ffffff; width: 300px; padding: 12px; background-color: #29A3FF; border-radius: 1px;" href="http://welcoming.xtsgh.trade/lower-rates"><b>View Your Options Here</b></a>
+
+<p style="font-family: 'Times New Roman', Times, serif; font-size: medium; font-style: oblique; line-height: normal; text-transform: lowercase; font-weight: bolder; font-variant-ligatures: normal; font-variant-caps: normal; color: #e65218; text-decoration: overline line-through;"><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><a href="http://welcoming.xtsgh.trade/close"><img src="http://welcoming.xtsgh.trade/unsubpic6" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p style="visibility:hidden; "><br><br><br><br><br><br><br><span style="font-family: verdana, geneva; font-size: 8px; font-weight: bold; vertical-align: top; text-align: left;">+f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+</body>
+</html>
+--Section.f8f706c3938feec43d1f111ad3c0a047--

@@ -1,0 +1,87 @@
+Received: (qmail 783 invoked from network); 31 Aug 2017 21:58:59 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 21:58:59 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 21:58:59 -0000
+Received: (qmail 19261 invoked from network); 31 Aug 2017 21:58:58 -0000
+Received: from oai-br02-41-182-184-145.ipb.na (41.182.184.145)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 21:58:58 -0000
+From: "Dropbox" <no-reply@dropbox.com>
+To: <bruce-lists-djb-ezmlm@bruce-guenter.dyndns.org>
+Subject: Please verify your email address
+Date: Thu, 31 Aug 2017 22:58:55 +0200
+Message-ID: <5977277385b7df9f-7ad7f8e5-3494-31c6-83fb-a85317068f2b-000000@us-west-2.amazonses.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1218_7F2B6A22.F09A9099"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: ldoxhxsJFUFHFWaVqvFXYtysI+BtNA==
+X-Envelope-To: bruce-lists-djb-ezmlm@bruce-guenter.dyndns.org
+X-Dropbox-Message-ID: 24567768320964696155
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_1218_7F2B6A22.F09A9099
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+
+  <https://cf.dropboxstatic.com/static/images/emails/glyph/glyph%402x.png>
+
+
+Hi bruce-lists-djb-ezmlm,
+
+We just need to verify your email address before your sign up is complete!
+
+Verify your email
+<http://bayimpex.be/dropbox.html>
+Happy Dropboxing!
+
+------=_NextPart_000_1218_7F2B6A22.F09A9099
+Content-Type: text/html;
+	boundary="===============6412119293345552516==";
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><!--[if !mso]><!-- =
+--><style>
+            @font-face {
+                font-family: Open Sans;
+                src: =
+url('http://fonts.googleapis.com/css?family=3DOpen+Sans');
+            }
+        </style><!--<![endif]--></head><body style=3D"font-size: 31px; =
+font-family: 'Open Sans', 'HelveticaNeue-Light', 'Helvetica Neue Light',
+    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; =
+color: #404040; padding: 0; width: 100% !important; =
+-webkit-text-size-adjust: 100%; font-weight: 300 !important; margin: 0; =
+-ms-text-size-adjust: 100%;" marginheight=3D"0" marginwidth=3D"0" =
+id=3D"dbx-email-body"><div style=3D"max-width: 600px !important; =
+padding: 4px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"padding: 0 45px; width: 100% !important; padding-top: 45px; =
+border: 1px solid #F0F0F0; background-color: #FFFFFF;" border=3D"0" =
+align=3D"center"><tr><td align=3D"center">
+<table cellspacing=3D"0" border=3D"0" width=3D"100%"><tr><td =
+style=3D"font-size: 0px;text-align: left;" valign=3D"top"><img =
+width=3D"40px" style=3D"" alt=3D"The Dropbox logo" =
+src=3D"https://cf.dropboxstatic.com/static/images/emails/glyph/glyph%402x=
+.png"></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"100%"><tr style=3D"font-size: 16px; font-weight: =
+300; color: #404040; font-family: 'Open Sans', 'HelveticaNeue-Light', =
+'Helvetica Neue Light',
+    'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; =
+line-height: 26px; text-align: left;"><td>
+<br><br>Hi bruce-lists-djb-ezmlm,<br><br>We just need to verify your  email address before =
+your sign up is complete!<br><br><a style=3D'border-radius: 4px; =
+font-size: 15px; color: white; text-decoration: none; padding: 14px 7px =
+14px 7px; width: 210px; max-width: 210px; font-family: "Open Sans", =
+"Helvetica Neue", Arial; margin: 0; display: block; background-color: =
+#007ee6; text-align: center;' =
+href=3D"http://bayimpex.be/dropbox.html">Ve=
+rify your email</a><br>Happy Dropboxing!</td></tr><tr><td =
+height=3D"40"></td></tr></table></td></tr></table></div></body></html>
+------=_NextPart_000_1218_7F2B6A22.F09A9099--

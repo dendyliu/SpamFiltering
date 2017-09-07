@@ -1,0 +1,71 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 7376 invoked from network); 01 Sep 2017 14:12:41 -0000
+Received: from mx02.futurequest.net (mx02.futurequest.net [69.5.6.172])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 01 Sep 2017 14:12:41 -0000
+Received: (qmail 11140 invoked from network); 1 Sep 2017 14:12:41 -0000
+Received: from mail.people5extendsomething.loan (110-2-88-167.reverse-dns [167.88.2.110])
+  by mx02.futurequest.net ([69.5.6.172])
+  with ESMTP via TCP; 01 Sep 2017 14:12:39 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=people5extendsomething.loan;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=thank_you_from_shopper_feedback@people5extendsomething.loan;
+ bh=2FESWXtv3hsHiXSO6Xvjams0BO0=;
+ b=z2IHML2OYGDIkQHHM7XClyg5/0zm/lh8klNrO0uiwqI0fABr9uZHsc3vL9TcO0tuJQCvWHaUPHNB
+   NXDGqWFOb+3CLc37gzLOMO1je2gmhT4oCSFWJNW7PN9hK9nYYm+2zLbsy6tChCGxgZkV/HmIMmWH
+   MiBiTsJgtFIIZDRw/HE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=people5extendsomething.loan;
+ b=q7bfiFDR0haIQwukII3CbcJH9vQ1tIZu6t0JLx899rn45X29E9kbSxcMrRBDEWJbKtffkCdP3y/c
+   KQqEqNZrXlajQ5Z1GonkPzNdi7OQfwtIpUaC+9wNC3NmyvsDbGX0ZOaojAT7ta0nyL0UI+i+ip3I
+   9iJ1rFH1B5WNJN3EjgY=;
+Received: by mail.people5extendsomething.loan id hl5n960001g8 for <bruce@untroubled.org>; Fri, 1 Sep 2017 10:19:19 -0400 (envelope-from <thank_you_from_shopper_feedback-bruce=untroubled.org@people5extendsomething.loan>)
+Date: Fri, 1 Sep 2017 10:19:19 -0400
+From: "Thank You From Shopper Feedback" <thank_you_from_shopper_feedback@people5extendsomething.loan>
+To:   <bruce@untroubled.org>
+Subject: shipping information needed for your American Airlines Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_196_479849353.1504274587199"
+List-Unsubscribe: <http://www.people5extendsomething.loan/c418gN911Drufe5DLkVMOFVgUkhVLxONzhkra35/strides-Kraemer>
+Message-ID: <0.0.0.15.1D3232D4CCE4CDC.32E7BB@mail.people5extendsomething.loan>
+Content-Length: 4218
+
+------=_Part_196_479849353.1504274587199
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+How was your last flight with American Airlines? Tell us and receive $50 in rewards*
+If you are experiencing difficulty viewing this message,  visit here. 
+
+You choosing to fly with American Airlines means the world to us!
+Take a quick 6 question survey and we will give you a $50. 00 reward. 
+
+Are you happy with the price of fairs?
+Is our seating comfortable and up spacious?
+Do you think all flights need wifi?
+
+Click here to participate in our feedback survey
+http://www.people5extendsomething.loan/bab8G6w461_2GXfe5YLkVMOFVgUkhVLxONzhkrc71/demoralizes-suggest
+unsubscribe, follow this link. 
+Or write to:
+http://www.people5extendsomething.loan/2ff8Z6zn4B614Ife5HLkVMOFVgUkhVLxONzhkrbdb/chuckles-soviets
+PO Box 4668 #85919
+New York, NY 10163-4668
+
+------=_Part_196_479849353.1504274587199
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="text-align: center; "><font face="Arial, Helvetica, sans-serif" size="2"><strong><a href="http://www.people5extendsomething.loan/auction-sidecar/e5e8Q6y4612ife5mLkVMOFVgUkhVLxONzhkr981" target="_blank">How was your last flight with American Airlines? Tell us and receive $50 in rewards*</a></strong></font><br /> <span style="color: rgb(102, 102, 102); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; ">If you are experiencing difficulty viewing this message,<a href="http://www.people5extendsomething.loan/samples-congregating/daaUg86461G3pfe5CLkVMOFVgUkhVLxONzhkrc8e">&nbsp; </a></span><a href="http://www.people5extendsomething.loan/auction-sidecar/e5e8Q6y4612ife5mLkVMOFVgUkhVLxONzhkr981" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; " target="_blank">visit here.</a></p> 
+  <p style="text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">You choosing to fly with American Airlines means the world to us!</span><br /> Take a quick 6 question survey and we will give you a $50.00 reward.<br /> <br /> Are you happy with the price of fairs?<br /> Is our seating comfortable and up spacious?<br /> Do you think all flights need wifi?<br /> <br /> <a href="http://www.people5extendsomething.loan/auction-sidecar/e5e8Q6y4612ife5mLkVMOFVgUkhVLxONzhkr981">Click here to participate in our feedback survey</a><br /> &nbsp; </p> 
+  <p style="text-align: center; "><a href="http://www.people5extendsomething.loan/auction-sidecar/e5e8Q6y4612ife5mLkVMOFVgUkhVLxONzhkr981"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.people5extendsomething.loan/a617aRU46D1H6zfe5zLkVMOFVgUkhVLxONzhkr9dd/samples-congregating" style="width: 368px; height: 137px; " /></a></p> 
+  <p style="text-align: center; "><br /> <br /> <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.people5extendsomething.loan/auction-sidecar/e5e8Q6y4612ife5mLkVMOFVgUkhVLxONzhkr981">Get started</a></span></p> 
+  <p style="text-align: center; "><a href="http://www.people5extendsomething.loan/auction-sidecar/e5e8Q6y4612ife5mLkVMOFVgUkhVLxONzhkr981"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.people5extendsomething.loan/loins-adversary/c247aQy4y617Rfe5oLkVMOFVgUkhVLxONzhkr9be" style="width: 309px; height: 163px; " /></a><br /> <br /> <br /> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.people5extendsomething.loan/demoralizes-suggest/9cc86h_L4614lfe5KLkVMOFVgUkhVLxONzhkre8c"><font color="#666666">Unsubscribe Here</font></a><a href="http://www.people5extendsomething.loan/sidings-furthermore/e40_s864615Nfe5ILkVMOFVgUkhVLxONzhkrb43">.</a><br /> List Management Dept. PO box 971, Reno NV 89504</font><br /> <br /> <br /> &nbsp; </p> <style size="decadent"><style dir="mushrooming"></style></style><small></small><style face="ruffles"></style><span face="strictest"></span><span></span>  
+ <img src="http://www.people5extendsomething.loan/e3f85BJ4ox618Zfe5OLkVMOFVgUkhVLxONzhkr1c7/sidings-furthermore" alt=""/></body>
+</html>
+
+------=_Part_196_479849353.1504274587199--

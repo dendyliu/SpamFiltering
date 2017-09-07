@@ -1,0 +1,22 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 14802 invoked from network); 2 Sep 2017 00:33:16 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 Sep 2017 00:33:16 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 Sep 2017 00:33:16 -0000
+Received: (qmail 31465 invoked from network); 2 Sep 2017 00:33:15 -0000
+Received: from sv170501120-67.geek-apps.com (HELO becm.d7kiynu8aki9kk.net) (116.206.120.67)
+  by zak.futurequest.net with SMTP; 2 Sep 2017 00:33:15 -0000
+Date: Sat, 2 Sep 2017 09:30:34 +0900
+From: =?Shift_JIS?B?jbKToSA=?=<mail@becm.d7kiynu8aki9kk.net>
+To: lists-linux-xfs@bruce-guenter.dyndns.org<lists-linux-xfs>
+Message-id: <r9si0.ywPG7M@x2xL.VWt4GJ>
+Subject: =?Shift_JIS?B?gqiLdoK1gtSC6ILFgreBQY2yk6GCxYK3?=
+Mime-version: 1.0
+Content-type: text/plain; charset=Shift_JIS
+Content-transfer-encoding: 7bit
+
+Ç®ë“ÇΩÇπÇµÇ‹ÇµÇΩÅAñÒë©ÇÃÇ‡ÇÃëóÇËÇ‹Ç∑ÅB
+http://becm.2r2euxh8gf4ksp75cd7zj8a.net/Us5W/uUgubZAaWx7YxUWxbYxbUtQ2G8XKR
+

@@ -1,0 +1,28 @@
+Delivered-To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Received: (qmail 30629 invoked from network); 1 Sep 2017 13:24:26 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 13:24:26 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 13:24:26 -0000
+Received: (qmail 22462 invoked from network); 1 Sep 2017 13:24:25 -0000
+Received: from ec2-34-214-34-30.us-west-2.compute.amazonaws.com (HELO wuvkml.sukrv) (34.214.34.30)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 13:24:25 -0000
+Date: Fri, 1 Sep 2017 22:23:36 +0900 (JST)
+From: "2017-\"HeartL*i\"ne" <m8o@q0aksfh1z.com>
+To: lists-djb-ezmlm@bruce-guenter.dyndns.org
+Message-ID: <IQ8xh9Y4Xdzsk2BR7iPJD5TV@q0aksfh1z.com>
+Subject: =?Shift_JIS?B?gaGO85BNg3uDYoNOg1iCzJdll8qCqotLkuiSbILwkrSCpoLcgrWCvYGh?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+受信ボックスが容量不足のため、メールを受信する事が出来ませんでした。
+こちらのサーバーで未受信のメールをお預かりしております。
+
+▼未受信メールの確認▼
+http://a86znwp.q0aksfh1z.com/uslfligkdgfffpt039wq2/sukelin/d9b26d2037fd098f98adbf4123bb868fcbf66712f6c522348af2edda24c20212
+
+※こちらは配信専用メールアドレスとなっております。返信する事は出来ませんので、ご注意ください。
+
+メール通知サービス

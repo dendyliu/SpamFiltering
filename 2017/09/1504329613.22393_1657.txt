@@ -1,0 +1,37 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 7382 invoked from network); 1 Sep 2017 01:18:46 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 01:18:46 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 01:18:46 -0000
+Received: (qmail 22233 invoked from network); 1 Sep 2017 01:18:45 -0000
+Received: from pzgnmfn.llqcd7t.com (103.18.102.206)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 01:18:45 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id 775EB611461
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 10:18:33 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id 676DB61112A
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 10:18:33 +0900 (JST)
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?5LiA5YiG5LiA56eS44GM44Gp44KM44Gg44GR6LK06YeN44Gq44KC44Gu?=
+	=?UTF-8?B?44Gq44Gu44GL44CB44G+44Gg55Sf44GN44KJ44KM44KL6LK05pa544Gv5YiG44GL?=
+	=?UTF-8?B?44KJ44Gq44GE44GL44KC55+l44KM44G+44Gb44KT44GM44CB56eB44Gr44Gv5YiG?=
+	=?UTF-8?B?44GL44KK44G+44GZ44CC5L2V5pWF44Gq44KJ56eB44Gv44GK5Yy76ICF5qeY44Gr?=
+	=?UTF-8?B?5L2Z5ZG95a6j5ZGK44KS44GV44KM44G+44GX44Gf44CC55eF5ZCN44Gv55mM44Gn?=
+	=?UTF-8?B?44CB44KC44GG5pei44Gr5pyr5pyf44Gq44KT44Gg44Gd44GG44Gn44GZ44CC6Lui?=
+	=?UTF-8?B?56e744Gr6Lui56e744KS6YeN44Gt44Gf57WQ5p6c44CB5q6L44KK44GC44Go5YOF?=
+	=?UTF-8?B?44GL44Gq5ZG944Go44Gq44Gj44Gm44GX44G+44GE44G+44GX44Gf44CC?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@fr5xfaqg.com>
+Date: Fri, 01 Sep 2017 10:18:44 +0900
+Message-ID: <2e427524ac06c78c93dead269db3d92ff5e43ebc>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2ZyNXhmYXFnLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTUwNDIyODY4OSZjaWQ9MTIzOTcmbWlkPTE5MzE0MTcmZGR2PWQ0NzMzMWZmOTE2NGQ0YWMw
+NTIyNGMzMDk2Y2QwMmMxIj5odHRwOi8vZnI1eGZhcWcuY29tL21ZS2MvNzgvU0g5UWFZMzwvYT48
+YnI+DQrjgInjgIbiir/imIXilLjigLvjgIvjgpvilJTjgIfigKDjgJHvv6XiiJ7vv6F944CU4oSW
+

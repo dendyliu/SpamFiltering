@@ -1,0 +1,57 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 26962 invoked from network); 31 Aug 2017 19:17:50 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 31 Aug 2017 19:17:50 -0000
+Received: (qmail 13352 invoked from network); 31 Aug 2017 19:17:50 -0000
+Received: from obpyriform.albionmedical.us (obpyriform.albionmedical.us [66.111.43.32])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 31 Aug 2017 19:17:50 -0000
+Received: by obpyriform.albionmedical.us id hl1gds0001gl for <bruce@untroubled.org>; Thu, 31 Aug 2017 14:02:57 -0500 (envelope-from <eHarmonycomPartner-bruce=untroubled.org@albionmedical.us>)
+Date: Thu, 31 Aug 2017 14:02:57 -0500
+From: eHarmony.com Partner <eHarmonycomPartner@albionmedical.us>
+Reply-To: eHarmonycomPartner@albionmedical.us
+To: bruce@untroubled.org
+Message-Id: <9eedabed-7f7b-4f9e-91e1-9eb71fb3ddf4@albionmedical.us>
+Subject: =?utf-8?B?Q29tbXVuaWNhdGUgRk9SIEZSRUUgdGhpcyB3ZWVrZW5kIG9uIGVIYXJtb255IQ==?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="-_-_-402bae661522__77244006fd33b5_-_-";
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+---_-_-402bae661522__77244006fd33b5_-_-
+Mime-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+
+
+---_-_-402bae661522__77244006fd33b5_-_-
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: base64
+
+PGNlbnRlcj4KPHRhYmxlIGlkPSJUYWJsZV8wMSIgYm9yZGVyPSIwIiB3aWR0aD0iNzM0IiBjZWxs
+c3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPgo8dGJvZHk+Cjx0cj4KPHRkPjxhIGhyZWY9Imh0
+dHA6Ly9hbGJpb25tZWRpY2FsLnVzL3l6c05tZFhuMjR3NyI+PGltZyBzcmM9Imh0dHBzOi8vc2Nv
+bnRlbnQuZmJrazUtMy5mbmEuZmJjZG4ubmV0L3YvdDEuMC05LzIxMTUxNjQxXzE0MDQyNzQ2NzI5
+NDM1NzdfNzE0MTc1OTQ4OTM4NTUyOTM5X24uanBnP29oPWZlNzIzNTNiMDAyMmUxZWVlMjQzMzA5
+OGZiODk3MjAzJmFtcDtvZT01QTFFQUNFRSIgYWx0PSIiIHdpZHRoPSI3MzQiIGhlaWdodD0iNTQ2
+IiBib3JkZXI9IjAiIC8+PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkPjxhIGhyZWY9Imh0dHA6Ly9h
+bGJpb25tZWRpY2FsLnVzL3l6c05tZFhuMjR3NyI+PGltZyBzcmM9Imh0dHBzOi8vc2NvbnRlbnQu
+ZmJrazUtMy5mbmEuZmJjZG4ubmV0L3YvdDEuMC05LzIxMTkxODk0XzE0MDQyNzUxODk2MTAxOTJf
+MjEzMTUyNTgyODg3MDQzNDU1X24uanBnP29oPWQ1YWMyZmVjZDEzYTgzMjYwYjQ5NDJjNTY1ODk2
+YzA0JmFtcDtvZT01QTE1OUIyOSIgYWx0PSIiIHdpZHRoPSI3MzQiIGhlaWdodD0iNDI3IiBib3Jk
+ZXI9IjAiIC8+PC9hPjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+CjxwPiZuYnNwOzwvcD4K
+PHA+Jm5ic3A7PC9wPgo8cD4mbmJzcDs8L3A+CjxwIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWws
+IEhlbHZldGljYSwgc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxMHB4OyBsaW5lLWhlaWdodDogMTNw
+eDsgcGFkZGluZzogMHB4OyBtYXJnaW46IDBweDsgY29sb3I6ICM1ODU5NTk7Ij4mY29weTsyMDE3
+IGVIYXJtb255LCBJbmMuPGJyIC8+IGVIYXJtb255LCBJbmMuLCBQTyBCb3ggMjQxODEwLCBMb3Mg
+QW5nZWxlcywgQ0EgOTAwMjQ8YnIgLz4gVG8gdW5zdWJzY3JpYmUgZnJvbSBvdXIgZW1haWwgbGlz
+dCwgcGxlYXNlIDxhIHN0eWxlPSJjb2xvcjogIzU4NTk1OTsiIGhyZWY9Imh0dHA6Ly9hbGJpb25t
+ZWRpY2FsLnVzL3Q0eFNyaWNzNzhwayI+Y2xpY2sgaGVyZS48L2E+PC9wPgo8L2NlbnRlcj4=
+
+---_-_-402bae661522__77244006fd33b5_-_---

@@ -1,0 +1,30 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 1577 invoked from network); 31 Aug 2017 22:21:14 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 22:21:14 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 22:21:14 -0000
+Received: (qmail 19586 invoked from network); 31 Aug 2017 22:21:13 -0000
+Received: from pxonybh.llqcd7t.com (103.18.102.211)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 22:21:13 -0000
+Received: from eqyqvak.llqcd7t.com (eqyqvak.llqcd7t.com [103.18.102.195])
+	by drydwnj.llqcd7t.com (Postfix) with ESMTP id C6812613A0B
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 07:20:59 +0900 (JST)
+Received: from 103.18.102.195 (unknown [153.127.216.248])
+	by eqyqvak.llqcd7t.com (Postfix) with ESMTP id BBF136142AC
+	for <lists-bikini@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 07:20:59 +0900 (JST)
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?4pag5a6M5YWo54Sh5paZ44Gu44GU5qGI5YaF4pag?=
+From: =?UTF-8?B?44GK55+l44KJ44Gb?= <mailmaster@fr5xfaqg.com>
+Date: Fri, 01 Sep 2017 07:21:11 +0900
+Message-ID: <e2d379b28f098974cb0c757ba9a4f3fc66cd24cc>
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: BASE64
+MIME-Version: 1.0
+
+PGEgaHJlZj0iaHR0cDovL2ZyNXhmYXFnLmNvbS9sb2dfaW5kZXgucGhwP3BhZ2U9bWVzc19taXJ1
+JnM9MTUwNDIxODAwOCZjaWQ9MTIzMjImbWlkPTE5MzA5MDMmZGR2PWQ0NzMzMWZmOTE2NGQ0YWMw
+NTIyNGMzMDk2Y2QwMmMxIj5odHRwOi8vZnI1eGZhcWcuY29tL0p4OXFaPC9hPjxicj4NCuKGk+KG
+kOOCm+KJq+KIteKKguKXjuKImu+8jSjvvIg+4omr446h44Kd4pS8
+

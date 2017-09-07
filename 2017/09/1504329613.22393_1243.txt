@@ -1,0 +1,33 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 22215 invoked from network); 1 Sep 2017 09:34:06 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 09:34:06 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 09:34:06 -0000
+Received: (qmail 28870 invoked from network); 1 Sep 2017 09:34:05 -0000
+Received: from 124-248-242-40.sunnyvision.com (HELO ndah5ue.us) (124.248.242.40)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 09:34:05 -0000
+Return-Path: <yg19jc@41lj.ndah5ue.us>
+Date: Fri, 01 Sep 2017 18:34:01 +0900
+MIME-Version: 1.0
+From: =?ISO-2022-JP?B?GyRCJTUlLyU7JTkxPzFEO3ZMMzZJGyhC?= <p2-t3@41lj.ndah5ue.us>
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-Id: <LHh8PcCFtLJGO2Zk@41lj.ndah5ue.us>
+Content-Type: text/plain; charset="Shift_JIS"
+Content-Transfer-Encoding: base64
+subject: =?ISO-2022-JP?B?GyRCJCo1Uk1NMDgkRiRLREw/LkhxTVEbKEIuGyRCJEgkNyRGGyhCMTAw?=
+ =?ISO-2022-JP?B?GyRCS3wxXyRyTDU9fj55GyhCLhskQkVPJDUkbCQ/GyhC?=
+
+gXmPg5bngXqXbC6BQA0KNDCWnIl+gvCWs4+ej/eTboKzLoLqgr0NCoF5jk8uk4cugUAul3qOcYF6
+gtYugsyCspXUkE2Cqi6KbZRGgsWCq4LcgrkugvGBQg0KDQpIVFRQOi8vZDdjc211bmkuNXplbno5
+Ny51cy9FNGM0ay9ucS9qVGNJTHpOL3lwDQoNCpXULpBNgs2DfS6DaYFbgsUujOSNwIKigtyCt4FC
+DQqCsYLMgtyC3IKoi3GXbILMLpXUkE2CqoptLpRGgsWCqy6CyIKiLo/qjYeBQS4NCoF5kVONkS6X
+TI6vjtKLponvgXougsmC5i6C6IFBgqgui3GXbC6CzI/ulfEugqoNCoN1g4mDYoNOg4oug1iDZ4LJ
+k2+YXi6Csy6C6i6C6YuwguqCqozkjcCCooLcgrcugUINCg0Kg3WDiS6DYoNOg4qDWINngsmTb5he
+LoKzLoLqgumCxoFBjLuN3YKoi3Eul2yCqoKojvOCr47mguiCyYLIguuCpILGDQqCtS6CxIKigumR
+U4LEgswugXmOeImHgXqC3IK9gs2BeZdajpGBei6TmYKqjvMugq+C54LqgsiCrS6CyC6C6ILcgreB
+Qg0KjaGM44KiLoKpLoLIgumXWi6OkYLgjvMugq+C5y6C6i6CyIKtgsiC6C6C3IK3gqougUENCpFT
+LoLEgqiLcZdsgsyBeS6OqYzIkNOUQy6BeoLGgsiC6C6C3IK3gswugsWCspKNiNOJui6Cs4KigUI=
+
+

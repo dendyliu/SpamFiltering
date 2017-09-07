@@ -1,0 +1,29 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 12652 invoked from network); 1 Sep 2017 04:25:15 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 04:25:15 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 04:25:15 -0000
+Received: (qmail 24860 invoked from network); 1 Sep 2017 04:25:14 -0000
+Received: from 103x60x234x46.yidc.io (103.60.234.46)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 04:25:14 -0000
+To: <lists-bikini@bruce-guenter.dyndns.org>
+Message-ID: <2475mzcttmtmm783894@lsean.ezweb.ne.jp>
+Date: Fri, 01 Sep 2017 13:22:13 +0900
+From: =?utf-8?B?5oSb?= <rka1stp3p76bj8s8@7y5n7q.sxac8c.com>
+Subject: =?iso-2022-jp?B?GyRCIVo9RU1XIVsbKEIzGyRCS3wlXSUkJXMlSCROPHUkMTxoJGokTzojRnwkXiRHJEAkKyRpJE0bKEIoKhskQiEtIiIbKEJgKikbJCg/M3EbKEI=?=
+MIME-Version: 1.0
+X-MAIL:Postfix
+Content-Type: text/plain; charset=shift_jis
+Precedence: bulk
+Content-Transfer-Encoding: base64
+
+gsiCwYK/guGC8ZdsguaC6IOBg2KDWoFbg1eCqoKygrSCooLcgreB9A0KibqLTILmguiCsoptlEaC
+rYK+grOCooLcgrkhIQ0KDQoNCj09PYGlgsiCwYK/guGC8ZdsguaC6IGlPT09DQozlpyDfINDg5OD
+Z4LMjvOCr47mguiCzY2hk/qC3ILFgr6CqYLngssoKoFMgaBgKin5kQ0KDQo9PT2BnpGxgquC8Iyp
+gumBnj09PQ0KaHR0cDovLzhzdjg4LnN4YWM4Yy5jb20vNWRkNWZkNTgvZ2pmZ2Zmay8NCg0KDQqB
+n8SvzN/N37C83oLWgZ8NCmh0dHA6Ly84c3Y4OC5zeGFjOGMuY29tL2Q0MGY0NDk3LzRxcXFxDQoN
+Cj09PYGagqCBmoKigZo9PT0=
+
+

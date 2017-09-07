@@ -1,0 +1,25 @@
+Delivered-To: lists-bikini@bruce-guenter.dyndns.org
+Received: (qmail 9042 invoked from network); 1 Sep 2017 02:19:54 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 02:19:54 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 02:19:54 -0000
+Received: (qmail 23138 invoked from network); 1 Sep 2017 02:19:53 -0000
+Received: from unknown (HELO fut-----ure2o50.com) (153.127.216.225)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 02:19:53 -0000
+To: lists-bikini@bruce-guenter.dyndns.org
+Subject: =?UTF-8?B?5LiW55WM44GnNeacrOOBruaMh+OBq+WFpeOCi+aUr+aPtOOBp+OBmQ==?=
+	=?UTF-8?B?44CC44Gn44GZ44GL44KJ44GC44Gq44Gf44KCMTAw77yF5pSv5o+06YeR44Gu5Y+X?=
+	=?UTF-8?B?5Y+W44KS5Ye65p2l44G+44GZ44CC?=
+From: =?UTF-8?B?5Zu96Zqb5pSv5o+05Zuj5L2TTkdPLVPjgIDngKzlkI0=?= <mailmaster@fut-----ure2o50.com>
+Date: Fri, 01 Sep 2017 11:15:08 +0900
+Message-ID: <cQMGhHfXvnOQ@LEeVKWJELRNn>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+
+国際支援団体NGO-S　瀬名 から新着メールのお知らせです。
+
+【本文】
+http://fut-----ure2o50.com/8/6JtTusF

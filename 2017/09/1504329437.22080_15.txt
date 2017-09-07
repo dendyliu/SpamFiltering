@@ -1,0 +1,1112 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 12738 invoked from network); 02 Sep 2017 00:46:20 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 02 Sep 2017 00:46:20 -0000
+Received: (qmail 11052 invoked from network); 2 Sep 2017 00:46:20 -0000
+Received: from mx249.a.outbound.createsend.com (mx249.a.outbound.createsend.com [203.55.21.249])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 02 Sep 2017 00:46:20 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=ncixnews.com;
+ h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=news@ncixnews.com;
+ bh=7veA7gNlnX/+pT7R26nUOUffaiw=;
+ b=CWof9A5+L/DntOlu1NNU2bfyHQlx7OXH61OJ7o4IsS0kxKnCiYvTOtcCRLIKnNfC96qSxBtggMMk
+   ZEunW3v1jBBWt9azXvpRD/ba6dhWvdVGjJ4InoMsrhk/LNNYuI8ZuoteNpSYFB8GnWZKIksSVCB3
+   KUcrzB03PMhMoGTCO0Y=
+Subject: Labour Day Weekend Only: MSI X399 Motherboard ($80 Off), DJI Mavic Combo ($400 Off), MSI i7 GTX 1070 Gaming Laptop ($100 Off).
+From: "NCIX Newsletter" <news@ncixnews.com> 
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+Reply-To: news@ncixnews.com
+Date: Sat, 02 Sep 2017 10:46:15 +1000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_4a24ee89-e657-4955-9265-6f1dd59c17ec_"; charset=utf-8
+X-Mailer: Create Send
+X-Complaints-To: abuse@cmail19.com
+X-Feedback-ID: CA1-d-urxtik:LI1-d-cdyjdk:CL1-d-tdkhw:createSEND
+List-Unsubscribe: <http://unsub.cmail19.com/t/d-u-urxtik-fhjirkjyh/>,
+ <mailto:unsubscribe-urxtik2fhjirkjyh2d-F9B83697@cmail19.com?subject=Unsubscribe>
+Message-ID: <cm.1046153274860.urxtik.fhjirkjyh.d@cmail19.com>
+Content-Length: 44636
+
+--_4a24ee89-e657-4955-9265-6f1dd59c17ec_
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+To ensure delivery to your inbox, please add news@ncixnews.com to your ad=
+dress book.
+
+THE WEEKEND DEALS    [http://www.ncix.com/subpromo/1382.htm]    Weekly S=
+ale [http://www.ncix.com/promotion/]     Try our app: iOS [https://tiny=
+url.com/a49ngav] |  Android [https://bit.ly/1T8VV94]
+
+LABOUR DAY WEEKEND SAVINGS
+
+Save up to 46% -  SHOP NOW  [http://www.ncix.com/subpromo/1382.htm]
+
+MSI GE62MVR 15.6in GTX Laptop  [http://www.ncix.com/products/?sku=3D1421=
+27&promoid=3D1382]
+
+Includes Dragon Fever Summer Bundle Kit!  Save $100
+
+$2099.99
+
+$1,999.99
+
+Enter code LBRDAY for  FREE SHIPPING on qualifying orders over $99.
+
+Save $50
+
+$699.99 $749.99    ASUS R541UA-RS51 15.6in Laptop [http://www.ncix.com/p=
+roducts/?sku=3D141148&promoid=3D1382]
+
+Save $100
+
+Includes MSI Backpack!    $1,899.99 $1999.99    MSI GP72MVR 17.3in GTX La=
+ptop [http://www.ncix.com/products/?sku=3D142697&promoid=3D1382]
+
+Save $44
+
+Includes Everspace PC Game!    $159.99 $203.99    ASUS VP239H-P 23in IPS =
+LED Monitor [http://www.ncix.com/products/?sku=3D121062&promoid=3D1382]
+
+Save $140
+
+$209.98* $349.98    ASRock Z270 Taichi ATX Motherboard [http://www.ncix.=
+com/products/?sku=3D138252&promoid=3D1382]   Includes ASRock backpack!
+
+Save $80
+
+$439.99* $519.99    MSI X399 Gamers' Carbon AC Motherboard [http://www.n=
+cix.com/products/?sku=3D141984&promoid=3D1382]
+
+*After $50 MIR
+
+*After $20 MIR                 DJI Mavic 4K Drone with Fly More Combo [h=
+ttp://www.ncix.com/products/?sku=3D136278&promoid=3D1382]
+
+Includes DJI Canvas Bag!  Save $401
+
+$2000
+
+$1,599.00
+
+$1,599.99 $1649.99    ASUS ROG GR8 II GTX Gamers' Desktop PC [http://www=
+.ncix.com/products/?sku=3D139616&promoid=3D1382]    Includes Rocket Leagu=
+e & Everspace!
+
+$2,899.99 $2999.99     MSI VR One 7RE-035CA GTX Backpack PC [http://www.=
+ncix.com/products/?sku=3D138853&promoid=3D1382]
+
+$79.98 $132.98    Logitech C922 Stream Webcam [http://www.ncix.com/produ=
+cts/?sku=3D138203&promoid=3D1382]
+
+$79.99 $104.99    WD Blue 2TB Desktop Hard Disk Drive [http://www.ncix.c=
+om/products/?sku=3D118678&promoid=3D1382]
+
+$109.98 $129.98    Seasonic Focus Plus SSR-650FX Power Supply [http://ww=
+w.ncix.com/products/?sku=3D141802&promoid=3D1382]
+
+$159.98 $179.98    Corsair RM750I 80 Plus Gold Modular Power Supply [htt=
+p://www.ncix.com/products/?sku=3D109970&promoid=3D1382]
+
+$149.99 $189.99    Phanteks Enthoo Evolv mATX Tempered Glass - Satin Blac=
+k [http://www.ncix.com/products/?sku=3D140968&promoid=3D1382]
+
+$389.98 $459.98    TT eSports GTC 500 GT Comfort Gamers' Chair - Black/Bl=
+ue [http://www.ncix.com/products/?sku=3D137574&promoid=3D1382]
+
+$15.99 $29.99    Rii MX3 Multifunction 2.4G Air Mouse Wireless Keyboard  =
+[http://www.ncix.com/products/?sku=3D130362&promoid=3D1382]
+
+$19.99 $32.99    Linke 3 Outlet Home / Office Surge Protector Power Strip=
+  [http://www.ncix.com/products/?sku=3D141169&promoid=3D1382]
+
+$69.99 $98.99     Logitch Harmony H650 Universal Controller [http://www.=
+ncix.com/products/?sku=3D96235&promoid=3D1382]
+
+See all of this weekend's tech deals! [http://www.ncix.com/subpromo/1382=
+.htm]
+
+*Use LBRDAY  in the cart for orders over $99 and under 25lbs within the W=
+eekend Sale! Limited quantities available. Valid from 09/01 4:30PM PST - =
+09/04 11:59 PM PST.
+
+**Featured in-store & web deals and other limited quantity promotions for=
+ our weekend promotional events will be released every Friday evening (un=
+less specified otherwise). Products may sell out before you receive this =
+newsletter. Please check NCIX.com every Wednesday and Friday evening for =
+the latest promotions and current availability of our promotions.
+
+=C2=A9 2017 NCIX.com/Netlink Computer Inc. All rights reserved.
+
+You are receiving this e-mail because your email address is subscribed to=
+ NCIX Exclusive Deals.
+
+If you no longer wish to receive email updates,
+
+you can remove your email address from this mailing list by clicking here=
+:  Unsubscribe http://ncixcanada.cmail19.com/t/d-u-urxtik-=
+fhjirkjyh-hl/
+
+Sent from: NCIX.com 13720 Mayfield Place Richmond, B.C. V6V 2E4, Canada -=
+ 1-877-NCIX-777
+
+--_4a24ee89-e657-4955-9265-6f1dd59c17ec_
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Diso-8859-1" />
+<title>NCIX.com - Weekend Newsletter</title>
+<div align=3D"center">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"620">
+<tbody><tr>
+<td style=3D"font-family:Verdana, Geneva, sans-serif;font-size:10px;color=
+:#666;" >
+<div align=3D"center">To ensure delivery to your inbox, please add <stron=
+g>news@ncixnews.com</strong> to your address book.<br />
+ If you are having problems viewing this email, <a href=3D"http://ncixcan=
+ada.cmail19.com/t/d-e-urxtik-fhjirkjyh-dk/">please click here.</=
+a> </div>
+</td></tr>
+<tr><td bgcolor=3D"#FFFFFF">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"680">
+<tbody>=20
+<tr><td><a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-=
+fhjirkjyh-r/" target=3D"_blank"><img border=3D"0" src=3D"http://i1.cmail19.=
+com/ei/d/48/708/C90/095137/csimport/logoca_0.gif" alt=3D"NCIX.com" style=3D=
+"display:block;" /></a></td>
+<td height=3D"67" bgcolor=3D"#FFFFFF" width=3D"441">
+<table border=3D"0" width=3D"441" style=3D"padding-top:15px;" >
+<tbody><tr>
+<td align=3D"right"><a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik=
+-fhjirkjyh-y/" target=3D"_blank"><img border=3D"0" src=3D"http:/=
+/i2.cmail19.com/ei/d/48/708/C90/095137/csimport/25points_newstop_1.png" /=
+></a></td>
+</tr>
+</tbody>
+</table>
+</td></tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#111" width=3D"680">
+<table height=3D"30px" border=3D"0" width=3D"620" align=3D"center">
+<tbody>
+<tr><td width=3D"10"></td>
+<td align=3D"center" width=3D"456" style=3D"font-family:Verdana, Geneva, =
+sans-serif;font-size:11px;color:#fff;border-right-width:1px;border-right-=
+style:solid;border-right-color:#ffffff;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+j/" style=3D"font-family:Verdana, Geneva, sans-serif;font-size:12px;color=
+:#00ccff;font-weight:bold;text-decoration:none;" >Skip this page, SEE THE=
+ WEEKEND DEALS  &nbsp;&nbsp;</a>=20
+</td>
+<td width=3D"186" align=3D"center" style=3D"font-family:Verdana, Geneva, =
+sans-serif;font-size:11px;color:#fff;border-right-width:1px;border-right-=
+style:solid;border-right-color:#ffffff;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+t/" style=3D"font-family:Verdana, Geneva, sans-serif;font-size:12px;color=
+:#fff;text-decoration:none;" >Weekly Sale</a> </td>
+<td width=3D"275" align=3D"center" style=3D"font-family:Verdana, Geneva, =
+sans-serif;font-size:12px;color:#fff;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+i/" style=3D"font-family:Verdana, Geneva, sans-serif;font-size:12px;color=
+:#fff;text-decoration:none;" > <font color=3D"#CCCCCC"><i>Try our app:</i=
+></font> iOS</a> <font color=3D"#CCCCCC">|</font> <a href=3D"http://ncixc=
+anada.cmail19.com/t/d-l-urxtik-fhjirkjyh-d/" style=3D"font-famil=
+y:Verdana, Geneva, sans-serif;font-size:12px;color:#fff;text-decoration:n=
+one;" ><font color=3D"#86cb73">Android</font></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+=20
+<tr>
+<td></td>
+</tr>
+<tr>
+<td height=3D"1px" bgcolor=3D"#e3e3e3"></td>
+</tr>
+</tbody>
+</table>
+<table align=3D"center" width=3D"680" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" style=3D"border-style:solid;border-color:#e3e3e3;border-top=
+-width:0px;border-bottom-width:0px;border-left-width:0px;border-right-wid=
+th:0px;border-collapse:collapse;" >
+<tr><td>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+h/" ><img src=3D"http://i3.cmail19.com/ei/d/48/708/C90/095137/csimport/me=
+gaweekend-680w_2.jpg" border=3D"0"></a>
+<br>
+</td></tr>
+<tr><td height=3D"2px"></td></tr>
+</table>
+<table align=3D"center" width=3D"680" cellpadding=3D"0" cellspacing=3D"0"=
+ border=3D"0" style=3D"border-style:solid;border-color:#e3e3e3;border-top=
+-width:0px;border-bottom-width:0px;border-left-width:0px;border-right-wid=
+th:0px;border-collapse:collapse;" >
+=20
+<tr><td><br>
+<table align=3D"center" style=3D"padding-top:1px;padding-bottom:6px;paddi=
+ng-right:1px;padding-left:1px;" >
+<tr><td align=3D"center">
+<span   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-ser=
+if;font-size:24px;line-height:26px;color:#2b94c3;text-decoration:none;" >=
+<b>LABOUR DAY WEEKEND SAVINGS</b></span><br>
+<span   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-ser=
+if;font-size:18px;line-height:26px;color:#2b94c3;text-decoration:none;" >=
+
+Save up to 46% - <a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-=
+fhjirkjyh-k/">SHOP NOW </a></span>
+<br>
+</td>
+</tr></table>
+</td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center"   bgcolor=3D"#2b94c3" style=3D"ver=
+tical-align:middle;padding-top:8px;padding-bottom:8px;padding-right:8px;p=
+adding-left:8px;" >
+<table bgcolor=3D"#FFFFFF" cellpadding=3D"10" width=3D"664">
+<tr>
+<td align=3D"left" width=3D"301">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+u/" target=3D"_blank"><img src=3D"http://i4.cmail19.com/ei/d/48/708/C90/0=
+95137/csimport/142127_l_3.jpg" width=3D"301"  border=3D"0" alt=3D"MSI GE6=
+2MVR 15.6in GTX Laptop "/></a>
+</td>
+<td  align=3D"left" width=3D"266" style=3D"margin-top:24px;" >
+<img src=3D"http://source.ncix.com/Weekend-Refresh/WeekendCrasher.gif?1" =
+  border=3D"0" style=3D"margin-top:5px;" ></a><br>
+<br>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+o/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif=
+;font-size:18px;line-height:20px;color:#000000;text-decoration:none;" >MS=
+I GE62MVR 15.6in GTX Laptop </a>
+<br>
+<div>
+<span style=3D"text-align:center;font-family:Arial, Helvetica, sans-serif=
+;font-size:12px;font-weight:bold;line-height:16px;color:#2b94c3;" >
+Includes Dragon Fever Summer Bundle Kit!</span>
+</div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:16px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $10=
+0</span>
+<br>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;font-weight:bold;line-height:16px;color:#999;" >$<s>2099.99=
+</s></span>
+<br>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:24px;font-weight:bold;line-height:20px;color:#c61c1c;" >$1,999.9=
+9</span>
+<br>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+b/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i5.cmail19.com/ei/d/48/708/C90/095137/csimport/save-no=
+w-btn_4.gif"  border=3D"0" style=3D"margin-top:5px;" ></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td><br>
+<table align=3D"center" style=3D"padding-top:2px;padding-bottom:2px;paddi=
+ng-right:2px;padding-left:2px;" >
+<tr><td  width=3D"75" >
+<img src=3D"http://i6.cmail19.com/ei/d/48/708/C90/095137/csimport/shippin=
+g-truck_5.jpg" width=3D"65" height=3D"55" border=3D"0"  >
+</td>
+<td align=3D"center">
+<span   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-ser=
+if;font-size:14px;line-height:26px;color:#333333;text-decoration:none;" >=
+
+<font color=3D"#333333" style=3D"font-size:14px;" >Enter code</font> <spa=
+n   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;line-height:26px;color:#2b94c3;text-decoration:none;" ><b>L=
+BRDAY</b></span> for <span   target=3D"_blank" style=3D"font-family:Arial=
+, Helvetica, sans-serif;font-size:18px;line-height:26px;color:#2b94c3;tex=
+t-decoration:none;" >
+<b>FREE SHIPPING</b></span> on qualifying orders over $99. </span>
+</td>
+<td width=3D"75"   >
+<img src=3D"http://i7.cmail19.com/ei/d/48/708/C90/095137/csimport/shippin=
+g-truck-flipped_6.jpg" width=3D"65" height=3D"55" border=3D"0" style=3D"p=
+adding-left:10px;" >
+</td></tr></table>
+</td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center" style=3D"font-family:Verdana, Gene=
+va, sans-serif;font-size:11px;color:#fff;border-width:0px;border-style:so=
+lid;border-color:#ececec;vertical-align:middle;padding-top:8px;padding-bo=
+ttom:8px;padding-right:8px;padding-left:8px;" >
+<br>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+n/" target=3D"_blank"><img src=3D"http://i8.cmail19.com/ei/d/48/708/C90/0=
+95137/csimport/141148_l_7.jpg" width=3D"200"  border=3D"0" alt=3D"ASUS R5=
+41UA-RS51 15.6in Laptop"/></a>
+<br>
+<div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:16px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $50=
+</span>
+<br>
+</div>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#c61c1c;" >$699.99<=
+/span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;line-height:17px;color:#999;" >$<s>749.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+p/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif=
+;font-size:14px;line-height:19px;color:#000000;text-decoration:none;" >AS=
+US R541UA-RS51 15.6in Laptop</a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+x/" target=3D"_blank"><img src=3D"http://i9.cmail19.com/ei/d/48/708/C90/0=
+95137/csimport/142697_l_8.jpg" width=3D"200"  border=3D"0" alt=3D"MSI GP7=
+2MVR 17.3in GTX Laptop"/></a>
+<br>
+<div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:16px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $10=
+0</span>
+<br>
+<div>
+<span style=3D"text-align:center;font-family:Arial, Helvetica, sans-serif=
+;font-size:12px;font-weight:bold;line-height:16px;color:#2b94c3;" >
+Includes MSI Backpack!</span>
+</div>
+</div>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#c61c1c;" >$1,899.9=
+9</span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;line-height:17px;color:#999;" >$<s>1999.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+m/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif=
+;font-size:14px;line-height:19px;color:#000000;text-decoration:none;" >MS=
+I GP72MVR 17.3in GTX Laptop</a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+c/" target=3D"_blank"><img src=3D"http://i10.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/121062_l_9.jpg" width=3D"200"  border=3D"0" alt=3D"ASUS V=
+P239H-P 23in IPS LED Monitor"/></a>
+<br>
+<div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:16px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $44=
+</span>
+<br>
+<div>
+<span style=3D"text-align:center;font-family:Arial, Helvetica, sans-serif=
+;font-size:12px;font-weight:bold;line-height:16px;color:#2b94c3;" >
+Includes Everspace PC Game!</span>
+</div>
+</div>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#c61c1c;" >$159.99<=
+/span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;line-height:17px;color:#999;" >$<s>203.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+q/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif=
+;font-size:14px;line-height:19px;color:#000000;text-decoration:none;" >AS=
+US VP239H-P 23in IPS LED Monitor</a>
+</div>
+</td>
+</tr>
+</table>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+a/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+f/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+z/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+</table>
+</td></tr>
+<tr><td>
+<hr  size=3D"1" style=3D"color:#2b94c3;" >
+</td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center" style=3D"font-family:Verdana, Gene=
+va, sans-serif;font-size:11px;color:#fff;border-width:0px;border-style:so=
+lid;border-color:#ececec;vertical-align:middle;padding-top:8px;padding-bo=
+ttom:8px;padding-right:8px;padding-left:8px;" >
+<br>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"48%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+v/" target=3D"_blank"><img src=3D"http://i2.cmail19.com/ei/d/48/708/C90/0=
+95137/csimport/138252_l_11.jpg" width=3D"250"  border=3D"0" alt=3D"ASRock=
+ Z270 Taichi ATX Motherboard"/></a>
+<br>
+<div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $14=
+0</span>
+<br>
+</div>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#c61c1c;" >$209.98*=
+</span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;line-height:17px;color:#999;" >$<s>349.98</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+e/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif=
+;font-size:15px;line-height:19px;color:#000000;text-decoration:none;" >AS=
+Rock Z270 Taichi ATX Motherboard</a>
+<div>
+<span style=3D"text-align:center;font-family:Arial, Helvetica, sans-serif=
+;font-size:12px;font-weight:bold;line-height:16px;color:#2b94c3;" >
+Includes ASRock backpack!</span>
+</div>
+</div>
+</td>
+<td align=3D"center" width=3D"48%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+s/" target=3D"_blank"><img src=3D"http://i3.cmail19.com/ei/d/48/708/C90/0=
+95137/csimport/141984_l_12.jpg" width=3D"250"  border=3D"0" alt=3D"MSI X3=
+99 Gamers' Carbon AC Motherboard"/></a>
+<br>
+<div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $80=
+</span>
+<br>
+</div>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:20px;font-weight:bold;line-height:18px;color:#c61c1c;" >$439.99*=
+</span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;line-height:17px;color:#999;" >$<s>519.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+g/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif=
+;font-size:15px;line-height:19px;color:#000000;text-decoration:none;" >MS=
+I X399 Gamers' Carbon AC Motherboard</a>
+</div>
+</td>
+</tr>
+</table>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"48%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+w/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+<br>
+<span style=3D"font-family:Arial, Helvetica, sans-serif;font-size:9px;lin=
+e-height:14px;color:#6d6e71;" >
+*After $50 MIR=20
+</span>
+</td>
+<td align=3D"center" width=3D"48%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+yd/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+<br>
+<span style=3D"font-family:Arial, Helvetica, sans-serif;font-size:9px;lin=
+e-height:14px;color:#6d6e71;" >
+*After $20 MIR=20
+</span>
+</td>
+</table>
+</td></tr>
+<tr><td height=3D"2px"></td></tr>
+<tr><td height=3D"2px"></td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center"   bgcolor=3D"#2b94c3" style=3D"ver=
+tical-align:middle;padding-top:8px;padding-bottom:8px;padding-right:8px;p=
+adding-left:8px;" >
+<table bgcolor=3D"#FFFFFF" cellpadding=3D"10" width=3D"664">
+<tr>
+<td align=3D"left" width=3D"301">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+yh/" target=3D"_blank"><img src=3D"http://i4.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/136278_l_13.jpg" width=3D"301"  border=3D"0" alt=3D"DJI M=
+avic 4K Drone with Fly More Combo"/></a>
+</td>
+<td  align=3D"left" width=3D"266" style=3D"margin-top:24px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+yk/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:18px;line-height:20px;color:#000000;text-decoration:none;" >D=
+JI Mavic 4K Drone with Fly More Combo</a>
+<br>
+<div>
+<span style=3D"text-align:center;font-family:Arial, Helvetica, sans-serif=
+;font-size:12px;font-weight:bold;line-height:16px;color:#2b94c3;" >
+Includes DJI Canvas Bag!</span>
+</div>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:16px;font-weight:bold;line-height:18px;color:#2b94c3;" >Save $40=
+1</span>
+<br>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:14px;font-weight:bold;line-height:16px;color:#999;" >$<s>2000</s=
+></span>
+<br>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:24px;font-weight:bold;line-height:20px;color:#c61c1c;" >$1,599.0=
+0</span>
+<br>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+yu/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i5.cmail19.com/ei/d/48/708/C90/095137/csimport/save-no=
+w-btn_4.gif"  border=3D"0" style=3D"margin-top:5px;" ></a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"middle" align=3D"center" style=3D"font-family:Verdana, Gene=
+va, sans-serif;font-size:11px;color:#fff;border-width:0px;border-style:so=
+lid;border-color:#ececec;vertical-align:middle;padding-top:8px;padding-bo=
+ttom:8px;padding-right:8px;padding-left:8px;" >
+<br>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jl/" target=3D"_blank"><img src=3D"http://i5.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/139616_14.jpg" width=3D"200"  border=3D"0" alt=3D"ASUS RO=
+G GR8 II GTX Gamers' Desktop PC"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$1,599.9=
+9</span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>1649.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jr/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >A=
+SUS ROG GR8 II GTX Gamers' Desktop PC</a>
+</div>
+<div>
+<span style=3D"text-align:center;font-family:Arial, Helvetica, sans-serif=
+;font-size:12px;font-weight:bold;line-height:16px;color:#2b94c3;" >
+Includes Rocket League & Everspace!</span>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jy/" target=3D"_blank"><img src=3D"http://i6.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/138853_15.jpg" width=3D"200"  border=3D"0" alt=3D" MSI VR=
+ One 7RE-035CA GTX Backpack PC"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$2,899.9=
+9</span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>2999.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jj/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" > =
+MSI VR One 7RE-035CA GTX Backpack PC</a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jt/" target=3D"_blank"><img src=3D"http://i7.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/138203_16.jpg" width=3D"200"  border=3D"0" alt=3D"Logitec=
+h C922 Stream Webcam"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$79.98</=
+span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>132.98</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ji/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >L=
+ogitech C922 Stream Webcam</a>
+</div>
+</td>
+</tr>
+</table>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jd/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jh/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+jk/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+</table>
+</td></tr>
+<tr><td>
+<hr  size=3D"1" style=3D"color:#2b94c3;" >
+</td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center" style=3D"font-family:Verdana, Gene=
+va, sans-serif;font-size:11px;color:#fff;border-width:0px;border-style:so=
+lid;border-color:#ececec;vertical-align:middle;padding-top:8px;padding-bo=
+ttom:8px;padding-right:8px;padding-left:8px;" >
+<br>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ju/" target=3D"_blank"><img src=3D"http://i8.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/118678_17.jpg" width=3D"200"  border=3D"0" alt=3D"WD Blue=
+ 2TB Desktop Hard Disk Drive"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$79.99</=
+span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>104.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+tl/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >W=
+D Blue 2TB Desktop Hard Disk Drive</a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+tr/" target=3D"_blank"><img src=3D"http://i9.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/141802_18.jpg" width=3D"200"  border=3D"0" alt=3D"Seasoni=
+c Focus Plus SSR-650FX Power Supply"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$109.98<=
+/span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>129.98</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ty/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >S=
+easonic Focus Plus SSR-650FX Power Supply</a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+tj/" target=3D"_blank"><img src=3D"http://i10.cmail19.com/ei/d/48/708/C90=
+/095137/csimport/109970_19.jpg" width=3D"200"  border=3D"0" alt=3D"Corsai=
+r RM750I 80 Plus Gold Modular Power Supply"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$159.98<=
+/span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>179.98</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+tt/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >C=
+orsair RM750I 80 Plus Gold Modular Power Supply</a>
+</div>
+</td>
+</tr>
+</table>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ti/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+td/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+th/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+</table>
+</td></tr>
+<tr><td height=3D"4px"></td></tr>
+<tr><td>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+tk/" ><img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/s=
+ubscribe-win-680w_20.jpg" border=3D"0"></a>
+<br>
+</td></tr>
+<tr><td height=3D"4px"></td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center" style=3D"font-family:Verdana, Gene=
+va, sans-serif;font-size:11px;color:#fff;border-width:0px;border-style:so=
+lid;border-color:#ececec;vertical-align:middle;padding-top:8px;padding-bo=
+ttom:8px;padding-right:8px;padding-left:8px;" >
+<br>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"48%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+tu/" target=3D"_blank"><img src=3D"http://i2.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/140968_21.jpg" width=3D"250"  border=3D"0" alt=3D"Phantek=
+s Enthoo Evolv mATX Tempered Glass - Satin Black"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$149.99<=
+/span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>189.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+il/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >P=
+hanteks Enthoo Evolv mATX Tempered Glass - Satin Black</a>
+</div>
+</td>
+<td align=3D"center" width=3D"48%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ir/" target=3D"_blank"><img src=3D"http://i3.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/137574_22.jpg" width=3D"250"  border=3D"0" alt=3D"TT eSpo=
+rts GTC 500 GT Comfort Gamers' Chair - Black/Blue"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$389.98<=
+/span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>459.98</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+iy/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >T=
+T eSports GTC 500 GT Comfort Gamers' Chair - Black/Blue</a>
+</div>
+</td>
+</tr>
+</table>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"48%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ij/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"48%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+it/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+</table>
+</td></tr>
+<tr><td>
+<hr  size=3D"1" style=3D"color:#2b94c3;" >
+</td></tr>
+<tr>
+<td valign=3D"middle" align=3D"center" style=3D"font-family:Verdana, Gene=
+va, sans-serif;font-size:11px;color:#fff;border-width:0px;border-style:so=
+lid;border-color:#ececec;vertical-align:middle;padding-top:8px;padding-bo=
+ttom:8px;padding-right:8px;padding-left:8px;" >
+<br>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ii/" target=3D"_blank"><img src=3D"http://i4.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/130362_23.jpg" width=3D"200"  border=3D"0" alt=3D"Rii MX3=
+ Multifunction 2.4G Air Mouse Wireless Keyboard "/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$15.99</=
+span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>29.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+id/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >R=
+ii MX3 Multifunction 2.4G Air Mouse Wireless Keyboard </a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ih/" target=3D"_blank"><img src=3D"http://i5.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/141169_24.jpg" width=3D"200"  border=3D"0" alt=3D"Linke 3=
+ Outlet Home / Office Surge Protector Power Strip "/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$19.99</=
+span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>32.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+ik/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" >L=
+inke 3 Outlet Home / Office Surge Protector Power Strip </a>
+</div>
+</td>
+<td align=3D"center" width=3D"30%">
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+iu/" target=3D"_blank"><img src=3D"http://i6.cmail19.com/ei/d/48/708/C90/=
+095137/csimport/96235_25.jpg" width=3D"200"  border=3D"0" alt=3D" Logitch=
+ Harmony H650 Universal Controller"/></a>
+<br>
+<div style=3D"padding-top:2px;padding-bottom:2px;padding-right:2px;paddin=
+g-left:2px;" >
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:18px;font-weight:bold;line-height:18px;color:#c61c1c;" >$69.99</=
+span>
+<span style=3D"text-align:left;font-family:Arial, Helvetica, sans-serif;f=
+ont-size:12px;line-height:17px;color:#999;" >$<s>98.99</s></span>
+</div>
+<div style=3D"padding-top:4px;padding-bottom:4px;padding-right:4px;paddin=
+g-left:4px;" >
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dl/"   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-seri=
+f;font-size:12px;line-height:19px;color:#000000;text-decoration:none;" > =
+Logitch Harmony H650 Universal Controller</a>
+</div>
+</td>
+</tr>
+</table>
+<table width=3D"100%">
+<tr>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dr/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dy/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+<td align=3D"center" width=3D"30%" style=3D"vertical-align:top;" >=20
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dj/" target=3D"_blank" border=3D"0" >
+<img src=3D"http://i1.cmail19.com/ei/d/48/708/C90/095137/csimport/see-dea=
+ls-btn2_10.gif" width=3D"112" height=3D"30" border=3D"0" style=3D"margin-=
+top:5px;" ></a>
+</td>
+</table>
+</td></tr>
+<tr><td><br>
+<table align=3D"center" style=3D"padding-top:2px;padding-bottom:2px;paddi=
+ng-right:2px;padding-left:2px;" ><tr>
+<td  width=3D"75" >
+<img src=3D"http://i6.cmail19.com/ei/d/48/708/C90/095137/csimport/shippin=
+g-truck_5.jpg" width=3D"65" height=3D"55" border=3D"0"  >
+</td>
+<td align=3D"center">
+<span   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-ser=
+if;font-size:14px;line-height:26px;color:#333333;text-decoration:none;" >=
+ <span   target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-se=
+rif;font-size:18px;line-height:26px;color:#2b94c3;text-decoration:none;" =
+><b>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dt/">See all of this weekend's tech deals!</a></b></span>   </span>
+</td>
+<td width=3D"75"   >
+<img src=3D"http://i7.cmail19.com/ei/d/48/708/C90/095137/csimport/shippin=
+g-truck-flipped_6.jpg" width=3D"65" height=3D"55" border=3D"0" style=3D"p=
+adding-left:10px;" >
+</td></tr></table>
+</td></tr>
+<tr><td>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+di/" ><img src=3D"http://i7.cmail19.com/ei/d/48/708/C90/095137/csimport/m=
+si-bts-dragon-bundle-680x100_26.jpg" border=3D"0"></a>
+<br>
+</td></tr>
+<tr><td height=3D"4px"></td></tr>
+<tr><td>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dd/" ><img src=3D"http://source.ncix.com/bnr/msi-bts-motherboards-680x100=
+.jpg?1" border=3D"0"></a>
+<br>
+</td></tr>
+<tr><td height=3D"4px"></td></tr>
+<tr><td>
+<a href=3D"http://ncixcanada.cmail19.com/t/d-l-urxtik-fhjirkjyh-=
+dh/" ><img src=3D"http://i8.cmail19.com/ei/d/48/708/C90/095137/csimport/s=
+amsung-savings-ssd-680x100_27.jpg" border=3D"0"></a>
+<br>
+</td></tr>
+<tr><td height=3D"4px"></td></tr>
+<tr><td height=3D"2px"></td></tr>
+</table>
+<tr><td>
+<table align=3D"center" width=3D"675">
+<tbody>
+<tr>
+<td align=3D"left" width=3D"670" style=3D"font-family:Verdana, Geneva, sa=
+ns-serif;font-size:9px;color:#666;" >*Use <strong>LBRDAY </strong> in the=
+ cart for orders over $99 and under 25lbs within the Weekend Sale! Limite=
+d quantities available. Valid from=20
+09/01 4:30PM PST - 09/04 11:59 PM PST. <br />
+ <br />
+**Featured in-store &amp; web deals and other limited quantity promotions=
+ for our weekend promotional events will be released   every Friday eveni=
+ng (unless specified otherwise). Products may sell out before you receive=
+ this newsletter.   Please check NCIX.com every Wednesday and Friday even=
+ing for the latest promotions and current availability of our promotions.=
+
+<br />
+ <br />
+=20
+&copy; 2017 NCIX.com/Netlink Computer Inc. All rights reserved.<br />
+ <br />
+ You are receiving this e-mail because your email address is subscribed t=
+o NCIX Exclusive Deals.    <br />
+ <br />
+ =20
+If you no longer wish to receive email updates, <br />
+you can remove your email address from this mailing list by clicking here=
+:
+<a href=3D"http://ncixcanada.cmail19.com/t/d-u-urxtik-fhjirkjyh-=
+du/">Unsubscribe</a>  <br />
+  <br />
+ Sent from: NCIX.com 13720 Mayfield Place Richmond, B.C. V6V 2E4, Canada =
+- <span>1-877</span><span>-NCIX-777</span>
+</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+=20
+</div>
+<img src=3D"https://ncixcanada.cmail19.com/t/d-o-urxtik-=
+fhjirkjyh/o.gif"  width=3D"1" height=3D"1" border=3D"0" alt=3D"" style=3D"visibil=
+ity:hidden !important;display:block !important;height:1px !important;widt=
+h:1px !important;border-width:0 !important;margin-top:0 !important;margin=
+-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !impo=
+rtant;padding-left:0 !important;" />=
+
+
+
+
+--_4a24ee89-e657-4955-9265-6f1dd59c17ec_--

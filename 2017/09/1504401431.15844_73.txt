@@ -1,0 +1,71 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 23274 invoked from network); 02 Sep 2017 17:35:29 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.173 ([10.170.1.173])
+  with FQDP via TCP; 02 Sep 2017 17:35:29 -0000
+Received: (qmail 19914 invoked from network); 2 Sep 2017 17:35:28 -0000
+Received: from mail.a0historyanyone.stream (mx1.uwithwrite.top [85.93.6.146])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 02 Sep 2017 17:35:28 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=a0historyanyone.stream;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=thank_you_from_shopper_reward@a0historyanyone.stream;
+ bh=VjXvPngB0Yf4ZjetTAnlekgwRjg=;
+ b=kgLbtB5hUHk2I+ooR333r8RjpLo1B75lFbZUziHJ4eGCr/fj3m36uJFp5Ma7zfBkmr952+O+S6TY
+   PmkHYmCAzcNyJcXULVeTFKlSLblZyphl830jjb7bKoksQ2FM2euE7zyOK/sWXr/sD4Hr70Qjsx7+
+   iA3VBFqYVEfnCV2knFs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=a0historyanyone.stream;
+ b=0eXxWcECgFwJwKzcNDzSjImWZQSiEuVzvEWq6UuGFfrYLJgIvvKYE2ONFcG5PzZLFZFx2t9/AleC
+   P9okq191Zo1KSpAVtHGe78QOhBZOkumUuW1TGhTaMhcaMNi5BJ0bHF1DKC3squzhIQXSFHIOb7qT
+   uLPvS7Vp9fjNgL51AEc=;
+Received: by mail.a0historyanyone.stream id hlc3tq0001gt for <bruce@untroubled.org>; Sat, 2 Sep 2017 15:22:20 -0400 (envelope-from <thank_you_from_shopper_reward-bruce=untroubled.org@a0historyanyone.stream>)
+Date: Sat, 2 Sep 2017 15:22:20 -0400
+From: "Thank You From Shopper Reward" <thank_you_from_shopper_reward@a0historyanyone.stream>
+To:   <bruce@untroubled.org>
+Subject: shipping information needed for your American Airlines Voucher
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_346_806231562.1504372967458"
+List-Unsubscribe: <http://www.a0historyanyone.stream/reciprocally-beard/a448Oj91J1xJRff9hLkVMOFVgUkhVLxONzhkr1e4>
+Message-ID: <0.0.0.26.1D32420CBC4C676.81F621@mail.a0historyanyone.stream>
+Content-Length: 4162
+
+------=_Part_346_806231562.1504372967458
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+How was your last flight with American Airlines? Tell us and receive $50 in rewards*
+If you are experiencing difficulty viewing this message,  visit here. 
+
+You choosing to fly with American Airlines means the world to us!
+Take a quick 6 question survey and we will give you a $50. 00 reward. 
+
+Are you happy with the price of fairs?
+Is our seating comfortable and up spacious?
+Do you think all flights need wifi?
+
+Click here to participate in our feedback survey
+http://www.a0historyanyone.stream/caresser-rigging/9aey8W646D7l4Nff9MLkVMOFVgUkhVLxONzhkrc71
+unsubscribe, follow this link. 
+Or write to:
+http://www.a0historyanyone.stream/twisted-testability/666JH8646G76jff9ZLkVMOFVgUkhVLxONzhkrd60
+PO Box 4668 #85919
+New York, NY 10163-4668
+
+------=_Part_346_806231562.1504372967458
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="text-align: center; "><font face="Arial, Helvetica, sans-serif" size="2"><strong><a href="http://www.a0historyanyone.stream/Florentine-recreates/ed6Kk864674Lff9TLkVMOFVgUkhVLxONzhkrc8d" target="_blank">How was your last flight with American Airlines? Tell us and receive $50 in rewards*</a></strong></font><br /> <span style="color: rgb(102, 102, 102); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; ">If you are experiencing difficulty viewing this message,<a href="http://www.a0historyanyone.stream/twisted-testability/17ar86O46o75nXff9LLkVMOFVgUkhVLxONzhkr389">&nbsp; </a></span><a href="http://www.a0historyanyone.stream/Florentine-recreates/ed6Kk864674Lff9TLkVMOFVgUkhVLxONzhkrc8d" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; " target="_blank">visit here.</a></p> 
+  <p style="text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">You choosing to fly with American Airlines means the world to us!</span><br /> Take a quick 6 question survey and we will give you a $50.00 reward.<br /> <br /> Are you happy with the price of fairs?<br /> Is our seating comfortable and up spacious?<br /> Do you think all flights need wifi?<br /> <br /> <a href="http://www.a0historyanyone.stream/Florentine-recreates/ed6Kk864674Lff9TLkVMOFVgUkhVLxONzhkrc8d">Click here to participate in our feedback survey</a><br /> &nbsp; </p> 
+  <p style="text-align: center; "><a href="http://www.a0historyanyone.stream/Florentine-recreates/ed6Kk864674Lff9TLkVMOFVgUkhVLxONzhkrc8d"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.a0historyanyone.stream/Florentine-recreates/e407taJ4678jff9SLkVMOFVgUkhVLxONzhkrb7p" style="width: 368px; height: 137px; " /></a></p> 
+  <p style="text-align: center; "><br /> <br /> <span style="font-family:arial,helvetica,sans-serif; "><a href="http://www.a0historyanyone.stream/Florentine-recreates/ed6Kk864674Lff9TLkVMOFVgUkhVLxONzhkrc8d">Get started</a></span></p> 
+  <p style="text-align: center; "><a href="http://www.a0historyanyone.stream/Florentine-recreates/ed6Kk864674Lff9TLkVMOFVgUkhVLxONzhkrc8d"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.a0historyanyone.stream/reciprocally-beard/b34ps7a4V6D79Hff9mLkVMOFVgUkhVLxONzhkrc35" style="width: 309px; height: 163px; " /></a><br /> <br /> <br /> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.a0historyanyone.stream/reciprocally-beard/3f0t8k64676xff9GLkVMOFVgUkhVLxONzhkra53"><font color="#666666">Unsubscribe Here</font></a><a href="http://www.a0historyanyone.stream/9718V6r4O677Tff9_LkVMOFVgUkhVLxONzhkr9Za/commended-subgraphs">.</a><br /> List Management Dept. PO box 971, Reno NV 89504</font><br /> <br /> <br /> &nbsp; </p> <span></span><font size="smearing"><style style="gropes"></style></font><style class="innocent"><span size="dilogarithm"></span></style>  
+ <img src="http://www.a0historyanyone.stream/8f98RX5W467a_ff9ZLkVMOFVgUkhVLxONzhkr130/Florentine-recreates" alt=""/></body>
+</html>
+
+------=_Part_346_806231562.1504372967458--

@@ -1,0 +1,85 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 11359 invoked from network); 01 Sep 2017 21:25:30 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 01 Sep 2017 21:25:30 -0000
+Received: (qmail 3859 invoked from network); 1 Sep 2017 21:25:29 -0000
+Received: from mail.day5x.stream (x28.x-rest.net [89.144.61.186])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 01 Sep 2017 21:25:29 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=day5x.stream;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=terri.mckeeman@day5x.stream;
+ bh=LNOsB7upCiaHvgy5kWUNQDHPmKc=;
+ b=1TxWP1u/4eLNqq70mkUM6W6/YYa7DSGRRrsBZ2yqVB3GXsBorr6z5UQolUa0uPm8YANRkv2Ednks
+   IjMRc8tuW01RMnQc6I1cqRQg2dR38maq0B2i8cgkZEaAMuDMAC65iaN6UyWDch6RaI8uTuw7FUxg
+   q0o5Z4eZ1YJZ8yPRopc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=day5x.stream;
+ b=UN9m0F8rBDzznn8I7jAa3iWPmEY+6gYnEEWRSlrSIpILQ6eY9PBcyuG/WEnbduMp+wXxOQPYfMLT
+   RDFDsLOJPATSHYvP/GE8ZU8Q9dj/W1bgnLNrs+V24Mk2Vcx4A0YUpIdD7EwOmCN0HMwYSrmm5ybY
+   Aqoy9b+XfK2aqeyoIHE=;
+Received: by mail.day5x.stream id hl784g0001ge for <bruce@untroubled.org>; Fri, 1 Sep 2017 17:10:32 -0400 (envelope-from <terri.mckeeman-bruce=untroubled.org@day5x.stream>)
+Date: Fri, 1 Sep 2017 17:10:32 -0400
+From: Terri Mckeeman <terri.mckeeman@day5x.stream>
+To:   <bruce@untroubled.org>
+Subject: Congrats! You've Received a $50 Reward - See Inside
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_136_732477117.1504300230397"
+List-Unsubscribe: <http://www.day5x.stream/2ff8z9R1X1lTgfecBLkVMOFVgUkhVLxONzhkr32e/sevenfold-tinkering>
+Message-ID: <0.0.0.10.1D32366BEFCA2D4.BC648@mail.day5x.stream>
+Content-Length: 4478
+
+------=_Part_136_732477117.1504300230397
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Best Buy has a $50 reward waiting for you. 
+If you are experiencing difficulty viewing this message,  visit here. 
+
+You' ve been selected for our
+daily $50 Best Buy Reward Promotion!
+
+You' ve been selected for our
+daily $50 Best Buy Reward Promotion!
+http://www.day5x.stream/1798UK64LJ62eSfecJLkVMOFVgUkhVLxONzhkr3e3/Nanook-Puritan
+get started here
+If you'd prefer not to receive future emails, Unsubscribe Here
+or write to
+http://www.day5x.stream/8f9M8W646lA30lfectLkVMOFVgUkhVLxONzhkr569/Bucky-books
+2217 E Pecan Rd
+Phoenix, AZ 85040
+
+------=_Part_136_732477117.1504300230397
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="text-align: center; "><font face="Arial, Helvetica, sans-serif" size="2"><strong><a href="http://www.day5x.stream/4df8r6g462exfecxLkVMOFVgUkhVLxONzhkre31/Nanook-Puritan" target="_blank">Best Buy has a $50 reward waiting for you.</a></strong></font><br /> <span style="color: rgb(102, 102, 102); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; ">If you are experiencing difficulty viewing this message,&nbsp; </span><a href="http://www.day5x.stream/gorging-ascot/c6p8jR6C462fHfecYLkVMOFVgUkhVLxONzhkr8b0" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; " target="_blank">visit here.</a></p> 
+  <p style="text-align: center; "><span style="font-family:tahoma,geneva,sans-serif; ">You' ve been selected for our<br /> daily $50 Best Buy Reward Promotion!</span></p> 
+  <p style="text-align: center; "><a href="http://www.day5x.stream/4df8r6g462exfecxLkVMOFVgUkhVLxONzhkre31/Nanook-Puritan"><img alt="" data-height="0" data-width="0" height="123" id="lp-image" src="http://www.day5x.stream/gorging-ascot/c7eR7aT4S63Y1MfecILkVMOFVgUkhVLxONzhkr3c5" width="248" /></a></p> 
+  <p style="text-align: center; "><span style="font-family:arial,helvetica,sans-serif; ">Find out how you can earn even more<br /> Best Buy Rewards!<br /> <br /> <a href="http://www.day5x.stream/4df8r6g462exfecxLkVMOFVgUkhVLxONzhkre31/Nanook-Puritan">get started here</a></span></p> 
+  <div style="text-align: center; ">
+   <a href="http://www.day5x.stream/4df8r6g462exfecxLkVMOFVgUkhVLxONzhkre31/Nanook-Puritan"><img alt="" data-height="0" data-width="0" height="164" id="lp-image" src="http://www.day5x.stream/4fdSQ7a463k2XfecJLkVMOFVgUkhVLxONzhkr5fe/Rosenberg-chimpanzee" width="295" /></a>
+   <br /> 
+   <br /> 
+   <br /> 
+   <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, </font>
+   <a href="http://www.day5x.stream/sevenfold-tinkering/3f086ir4630iIZfecnLkVMOFVgUkhVLxONzhkre51">Unsubscribe Here</a>
+   <br /> 
+   <font face="Verdana, Arial, Helvetica, sans-serif" size="1">or write to </font>
+   <br /> 
+   <span style="color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; float: none; display: inline !important; ">2217 E Pecan Rd</span>
+   <br style="color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; font-size: 14px; " /> 
+   <span style="color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; float: none; display: inline !important; ">Phoenix, AZ 85040</span>
+  </div> 
+  <p>&nbsp; </p> 
+  <p>&nbsp; </p> 
+  <p><style><span><small></small></style></span><style lang="Frisian"><font size="pervading"></font></style></p>   
+ <img src="http://www.day5x.stream/sevenfold-tinkering/cd88S5p4633zfeckLkVMOFVgUkhVLxONzhkrbf7" alt=""/></body>
+</html>
+
+------=_Part_136_732477117.1504300230397--

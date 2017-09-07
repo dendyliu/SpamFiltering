@@ -1,0 +1,76 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 16291 invoked from network); 02 Sep 2017 13:24:03 -0000
+Received: from mx07.futurequest.net (mx07.futurequest.net [69.5.6.178])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 02 Sep 2017 13:24:03 -0000
+Received: (qmail 8883 invoked from network); 2 Sep 2017 13:24:02 -0000
+Received: from mail.o1girlsomeone.stream ([85.17.16.111])
+  by mx07.futurequest.net ([69.5.6.178])
+  with ESMTP via TCP; 02 Sep 2017 13:24:02 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=o1girlsomeone.stream;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=rewards.team@o1girlsomeone.stream;
+ bh=WQJBkrCSbJecnEAvNiCy/cCfKeA=;
+ b=yGQaA7Nxp6o6whFqiJKMTPI2qb0twHVg0N23Q4nhzn7dX82lAKAKw6qZfqT8/8KZPFOp867w158t
+   Oe7MwovrQVgaxiGeldHFh07K4lEjUo8ti4B6Awlnepu6VnoYP+Y4srSL3o731ZcL5EF5sXXM2cQe
+   knl8LSEafdQJmchxYW4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=o1girlsomeone.stream;
+ b=mnDS5TR6T+r+QQ/2Ag39Oy+HylOZEv7CjE0hqg6T8S9YZCT+YjeBixa68cdTw8UNV8UQGLCjWVab
+   15Vj1M++H5H6LrR8/XZuEzn7D45Cafpvk8Iirryr4Bufg+2CTF9YhajQhxtqnxMtW696fnk3NjGd
+   ob+A2J8+S8XG9uEfHmM=;
+Received: by mail.o1girlsomeone.stream id hlb6eu0001g8 for <bruce@untroubled.org>; Sat, 2 Sep 2017 11:16:23 -0400 (envelope-from <rewards.team-bruce=untroubled.org@o1girlsomeone.stream>)
+Date: Sat, 2 Sep 2017 11:16:23 -0400
+From: "Rewards Team" <rewards.team@o1girlsomeone.stream>
+To:   <bruce@untroubled.org>
+Subject: Thank you for shopping at Sears... $50 reward (inside)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_499_1451589139.1504358200019"
+List-Unsubscribe: <http://www.o1girlsomeone.stream/retracting-Willard/e408kK91FO1Gff4jLkVMOFVgUkhVLxONzhkr99f>
+Message-ID: <0.0.0.37.1D323FE7021BE72.26173A@mail.o1girlsomeone.stream>
+Content-Length: 2918
+
+------=_Part_499_1451589139.1504358200019
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Take advantage of sears labor day 70% off
+Thank you for shopping at sears! Take advantage of our labor day sale. 
+
+Up too 70% off store wide.  Please take a moment of your time and tell us about your last experience. 
+http://www.o1girlsomeone.stream/inconclusive-Skopje/30H8Q6X465F8_ff4hLkVMOFVgUkhVLxONzhkr694
+Your opinion is worth a $50 reward Start Now
+
+unsub 
+
+Or write to:
+
+PO Box 4668 #85919
+
+
+------=_Part_499_1451589139.1504358200019
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="text-align: center; "><a href="http://www.o1girlsomeone.stream/2c3T8o64QJ658lff4rLkVMOFVgUkhVLxONzhkr839/predilection-patriarchy">Take advantage of sears labor day 70% off</a></p> 
+  <p style="text-align: center; "><a href="http://www.o1girlsomeone.stream/2c3T8o64QJ658lff4rLkVMOFVgUkhVLxONzhkr839/predilection-patriarchy"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.o1girlsomeone.stream/advisability-boutique/40e7FOa465aWff4WLkVMOFVgUkhVLxONzhkr3a5" style="width: 459px; height: 110px; " /></a></p> 
+  <p style="text-align: center; ">Thank you for shopping at sears! Take advantage of our labor day sale.</p> 
+  <p style="text-align: center; ">Up too 70% off store wide. Please take a moment of your time and tell us about your last experience.</p> 
+  <p style="text-align: center; ">Your opinion is worth a $50 reward <a href="http://www.o1girlsomeone.stream/2c3T8o64QJ658lff4rLkVMOFVgUkhVLxONzhkr839/predilection-patriarchy">Start Now</a></p> 
+  <p style="text-align: center; "><a href="http://www.o1girlsomeone.stream/2c3T8o64QJ658lff4rLkVMOFVgUkhVLxONzhkr839/predilection-patriarchy"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.o1girlsomeone.stream/elaborating-paradoxical/f307Mai465Pbzff4PLkVMOFVgUkhVLxONzhkr946" style="width: 200px; height: 200px; " /></a></p> 
+  <p style="text-align: center; "><a href="http://www.o1girlsomeone.stream/a4386YX465WX9Pff4nLkVMOFVgUkhVLxONzhkr7c1/currentness-dishonoring"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.o1girlsomeone.stream/c9bht7a4y65cSjff4oLkVMOFVgUkhVLxONzhkr27b/advisability-boutique" style="width: 382px; height: 28px; " /></a></p> 
+  <p style="text-align: center; ">&nbsp; </p> 
+  <div style="text-align: center; ">
+   Or write to:
+   <br /> 
+   <br /> PO Box 4668 #85919
+   <br /> New York, NY 10163-4668
+  </div> <span class="pronounce"></span><span face="hastens"></span><font id="quandary"><font lang="Rochford"><span lang="secretariat"></font></font></span><span title="fortuitously"></span>  
+ <img src="http://www.o1girlsomeone.stream/retracting-Willard/2888X5T4B65Hdkff4zLkVMOFVgUkhVLxONzhkro7d" alt=""/></body>
+</html>
+
+------=_Part_499_1451589139.1504358200019--

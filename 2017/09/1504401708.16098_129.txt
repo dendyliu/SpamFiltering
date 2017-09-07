@@ -1,0 +1,24 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 10276 invoked from network); 2 Sep 2017 20:49:57 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 02 Sep 2017 20:49:57 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 02 Sep 2017 20:49:57 -0000
+Received: (qmail 3564 invoked from network); 2 Sep 2017 20:49:56 -0000
+Received: from ec2-52-196-82-184.ap-northeast-1.compute.amazonaws.com (HELO fvmjwzwbr.fy) (52.196.82.184)
+  by zak.futurequest.net with SMTP; 2 Sep 2017 20:49:56 -0000
+Date: Sun, 3 Sep 2017 05:49:43 +0900 (JST)
+From: =?Shift_JIS?B?gu2BW4Lpgsc=?= <h0o1tzlurds9@u4a-yaf2.net>
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-ID: <1971717945.130582.1504385383370.JavaMail.return-369641283@u4a-yaf2.net>
+Subject: =?Shift_JIS?B?irSO04LMi0OOnYK/gsWCooLBgs+CooLFgreBQoF5NZWqiMiT4IF6?=
+ =?Shift_JIS?B?gqiX54vgKDGJrTMwMDCWnCCJfimC8JP8i+CCtYLcgreBSQ==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=shift_jis
+Content-Transfer-Encoding: 7bit
+
+ä¥é”ÇÃãCéùÇøÇ≈Ç¢Ç¡ÇœÇ¢Ç≈Ç∑ÅBÅy5ï™à»ì‡ÅzÇ®óÁã‡(1â≠3000ñú'â~)Çì¸ã‡ÇµÇ‹Ç∑ÅI
+
+
+http://u4a-yaf2.net/rd/as/6eu7gc31jzgy/6vh3rp/18255490/m2956059916/a4d4572966b1ed79a3a398ffd7c5c6f72c0a04bb549308e52fe427e00a08465d

@@ -1,0 +1,31 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 15542 invoked from network); 01 Sep 2017 16:29:09 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 01 Sep 2017 16:29:09 -0000
+Received: (qmail 15433 invoked from network); 1 Sep 2017 16:29:09 -0000
+Received: from gzaas.org.cn ([114.238.16.126])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 Sep 2017 16:29:08 -0000
+MIME-Version: 1.0
+Date: Sat, 02 Sep 2017 00:27:32 +0800
+Message-ID: <9b009399c04d5e64@a45a10e5f3f32697>
+Subject: =?utf-8?Q?=E6=97=A0=E8=AE=BA=E6=88=91=E5=A6=82=E4=BD=95=E5=9C=B0=E5=8E=BB=E8=BF=BD=E7=B4=A2=20=E5=B9=B4=E8=BD=BB=E7=9A=84=E4=BD=A0=E5=8F=AA=E5=A6=82=E4=BA=91=E5=BD=B1=E6=8E=A0=E8=BF=87?=
+To: bruce@untroubled.org
+Sender: 630128073@qq.com
+Received: from gzaas.org.cn (unknown (4.72.43.146])
+	 by gzaas.org.cn with SMTP id 4b472c48-8bba-4668-8e4e-3f030310964e;
+	 for <bruce@untroubled.org>;Sat, 02 Sep 2017 00:27:32 +08:00
+From: =?utf-8?Q?=E6=9D=8E=E5=85=86?= <630128073@qq.com>
+Content-Type: multipart/alternative;
+	boundary="ecebbc46-751a-4bce-bfd9-b5c2e2eb592e"
+
+--ecebbc46-751a-4bce-bfd9-b5c2e2eb592e
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=e6=97=a0=e8=ae=ba=e6=88=91=e5=a6=82=e4=bd=95=e5=9c=b0=e5=8e=bb=e8=bf=bd=e7=
+=b4=a2=20=0d=0a=e5=b9=b4=e8=bd=bb=e7=9a=84=e4=bd=a0=e5=8f=aa=e5=a6=82=e4=ba=
+=91=e5=bd=b1=e6=8e=a0=e8=bf=87
+--ecebbc46-751a-4bce-bfd9-b5c2e2eb592e--

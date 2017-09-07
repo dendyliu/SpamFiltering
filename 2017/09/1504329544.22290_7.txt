@@ -1,0 +1,46 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 28024 invoked from network); 1 Sep 2017 12:03:31 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 12:03:31 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 12:03:31 -0000
+Received: (qmail 17172 invoked from network); 1 Sep 2017 12:03:30 -0000
+Received: from unknown (HELO ?45.118.227.132?) (45.118.227.132)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 12:03:29 -0000
+Date: Fri, 01 Sep 2017 17:33:37 +0530
+From: "Voicemail Service" <vmservice@bruce-guenter.dyndns.org>
+To: "bruce@bruce-guenter.dyndns.org" <bruce@bruce-guenter.dyndns.org>
+Subject: New voice  message 11590203116 in mailbox 115902031161 from "11590203116" <5195338305>
+Message-ID: <Asterisk-11590203116-583705271-115902031161-3097@local>
+X-Asterisk-CallerID: 5195338305
+X-Asterisk-CallerIDName: 11590203116
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----voicemail_1159020311611590203116858267022443641"
+X-Nonspam: None
+
+
+This is a multi-part message in MIME format.
+
+------voicemail_1159020311611590203116858267022443641
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Dear user:
+
+just wanted to let you know you were just left a 0:52 long message (number 11590203116)
+in mailbox 115902031161 from "11590203116" <5195338305>, on Fri, 01 Sep 2017 17:33:37 +0530
+so you might want to check it when you get a chance.  Thanks!
+
+				--Voicemail Service
+
+------voicemail_1159020311611590203116858267022443641
+Content-Type: message/external-body; access-type=x-deleted; length=4754
+
+
+Content-Type: application/octet-stream; name="MSG0000000021.7z"
+Content-Transfer-Encoding: base64
+Content-Description: Voicemail archive attachment.
+Content-Disposition: attachment; filename="MSG0000000021.7z"
+
+------voicemail_1159020311611590203116858267022443641--

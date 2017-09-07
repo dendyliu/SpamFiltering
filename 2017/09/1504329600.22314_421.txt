@@ -1,0 +1,221 @@
+Delivered-To: bruce@bruce-guenter.dyndns.org
+Received: (qmail 2797 invoked from network); 1 Sep 2017 15:52:56 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 15:52:56 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 15:52:56 -0000
+Received: (qmail 24945 invoked from network); 1 Sep 2017 15:52:56 -0000
+Received: from unknown (HELO s12.theguindons.com) (185.194.217.15)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 15:52:56 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=theguindons.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=marry@theguindons.com;
+ bh=+twxh9rp5n7rkDiwW2Kqhe+15zE=;
+ b=UEjB5pczpSvtM2YY9ka5xO7CTOMKeGFHqbNDAbPd0LTLtSLozbBqOOsYNShh/Il4WE0/YXf5pOzr
+   WCtSE+7+18pGX5WrAtnAyEUeiSUeFWaryXI2W1RQT2vLm9CZH+Zfx6TQD4YPRj2vQ6xzP/vijf9o
+   LH2UKauly915zQe1cdOIRlL/G5Yyr8qdpWzgA9JcWoIx8pYhXYj+uIfTAjAF+ge962NnXCjxGf8p
+   BeRrMspl2whO88OvzwV4Ix0RY9ZM1eoNS819sl24UJjM0SathW91MWKVidIfJyaYT+9L5qeJFFAZ
+   /knhFjoArOpLK+hGE39v6zWGjrJ1EdzmDutjEw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=theguindons.com;
+ b=DAJi43Xh8oc0W/UMynI/VHZYHCOuXUgZNrL+/+Gm0NCaksIkpAQda20Agi6P65HFtFYtQQ9ey5ez
+   /fTYFn6ejkvTf51U9Wk5RkkPR8lDE7VHQmuBNPFlCcH8XrhYRxC3AGEAp/h+ax5HW7WIDq0+BicB
+   f7tdd5sVgUN3Y/Ilc6IzP5XhR/VLcwNv5+spy/tjiXEe4k+oSte4T/DtN212SDXImfDABW2Lt83T
+   IgzvlbfnKLfWN3nGx/8XXpsevyuEGBOa4TgFzlg79HtXHeqbTh3Kp6/i870igPBswiPoiVkED4aL
+   Zbe+Iad4IISso4Oxuj6WwBcVSxQFq5tL7oQoLA==;
+Return-Path: <return@theguindons.com>
+DKIM-Signature: v=1; a=rsa-sha1; bh=+twxh9rp5n7rkDiwW2Kqhe+15zE=;
+ d=theguindons.com; h=Message-ID: Date: Subject: From: Reply-To: To:
+ MIME-Version: Content-Type: Precedence: List-Unsubscribe: List-Id:
+ Feedback-ID; i=@theguindons.com; s=mailer; c=relaxed/relaxed; t=1504281175;
+ b=Y/Ia0fpgEJk1jYZRdB3TlNFtIhwDyl7B0QIUW7gEdzTtnnkjfcap+9+JNIfD2KsEB+/snfuQb
+ skWnPQJSgAYXOfozJVzx+MjGfPlgOH9LpJOzUBOYOKNPRhyyRT59DM9zxRkEhjZGwVfHN4F6z
+ yORTR/jyjkmaR8aoG98wEHiBs0mIodNYQfHVI+Ifhc5SUIFfRuMRWXHEicUVO+iOY/4ifcTdt
+ W0ia8+QcBC2m7DDx2fE2dWUX0ymj9O6jcAudeZpyV5P6RObBWVgyqg7ZE3q2MLYMGWayPtGMb
+ 1fXeJ76FmRgZGTMeZCrX+rZXAR93HjFoEAeU/V/LsI2cZeq7yQ==
+Message-ID: <775b498e6057e7e2fe24453651d2a606@theguindons.com>
+Date: Fri, 01 Sep 2017 15:52:55 +0000
+Subject:  Weird things nobody ever talks about in financial =?utf-8?Q?mark?=
+ =?utf-8?Q?ets=E2=80=A6?=
+From: Adam <marry@theguindons.com>
+Reply-To: Adam <marry@theguindons.com>
+To: "bruce@bruce-guenter.dyndns.org" <bruce@bruce-guenter.dyndns.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1504281175_2bc64f3a7c0af4847515e7a230a825f3_=_"
+X-Sender: return@theguindons.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://track.theguindons.com/campaigns/fm134fx0va616/report-abuse/zj195hj51f762/tf265yx02o09a
+X-Receiver: bruce@bruce-guenter.dyndns.org
+X-Bosr-Tracking-Did: 16
+X-Bosr-Subscriber-Uid: tf265yx02o09a
+X-Bosr-Mailer: SwiftMailer - 5.4.x
+X-Bosr-EBS: http://track.theguindons.com/lists/block-address
+X-Bosr-Delivery-Sid: 16
+X-Bosr-Customer-Uid: et789x4hnr883
+X-Bosr-Customer-Gid: 0
+X-Bosr-Campaign-Uid: fm134fx0va616
+Precedence: bulk
+List-Unsubscribe: <http://track.theguindons.com/lists/zj195hj51f762/unsubscribe/tf265yx02o09a/fm134fx0va616/unsubscribe-direct?source=email-client-unsubscribe-button>
+List-Id: zj195hj51f762 <Ido-Spam-EN>
+Feedback-ID: fm134fx0va616:tf265yx02o09a:zj195hj51f762:et789x4hnr883
+
+
+--_=_swift_v4_1504281175_2bc64f3a7c0af4847515e7a230a825f3_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ Open Now=20
+
+Have you ever wondered why only a select few people can acc=
+urately
+predict the markets?=20
+
+=C2=A0=20
+
+While most people lose te=
+ns of thousands of dollars trading the
+markets, the elite quietly make mi=
+llions (and even billions).=20
+
+=C2=A0=20
+
+What are they reading? And h=
+ow are they getting their information?=20
+
+=C2=A0=20
+
+For the first tim=
+e ever, the secrets of the 1% have been exposed.
+http://track.theguindons=
+.com/campaigns/fm134fx0va616/track-url/tf265yx02o09a/52cfa8c08e50f213714019=
+bb1c9afa099b964449
+
+
+=C2=A0=20
+
+See it all for yourself in this vid=
+eo.
+http://track.theguindons.com/campaigns/fm134fx0va616/track-url/tf265y=
+x02o09a/52cfa8c08e50f213714019bb1c9afa099b964449
+
+
+=C2=A0=20
+
+Your =
+private link will expire soon. So if you are truly serious about
+living t=
+he 1% lifestyle, watch this video now.
+http://track.theguindons.com/campa=
+igns/fm134fx0va616/track-url/tf265yx02o09a/52cfa8c08e50f213714019bb1c9afa09=
+9b964449
+
+_____________________________________________________________=
+_____________________________________________________
+ This message was s=
+ent to bruce@bruce-guenter.dyndns.org, on
+2017-09-01, Sender: Sendempire,=
+ Sender's address: N/A.
+ If you wish to forward this message to a friend =
+press Here
+http://track.theguindons.com/campaigns/fm134fx0va616/track-url=
+/tf265yx02o09a/ef54cb07ac18495cac3e804063a73faccc285bd9.
+ If you suspect =
+this message as a spam,=C2=A0Please inform us.
+http://track.theguindons.c=
+om/campaigns/fm134fx0va616/track-url/tf265yx02o09a/478f3bd17f73a50e2e4c037b=
+072d7d6455c90daf=C2=A0Or
+if you wish press=C2=A0Unsubscribe=C2=A0
+http:=
+//track.theguindons.com/campaigns/fm134fx0va616/track-url/tf265yx02o09a/5f7=
+5282ba4bd5184e42a50f60a1ab397d97360d9to
+remove yourself from=C2=A0mailing=
+ list.
+http://track.theguindons.com/campaigns/fm134fx0va616/track-url/tf2=
+65yx02o09a/5f75282ba4bd5184e42a50f60a1ab397d97360d9
+
+
+--_=_swift_v4_1504281175_2bc64f3a7c0af4847515e7a230a825f3_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+<style type=3D"text/css">span.prehea=
+der{display:none!important;mso-hide:all;}</style></head>
+<body><span clas=
+s=3D"preheader" style=3D"display:none!important;mso-hide:all;">Open Now</sp=
+an>
+<p><p><span style=3D"font-size:12.0pt"><span style=3D"line-height:115=
+%">Have you ever wondered why only a select few people can accurately predi=
+ct the markets?</span></span></p>
+
+<p>=C2=A0</p>
+
+<p><span style=3D=
+"font-size:12.0pt"><span style=3D"line-height:115%">While most people lose =
+tens of thousands of dollars trading the markets, the elite quietly make mi=
+llions (and even billions).</span></span></p>
+
+<p>=C2=A0</p>
+
+<p><s=
+pan style=3D"font-size:12.0pt"><span style=3D"line-height:115%">What are th=
+ey reading? And how are they getting their information?</span></span></p>=
+
+
+<p>=C2=A0</p>
+
+<p><span style=3D"font-size:12.0pt"><span style=3D=
+"line-height:115%">For the first time ever, <u><a href=3D"http://track.theg=
+uindons.com/campaigns/fm134fx0va616/track-url/tf265yx02o09a/52cfa8c08e50f21=
+3714019bb1c9afa099b964449">the secrets of the 1% have been exposed.</a></u>=
+</span></span></p>
+
+<p>=C2=A0</p>
+
+<p><u><span style=3D"font-size:1=
+2.0pt"><span style=3D"line-height:115%"><a href=3D"http://track.theguindons=
+.com/campaigns/fm134fx0va616/track-url/tf265yx02o09a/52cfa8c08e50f213714019=
+bb1c9afa099b964449">See it all for yourself in this video.</a></span></span=
+></u></p>
+
+<p>=C2=A0</p>
+
+<p><span style=3D"font-size:12.0pt"><span=
+ style=3D"line-height:115%">Your private link will expire soon. So if you a=
+re truly serious about living the 1% lifestyle, <u><a href=3D"http://track.=
+theguindons.com/campaigns/fm134fx0va616/track-url/tf265yx02o09a/52cfa8c08e5=
+0f213714019bb1c9afa099b964449">watch this video now.</a></u></span></span><=
+/p>
+</p>
+<div style=3D"text-align:center;"><span style=3D"font-size:10p=
+x;">_______________________________________________________________________=
+___________________________________________<br />
+This message was sent t=
+o bruce@bruce-guenter.dyndns.org, on 2017-09-01, Sender: Sendempire, Sender=
+'s address: N/A.<br />
+If you wish to forward this message to a friend pr=
+ess <b><u><a href=3D"http://track.theguindons.com/campaigns/fm134fx0va616/t=
+rack-url/tf265yx02o09a/ef54cb07ac18495cac3e804063a73faccc285bd9">Here</a>.<=
+/u></b><br />
+If you suspect this message as a spam,=C2=A0<a href=3D"http=
+://track.theguindons.com/campaigns/fm134fx0va616/track-url/tf265yx02o09a/47=
+8f3bd17f73a50e2e4c037b072d7d6455c90daf"><strong><u>Please inform us</u></st=
+rong>.</a>=C2=A0Or if you wish press=C2=A0<a data-unsubtag=3D"_UNSUBSCRIBE_=
+URL_" href=3D"http://track.theguindons.com/campaigns/fm134fx0va616/track-ur=
+l/tf265yx02o09a/5f75282ba4bd5184e42a50f60a1ab397d97360d9"><strong><u>Unsubs=
+cribe</u></strong>=C2=A0</a>to remove yourself from=C2=A0mailing list<a dat=
+a-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"http://track.theguindons.com/campa=
+igns/fm134fx0va616/track-url/tf265yx02o09a/5f75282ba4bd5184e42a50f60a1ab397=
+d97360d9">.</a></span></div>
+
+<img width=3D"1" height=3D"1" src=3D"http=
+://track.theguindons.com/campaigns/fm134fx0va616/track-opening/tf265yx02o09=
+a" alt=3D"" />
+</body>
+</html>
+
+
+--_=_swift_v4_1504281175_2bc64f3a7c0af4847515e7a230a825f3_=_--
+

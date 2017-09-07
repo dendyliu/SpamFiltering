@@ -1,0 +1,40 @@
+Delivered-To: lists-linux-xfs@bruce-guenter.dyndns.org
+Received: (qmail 28627 invoked from network); 31 Aug 2017 19:03:28 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 19:03:28 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 19:03:28 -0000
+Received: (qmail 16847 invoked from network); 31 Aug 2017 19:03:28 -0000
+Received: from www.qckegjc.info (153.126.134.208)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 19:03:28 -0000
+Received: from localhost (127.0.0.1) by qckegjc.info with SMTP; Fri, 01 Sep 2017 04:03:27 +0900
+Date: Fri, 1 Sep 2017 04:03:27 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCJT8lQCRHM1okNyRGMlQkLiQ/JCRKfUksOCsbKEI=?= <sendonly@qckegjc.info>
+Sender: errv3105366_83@qckegjc.info
+To: lists-linux-xfs@bruce-guenter.dyndns.org
+Message-ID: <8002560.8172837.5614619@qckegjc.info>
+Subject: =?iso-2022-jp?B?GyRCMlQkMiQ/QCgkJCU1JSQlSEgvOCsbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: base64
+Error-to: errv3105366_83@qckegjc.info
+
+GyRCIVYkMyROJTUlJCVIS1xFdiRLQCgkOSQuJF4kOSEqISohVxsoQg0KDQobJEI0MEE0TDVOQSRO
+TT1BWyRKJE4kSyRIJEskKyQvRSpDZiQ3JF4kOSEqGyhCDQoNChskQiQzJE4lNSUkJUgkT0toPTVM
+NU5BJEcjM08iSiNNPUFbJHJEczYhJDckRiQvJGwkXiQ5ISMbKEINCg0KGyRCJEgkSyQrJC9FKkNm
+QDpFWSQsOWIkLyRGTT1BWyRiIzNPIkojJEokTiRHGyhCDQoNChskQjliM1tHW0V2JEskSiRrJTEh
+PCU5JCxCPyQkJHMkRyQ5ISMbKEINCg0KGyRCQGg3biRiS3xHTzd0JCxFKkNmJDckRiReJDckPyEj
+GyhCDQoNCg0KGyRCTDVOQSRHO0gkKCRrJHMkRyQ5JCskaUtcRXYkS05JJCQlNSUkJUhILzgrJDck
+QSRjJCQkXiQ3JD8hKiEqGyhCDQoNChskQkw1TkFFUE8/JEs4RD9NPnBKcyRIJCskTkZ+Tk8kTzBs
+QFpMNSQkJE4kRzUkN1okSztIJEMkRiRfJEYyPCQ1JCQhKhsoQg0KDQobJEIkYiRBJG0kc0w1TkFN
+PUFbJEAkMUxjJEMkRk09QVtETCRqJEtHTzd0JHJHYyQmJCtHYyRvJEokJCQrJE8bKEINCg0KGyRC
+PCtNMyRKJE4kRyEiJEkkTiQwJGkkJEUqQ2YkOSRrJCszTiQrJGEkRiRfJGskSCQkJCY7diRiPVBN
+aCReJDkhIxsoQg0KDQobJEJMNU5BTT1BWyQsTVckaSRKJC8kSiRDJD8kaSQkJEQkRyRiRGQ7Xz1Q
+TWgkayROJEcwQj80JEckOSEjGyhCDQoNCg0KGyRCJDMkQSRpJCwkPSROQCgkJCU1JSQlSCRHJDkh
+KhsoQg0KGyRCIi0iLSEhIi0iLRsoQg0KaHR0cDovL3d3dy5xY2tlZ2pjLmluZm8vNTIvMzEwNTM2
+Ni84My8NCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQoNCg0KDQobJEIhWkw1TkEkRzJUJDIkaz5wSnMw
+RkZiPWohWxsoQg0KGyRCJDMkTiVhITwlayRPIVZMNU5BJEcyVCQyJGs+cEpzMEZGYj1qIVckKyRp
+JE4kNDBGRmIkRyQ5ISMbKEINChskQjojOGUlYSE8JWskLElUTVckSkp9JE8yPDUtJCskaUdbPy5E
+ZDtfJCw9UE1oJF4kOSEjGyhCDQpodHRwOi8vd3d3LnFja2VnamMuaW5mby9kZW55LnBocD9yZWFk
+ZXJfaWQ9MjI2NTMwNDgmYWRkcmVzc19pZD0zMTA1MzY2JnNlbmRtYWlsX2lkPTgz

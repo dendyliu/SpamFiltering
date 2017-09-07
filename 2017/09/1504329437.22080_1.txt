@@ -1,0 +1,67 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 21154 invoked from network); 01 Sep 2017 23:14:02 -0000
+Received: from mx08.futurequest.net (mx08.futurequest.net [69.5.6.180])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 01 Sep 2017 23:14:02 -0000
+Received: (qmail 11671 invoked from network); 1 Sep 2017 23:14:02 -0000
+Received: from mail.year1givesomebody.loan (90-2-88-167.reverse-dns [167.88.2.90])
+  by mx08.futurequest.net ([69.5.6.180])
+  with ESMTP via TCP; 01 Sep 2017 23:14:02 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=year1givesomebody.loan;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=raquel.shiroma@year1givesomebody.loan;
+ bh=8ldW1XOjlT4CgCy2Y480IctwgoY=;
+ b=mtiff3ICRbovyRZ8sldLJQFbPGoyufJmjrW2qvSvSvc2HNImtYZbHv5ZYZEmW2j0HICit5NJyKrc
+   v2qMVt0ja1olVPWX8mfjdIAOaP1Lhb9JItGWrP+g7LEL3Q2w35YdflGq/dyDOVHeEnBByfKVLsVr
+   VPKU7q+v2mdIqFeCPdw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=year1givesomebody.loan;
+ b=UOAKUoN3NxP+f73dyRcP8BXQywpDKTYDjo4YY9c3hxOp0vXTmFxdBCzspSD9Z9zUqcH76uMBoarn
+   RV0HsfQd5VLhFmsS47eSam4nTCH2s3k6ZD+DnEtKtBDI3yMRekHedI+o4tYJwIhwiCrXnTFdVe6O
+   BqQAlflojdXyMHyvIEY=;
+Received: by mail.year1givesomebody.loan id hl7mna0001gp for <bruce@untroubled.org>; Fri, 1 Sep 2017 19:19:27 -0400 (envelope-from <raquel.shiroma-bruce=untroubled.org@year1givesomebody.loan>)
+Date: Fri, 1 Sep 2017 19:19:27 -0400
+From: Raquel Shiroma <raquel.shiroma@year1givesomebody.loan>
+To:   <bruce@untroubled.org>
+Subject: Congratulations! You can get exclusive rewards worth over $50!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_709_442841418.1504306992914"
+List-Unsubscribe: <http://www.year1givesomebody.loan/recourse-Utopianize/3d2M8s911FBMrfefgLkVMOFVgUkhVLxONzhkr9dc>
+Message-ID: <0.0.0.4E.1D32378C17750C4.284755@mail.year1givesomebody.loan>
+Content-Length: 4305
+
+------=_Part_709_442841418.1504306992914
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+You have been selected to Receive $50 in Walgreens Reward
+If you are experiencing difficulty viewing this message,  visit here. 
+
+Please take our Walgreens customer feedback survey
+and earn a $50 Walgreens Reward!
+http://www.year1givesomebody.loan/lifetime-invalids/4868JQ64z63eIfefqLkVMOFVgUkhVLxONzhkrc52
+
+
+
+
+If you'd prefer not to receive future emails, go here. 
+List Management Dept.  PO Box 4668 #85919
+ New York, NY 10163-4668
+http://www.year1givesomebody.loan/consolidate-Caroline/b5286Yq4w64y0YfefHLkVMOFVgUkhVLxONzhkr929
+
+------=_Part_709_442841418.1504306992914
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><font face="Arial, Helvetica, sans-serif" size="2"><strong><a href="http://www.year1givesomebody.loan/6838Z6r463eWfefRLkVMOFVgUkhVLxONzhkra35/responsibility-Neptune" target="_blank">You have been selected to Receive $50 in Walgreens Reward</a></strong></font><br /> <span style="color: rgb(102, 102, 102); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; ">If you are experiencing difficulty viewing this message,&nbsp; </span><a href="http://www.year1givesomebody.loan/6838Z6r463eWfefRLkVMOFVgUkhVLxONzhkra35/responsibility-Neptune" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; " target="_blank">visit here.</a></p> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><strong><span style="font-family: arial, helvetica, sans-serif; ">Please take our Walgreens customer feedback survey<br /> and earn a $50 Walgreens Reward!</span></strong></p> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><a href="http://www.year1givesomebody.loan/6838Z6r463eWfefRLkVMOFVgUkhVLxONzhkra35/responsibility-Neptune"><img alt="" data-height="0" data-width="0" height="102" id="lp-image" src="http://www.year1givesomebody.loan/971L7Aa4641JfefZLkVMOFVgUkhVLxONzhkre8b/lifetime-invalids" width="570" /></a><br /> <br /> <span style="font-family: arial, helvetica, sans-serif; "><strong><span style="font-size: 18px; "><a href="http://www.year1givesomebody.loan/6838Z6r463eWfefRLkVMOFVgUkhVLxONzhkra35/responsibility-Neptune">Get Started</a></span></strong></span></p> 
+  <p style="color: rgb(0, 0, 0); font-family: -webkit-standard; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-align: center; "><br /> <br /> <br /> <br /> <br /> <font face="Verdana, Arial, Helvetica, sans-serif" size="1">If you' d prefer not to receive future emails, <a href="http://www.year1givesomebody.loan/recourse-Utopianize/8falF86463fufefHLkVMOFVgUkhVLxONzhkr8eb">go here</a><a href="http://www.year1givesomebody.loan/c5T8x6q4640JfefVLkVMOFVgUkhVLxONzhkr9db/mistakenly-copiers">.</a><br /> List Management Dept. </font><span style="font-size:12px; ">PO Box 4668 #85919<br /> &nbsp; New York, NY 10163-4668</span></p>   
+ <img src="http://www.year1givesomebody.loan/d31B8N54642gfefVLkVMOFVgUkhVLxONzhkrb61/recourse-Utopianize" alt=""/></body>
+</html>
+
+------=_Part_709_442841418.1504306992914--

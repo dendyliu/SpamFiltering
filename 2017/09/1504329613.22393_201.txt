@@ -1,0 +1,26 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 18912 invoked from network); 1 Sep 2017 07:49:12 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 07:49:12 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 07:49:12 -0000
+Received: (qmail 27934 invoked from network); 1 Sep 2017 07:49:11 -0000
+Received: from static-ip-201-193-113-114.globalhk.biz (HELO re08.leadx.link) (114.113.193.201)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 07:49:11 -0000
+Received: from zsankuraimedai.com (unknown [103.241.16.33])
+	by re08.leadx.link (Postfix) with ESMTP id 8974B203D38
+	for <lists-reiserfs-list@bruce-guenter.dyndns.org>; Fri,  1 Sep 2017 16:49:10 +0900 (JST)
+From: =?iso-2022-jp?B?GyRCS2UhJiRmJCYkMxsoQg==?= <mail@zsankuraimedai.com>
+To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Message-ID: <188468872.90202555.1504252150541.JavaMail.info@zsankuraimedai.com>
+Subject: =?ISO-2022-JP?B?GyRCJT8lKyFEJE4kRCQvP00hIztkJE4kKjc7JEEkYyRzIUQbKEI=?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-2022-jp
+Content-Transfer-Encoding: 7bit
+
+
+http://wlvhk.zsankuraimedai.com/as/member/message/Message-reply.html?pp=87qG-NkLyK2imkgZ00sAIA==&message_id=1873209782
+
+
+

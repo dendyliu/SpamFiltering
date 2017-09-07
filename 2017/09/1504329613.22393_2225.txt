@@ -1,0 +1,43 @@
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 11488 invoked from network); 1 Sep 2017 22:16:35 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 22:16:35 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 22:16:35 -0000
+Received: (qmail 29809 invoked from network); 1 Sep 2017 22:16:33 -0000
+Received: from unknown (HELO 69.5.6.152) (120.26.230.23)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 22:16:33 -0000
+X-Message-Info: EVZGxVT92pAnhnuTTNYFikMrvETMnu25
+Received: from martini-dns.hogsonline.us ([36.104.204.57]) by vw3-t17.hogsonline.us with Microsoft SMTPSVC(5.0.2195.6824);
+	 Fri, 01 Sep 2017 22:07:33 -0100
+Received: from mail.hogsonline.us ([190.216.152.160])
+	by huzzah-dns.hogsonline.us (9.27.1/6.16.9) with ESMTP id w5LLlal4350310
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Fri, 01 Sep 2017 19:07:33 -0400 (EST)
+	(envelope-from asgem@hbwheeler.us)
+Received: from [32.128.16.246] (helo=quicksand9.hogsonline.us)
+	by mail.hogsonline.us with esmtp (Exim 5.37)
+	id 2QkxdA-5787aV-OG
+	for lists-openssl-dev@bruce-guenter.dyndns.org; Sat, 02 Sep 2017 01:15:33 +0200
+Received: from counteract5.hogsonline.us (localhost.hogsonline.us [127.0.0.1])
+	by bondsmen3.hogsonline.us (3.23.5l5/8.86.0) with ESMTP id e4GBrGC6528835
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Fri, 01 Sep 2017 21:08:33 -0200 (CST)
+	(envelope-from asgem@hbwheeler.us)
+Received: (from pollock@localhost)
+	by disambiguate7.hogsonline.us (1.28.2u5/2.62.8/lee) id b8HDnKG2517907;
+	Fri, 01 Sep 2017 16:10:33 -0700 (CST)
+Date: Sat, 02 Sep 2017 01:07:33 +0200 (CST)
+Message-Id: <736226027353.t4PSfOH07820962@panama9.hogsonline.us>
+To: lists-openssl-dev@bruce-guenter.dyndns.org
+Subject: get with me f#ckbuddy
+From: Grace Hardman <asgem@hbwheeler.us>
+MIME-Version: 1.0
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+
+Heyya I am just searching for a beautiful guy to enjoy night with. I think that you would like to spend a night with me. 
+
+Text me <a href="http://bit.ly/2wkr9m3">there</a> as soon as possible. I miss you already. 
+
+

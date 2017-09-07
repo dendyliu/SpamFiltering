@@ -1,0 +1,83 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 26907 invoked from network); 02 Sep 2017 17:23:57 -0000
+Received: from mx16.futurequest.net (mx16.futurequest.net [69.5.6.192])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 02 Sep 2017 17:23:57 -0000
+Received: (qmail 2226 invoked from network); 2 Sep 2017 17:23:57 -0000
+Received: from szhayy.club (szhayy.club [37.28.158.6])
+  by mx16.futurequest.net ([69.5.6.192])
+  with ESMTP via TCP; 02 Sep 2017 17:23:57 -0000
+Date: Sat, 02 Sep 2017 10:21:53 -0700
+Subject: Claim Your Walgreens Award by 09.02.17 (Labor Day Only)
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="--Part.11777011.5604935"
+Content-Transfer-Encoding: 8bit
+Request-Feedback: 560493511777011
+To: <bruce@untroubled.org>
+From: Walgreens Membership Bonus <WalgreensMembershipBonus@szhayy.club>
+Message-ID: <5604935.0.0.11777011.f8f706c3938feec43d1f111ad3c0a047@szhayy.club_e6m>
+
+
+----Part.11777011.5604935
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Greetings bruce@untroubled.org,
+
+Thanks for Shopping at Walgreens, $50-Walgreens Card 
+
+Redeem Your $50 Reward Here: http://challenge.szhayy.club/walgreens-award
+
+(Hurry! Offer Ends Sep. 3, 2017)
+
+
+----Part.11777011.5604935
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head> 
+  <meta http-equiv="Content-Type" content="text/html;  charset=UTF-8" /> 
+  <title>Walgreen</title> 
+ </head> 
+ <body style="font-family:Helvetica, sans-serif; background-color:#e31836; "> 
+  <table style="background-color:#ffffff; padding:15px; " width="460" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:center; " width="200"> <a href="http://challenge.szhayy.club/walgreens-award" style="text-decoration:none; "> <img src="http://challenge.szhayy.club/img77" width="250" /> </a> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align:center; "> <a href="http://challenge.szhayy.club/walgreens-award" style="text-decoration:none; "> <p style="margin:0; font-size:25px; color:#000; "> <b>Congrats bruce@untroubled.org!</b> </p> </a> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <br /> 
+  <table style="background-color:#ffffff; padding:15px; " width="460" align="center"> 
+   <tbody>
+    <tr> 
+     <td style="text-align:center; "> 
+      <table style="" align="center"> 
+       <tbody>
+        <tr> 
+         <td style="text-align:center; "> <p style="margin:0; font-size:20px; "> </p> </td> 
+         <td style="text-align:center; "> <p style="margin:0; font-size:28px; "> Thank You for Shopping at Walgreens!<br /> Let us reward you with this $50 voucher. </p> <br /> <a href="http://challenge.szhayy.club/walgreens-award" style="text-decoration:none; "> <p style="margin:0; font-size:35px; background-color:#e31836; color:#fff; padding:10px; font-family:serif; "> <i>Claim Your <b>$50</b> Reward Here</i> </p> </a> <br /> <p style="margin:0; font-size:15px; color:#671115; "> (Hurry! Offer Ends Sep. 3, 2017) </p> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td style="text-align:center; "> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <table width="297" align="center"> 
+   <tbody> 
+    <tr> 
+     <td style="text-align:center; font-size:14px; color:#fff; "> <br /><br /><br /><br /><br /><br /><br /><br /> <p><a href="http://challenge.szhayy.club/modify"><img src="http://challenge.szhayy.club/unsubimg" alt="f8f706c3938feec43d1f111ad3c0a047"/></a>.</p> </td> 
+    </tr> 
+   </tbody> 
+  </table> 
+ </body>
+</html>
+
+----Part.11777011.5604935--

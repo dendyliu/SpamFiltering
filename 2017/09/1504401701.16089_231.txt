@@ -1,0 +1,54 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 28418 invoked from network); 02 Sep 2017 13:44:52 -0000
+Received: from mx11.futurequest.net (mx11.futurequest.net [69.5.6.184])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 02 Sep 2017 13:44:52 -0000
+Received: (qmail 6636 invoked from network); 2 Sep 2017 13:44:52 -0000
+Received: from 69.5.6.201 ([221.141.241.39])
+  by mx11.futurequest.net ([69.5.6.184])
+  with SMTP via TCP; 02 Sep 2017 13:44:51 -0000
+Received: from [61.7.114.196] by 69.5.6.201 with ESMTP id 09577147; Sat, 02 Sep 2017 11:43:51 -0200
+Message-ID: <2k-0$n4k1--9ks7$$xl7js50y@p11uo>
+From: "오호라" <ohoraking@korea.com>
+Reply-To: "오호라" <ohoraking@korea.com>
+To: bruce@untroubled.org
+Subject: 마케팅 고민은 이제 그만!
+Date: Sat, 02 Sep 2017 11:43:51 -0200
+X-Mailer: QUALCOMM Windows Eudora Version 5.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="A9.7F5_C6FD5"
+X-Priority: 3
+
+
+--A9.7F5_C6FD5
+Content-Type: text/html;
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+  <meta http-equiv=3D"Content-type" content=3D"text/html; charset=3Deuc-kr=
+">
+      <title></title>
+  </head>
+  <BODY>
+<DIV>=BE=C8=B3=E7=C7=CF=BC=BC=BF=E4</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B8=C5=C3=E2=C0=CC =BF=C0=B8=A3=C1=F6 =BE=CA=BE=C6 =B0=C6=C1=A4=C0=CC=
+=BC=BC=BF=E4?</DIV>
+<DIV>=B1=D7=B7=B3 =B9=D9=B7=CE =BF=AC=B6=F4=C1=D6=BC=BC=BF=E4</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>=B9=E6=B9=AE=C0=DA=BF=CD =B8=C5=C3=E2=C0=CC =B5=BF=BD=C3=BF=A1 =BF=C0=
+=B8=A3=B5=B5=B7=CF =C7=D8=B5=E5=B8=AE=B0=DA=BD=C0=B4=CF=B4=D9</DIV>
+<DIV>=BE=C6=B7=A1 =B8=DE=C0=CF=B7=CE =BF=AC=B6=F4=C1=D6=BD=C3=B8=E9 =BE=C8=
+=B3=BB=B9=AE=C0=BB =BA=B8=B3=BB=B5=E5=B8=AE=B0=DA=BD=C0=B4=CF=B4=D9.</DIV>=
+
+<DIV>&nbsp;</DIV>
+<DIV><A href=3D"mailto:dsukjung77@outlook.kr">dsukjung77@outlook.kr</A></D=
+IV>
+<DIV>&nbsp;</DIV>
+  </BODY>
+</html>
+
+--A9.7F5_C6FD5--
+

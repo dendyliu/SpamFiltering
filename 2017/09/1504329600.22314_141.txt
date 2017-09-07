@@ -1,0 +1,66 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 15951 invoked from network); 31 Aug 2017 17:08:48 -0000
+Received: from mx06.futurequest.net (mx06.futurequest.net [69.5.6.177])
+  by 10.170.1.191 ([10.170.1.191])
+  with FQDP via TCP; 31 Aug 2017 17:08:48 -0000
+Received: (qmail 7287 invoked from network); 31 Aug 2017 17:08:48 -0000
+Received: from tanacp.stream (23-94-30-150-host.colocrossing.com [23.94.30.150])
+  by mx06.futurequest.net ([69.5.6.177])
+  with ESMTP via TCP; 31 Aug 2017 17:08:48 -0000
+Date: Thu, 31 Aug 2017 09:59:14 -0700
+From: Veteran Benefits <Veteran.Benefits@tanacp.stream>
+Message-ID: <f8f706c3938feec43d1f111ad3c0a047.23064619.18209034@tanacp.stream_8xz>
+Content-Type: multipart/alternative; boundary="Section.f8f706c3938feec43d1f111ad3c0a047"
+Subject: U.S. VA Housing Benefits: Veterans and their families can save hundreds per month.
+Content-Transfer-Encoding: 8bit
+Mime-Version: 1.0
+To: <bruce@untroubled.org>
+
+
+--Section.f8f706c3938feec43d1f111ad3c0a047
+Content-Type: text/plain
+
+VA Housing Benefit Information for bruce@untroubled.org
+See How Much You Can Save Here: http://monkey.tanacp.stream/housing-benefits
+
+++f8f706c3938feec43d1f111ad3c0a047
+
+
+--Section.f8f706c3938feec43d1f111ad3c0a047
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="content-type" />
+<meta http-equiv="Content-Language" content="en-us"/>
+</head>
+<body style="background-color:#dde8ee; font-family: verdana, geneva; font-size: 12px;">
+<table style="width: 575px;" border="0" align="center">
+<tbody>
+<tr>
+<td align="left">
+<p><span style="font-family: verdana, geneva; font-size: 22px; font-weight: normal; color: #003366;"><b>VA<span style="color:red;">BENEFIT</span>SEARCH</b></span></p>
+<p><span style="font-family: verdana, geneva; font-size: 18px; font-style: italic; color: #003366;">Important Benefit Announcement</span></p>
+</td>
+<td style="border-color: #4b5057; border-left: 0px solid;" align="right">
+<p><span style="font-family: verdana, geneva; font-size: 14px; font-weight: normal; color: #003366;">08.31.17</p>
+<p><b><a style="color: red; font-size: 16px;" href="http://monkey.tanacp.stream/housing-benefits">VA Housing  Benefits</a></b></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<center>
+<p><span style="font-family: verdana, geneva; font-size: 14pt; font-weight: normal; color: #003366;"><b>As of 2017 the Government is Offering<br> Extended VA Housing Benefits</b> </p>
+<p><span style="font-family: verdana, geneva; font-size: 14pt; font-weight: normal; color: red;"><b>What is your current military status?</p>
+<p><a style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: medium; font-style: oblique; line-height: normal; text-transform: uppercase; font-weight: bold; font-variant-ligatures: normal; font-variant-caps: normal; color: #0e4694; text-decoration: underline line-through blink;" href="http://monkey.tanacp.stream/housing-benefits"><img src="http://monkey.tanacp.stream/photopic6" alt="VA BENEFITS SEARCH" /></a></p>
+<br>
+<a style="font-family: Open Sans, sans-serif; font-size: 22px; color: #ffffff; width: 300px; padding: 12px; background-color: #003366; border-radius: 8px;" href="http://monkey.tanacp.stream/housing-benefits"><b>See If You Qualify</b></a>
+<p style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: medium; font-style: oblique; line-height: normal; text-transform: capitalize; font-weight: lighter; font-variant-ligatures: normal; font-variant-caps: normal; color: #ce30ab; text-decoration: overline blink;"><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><a href="http://monkey.tanacp.stream/discontinue"><img src="http://monkey.tanacp.stream/unsub85" alt="f8f706c3938feec43d1f111ad3c0a047" /></a></p>
+<p style="visibility:hidden; "><br><br><br><br><br><br><br><span style="font-family: verdana, geneva; font-size: 8px; font-weight: bold; vertical-align: top; text-align: left;">.f8f706c3938feec43d1f111ad3c0a047</span></p>
+</center>
+</body>
+</html>
+--Section.f8f706c3938feec43d1f111ad3c0a047--

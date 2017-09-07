@@ -1,0 +1,29 @@
+Delivered-To: lists-reiserfs-list@bruce-guenter.dyndns.org
+Received: (qmail 19643 invoked from network); 1 Sep 2017 08:09:46 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 01 Sep 2017 08:09:46 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 01 Sep 2017 08:09:46 -0000
+Received: (qmail 28259 invoked from network); 1 Sep 2017 08:09:45 -0000
+Received: from 103x60x234x63.yidc.io (103.60.234.63)
+  by zak.futurequest.net with SMTP; 1 Sep 2017 08:09:45 -0000
+To: <lists-reiserfs-list@bruce-guenter.dyndns.org>
+Message-ID: 20170901.1709014472150601.babaq@mail-2bu6kg.com
+Date: Fri, 01 Sep 2017 17:09:44 +0900
+From: =?x-sjis?B?iKQg?=<mail@2bu6kg.com>
+Subject: =?x-sjis?B?gXmPZJd2gXqBeTOWnIN8g0ODk4Nnj/eTboF6jmeXcIr6jMCCzY2hk/qMwJLogsGCxILMgs2TYILtgsGCxILpgUihpd+lKILChHSBvyml36WhILO0sN0=?=
+MIME-Version: 1.0
+X-MAIL:Postfix
+Content-Type: text/plain; charset=x-sjis
+Precedence: bulk
+Content-Transfer-Encoding: base64
+
+gsiCwYK/guGC8ZdsguaC6IOBg2KDWoFbg1eCqoKygrSCooLcgreB9A0KibqLTILmguiC
+soptlEaCrYK+grOCooLcgrkhIQ0KDQoNCj09PYGlgsiCwYK/guGC8ZdsguaC6IGlPT09
+DQqBeTOWnIN8g0ODk4Nnj/eTboF6jmeXcIr6jMCCzY2hk/qMwJLogsGCxILMgs2TYILt
+gsGCxILpgUihpd+lKILChHSBvyml36WhILO0sN0NCg0KPT09gZ6RsYKrgvCMqYLpgZ49
+PT0NCmh0dHA6Ly80eTZteTguY29tLz9EPW5BSXJKTW5XVVRLJmlkPTEwNDU4MzYmcGFz
+cz0wNTE4DQoNCg0KgZ/Er8zfzd+wvN6C1oGfDQpodHRwOi8vNHk2bXk4LmNvbS8/RD1u
+MElySk1uV1VUSyZpZD0xMDQ1ODM2JnBhc3M9MDUxOA0KDQo9PT2BmoKggZqCooGaPT09
+

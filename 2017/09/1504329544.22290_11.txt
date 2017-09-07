@@ -1,0 +1,23 @@
+Content-Type: message/external-body; access-type=x-deleted; length=55963
+
+
+Delivered-To: cvs@bruce-guenter.dyndns.org
+Received: (qmail 27120 invoked from network); 31 Aug 2017 17:59:02 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 17:59:02 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 17:59:02 -0000
+Received: (qmail 16035 invoked from network); 31 Aug 2017 17:59:01 -0000
+Received: from fixed-187-188-130-23.totalplay.net (187.188.130.23)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 17:59:01 -0000
+MIME-Version: 1.0
+Content-Type: application/msword; name="719679323.doc"
+Content-Disposition: attachment
+Message-ID: <150420233544.29617.7945430769286281935@fixed-187-188-130-23.totalplay.net>
+Subject: 
+Date: Thu, 31 Aug 2017 17:58:55 -0000
+Content-Transfer-Encoding: base64
+To: <cvs@bruce-guenter.dyndns.org>
+Importance: high
+From: <ngen@mainepeoplesalliance.org>

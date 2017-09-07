@@ -1,0 +1,76 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 12896 invoked from network); 02 Sep 2017 00:21:52 -0000
+Received: from mx04.futurequest.net (mx04.futurequest.net [69.5.6.175])
+  by 10.170.1.183 ([10.170.1.183])
+  with FQDP via TCP; 02 Sep 2017 00:21:52 -0000
+Received: (qmail 19846 invoked from network); 2 Sep 2017 00:21:51 -0000
+Received: from mail.minute0t.stream (segal.engineermagnificient.com [89.144.48.87])
+  by mx04.futurequest.net ([69.5.6.175])
+  with ESMTP via TCP; 02 Sep 2017 00:21:51 -0000
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=minute0t.stream;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=customer_feedback@minute0t.stream;
+ bh=2fy+myRMKKg3GBIuKBKNFDHuyA4=;
+ b=EWxfxeuXsWeYg5kLxh+qhvuA+NtmSzcfzzDySSBHK4EFcrVQEJvjwnIscvNNvVRKSU1b5p9dV9DD
+   XGB/VBV+QOwvUamnwCNJAXFksarFDHgHcvZFT+VNUU2RtITlMjCMRdpa4ejW4HhJPF9Cc3Qo8cMt
+   fHsN9GZ6j/czyNo9hds=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=minute0t.stream;
+ b=UKO5F1hvxVaFO8kZ1awZPTxgJ5/95bTcQjcyC3u0CeAD40bntOXdsh3anX7NiOMVxldAXbJwncpi
+   397um9ZZFAnsUyFRT2qZIUhJWr0qjM3qJeGGZTt4xNqzbYWIQTww4fuljr5P04li3xgNo/7EpFT7
+   x2iAE6IKy6ezYkQlM9k=;
+Received: by mail.minute0t.stream id hl7sps0001gb for <bruce@untroubled.org>; Fri, 1 Sep 2017 20:06:56 -0400 (envelope-from <customer_feedback-bruce=untroubled.org@minute0t.stream>)
+Date: Fri, 1 Sep 2017 20:06:56 -0400
+From: "Customer Feedback" <customer_feedback@minute0t.stream>
+To:   <bruce@untroubled.org>
+Subject: Thank you for shopping at Sears... $50 reward (inside)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_55_1201550380.1504310801517"
+List-Unsubscribe: <http://www.minute0t.stream/fledged-tabulator/8dcho89RhS1t1zff1OLkVMOFVgUkhVLxONzhkrdf7>
+Message-ID: <0.0.0.C.1D3237F63E9EC80.344289@mail.minute0t.stream>
+
+------=_Part_55_1201550380.1504310801517
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Take advantage of sears labor day 70% off
+Thank you for shopping at sears! Take advantage of our labor day sale. 
+
+Up too 70% off store wide.  Please take a moment of your time and tell us about your last experience. 
+http://www.minute0t.stream/repairmen-belatedly/4868o6s4646Jff1vLkVMOFVgUkhVLxONzhkr891
+Your opinion is worth a $50 reward Start Now
+
+unsub 
+
+Or write to:
+
+PO Box 4668 #85919
+
+
+------=_Part_55_1201550380.1504310801517
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body> 
+  <p style="text-align: center; "><a href="http://www.minute0t.stream/b6fkX86v46u46yff1FLkVMOFVgUkhVLxONzhkr497/fledged-tabulator">Take advantage of sears labor day 70% off</a></p> 
+  <p style="text-align: center; "><a href="http://www.minute0t.stream/b6fkX86v46u46yff1FLkVMOFVgUkhVLxONzhkr497/fledged-tabulator"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.minute0t.stream/c9b7Tla464R8Wff1QLkVMOFVgUkhVLxONzhkrf40/repairmen-belatedly" style="width: 459px; height: 110px; " /></a></p> 
+  <p style="text-align: center; ">Thank you for shopping at sears! Take advantage of our labor day sale.</p> 
+  <p style="text-align: center; ">Up too 70% off store wide. Please take a moment of your time and tell us about your last experience.</p> 
+  <p style="text-align: center; ">Your opinion is worth a $50 reward <a href="http://www.minute0t.stream/b6fkX86v46u46yff1FLkVMOFVgUkhVLxONzhkr497/fledged-tabulator">Start Now</a></p> 
+  <p style="text-align: center; "><a href="http://www.minute0t.stream/b6fkX86v46u46yff1FLkVMOFVgUkhVLxONzhkr497/fledged-tabulator"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.minute0t.stream/7197Ra_4649tSVff1VLkVMOFVgUkhVLxONzhkr695/aggrieving-collapsed" style="width: 200px; height: 200px; " /></a></p> 
+  <p style="text-align: center; "><a href="http://www.minute0t.stream/4c1t8Z64647Fpff1ZLkVMOFVgUkhVLxONzhkr14e/repairmen-belatedly"><img alt="" data-height="0" data-width="0" id="lp-image" src="http://www.minute0t.stream/197F7va4t64anCff1kLkVMOFVgUkhVLxONzhkrkf5/inquiries-Gloria" style="width: 382px; height: 28px; " /></a></p> 
+  <p style="text-align: center; ">&nbsp; </p> 
+  <div style="text-align: center; ">
+   Or write to:
+   <br /> 
+   <br /> PO Box 4668 #85919
+   <br /> New York, NY 10163-4668
+  </div> <style><span><small></small></style></span><style size="Irvine"><font id="betatron"></font></style>  
+ <img src="http://www.minute0t.stream/dc78K5v464bpff1QLkVMOFVgUkhVLxONzhkrf3f/fledged-tabulator" alt=""/></body>
+</html>
+
+------=_Part_55_1201550380.1504310801517--
+

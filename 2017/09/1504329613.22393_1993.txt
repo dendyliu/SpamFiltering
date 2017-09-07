@@ -1,0 +1,41 @@
+Delivered-To: lists-openssl-dev@bruce-guenter.dyndns.org
+Received: (qmail 29674 invoked from network); 31 Aug 2017 19:39:13 -0000
+Received: from localhost (localhost [127.0.0.1])
+  by bruce-guenter.dyndns.org ([192.168.1.2]); 31 Aug 2017 19:39:13 -0000
+Received: from zak.futurequest.net ([127.0.0.1])
+  by localhost ([127.0.0.1])
+  with SMTP via TCP; 31 Aug 2017 19:39:13 -0000
+Received: (qmail 17367 invoked from network); 31 Aug 2017 19:39:12 -0000
+Received: from bbsfix-36-39-142-118-on-nets.com (118.142.39.36)
+  by zak.futurequest.net with SMTP; 31 Aug 2017 19:39:12 -0000
+X-Message-Info: TELJuHL63cDdnpxYJQWJvjNwbWKLhj42
+Received: from teamwork-dns.ci.worcester.ma.us ([53.152.81.94]) by bs6-m58.ci.worcester.ma.us with Microsoft SMTPSVC(5.0.2195.6824);
+	 Thu, 31 Aug 2017 22:31:10 +0200
+Received: from mail.ci.worcester.ma.us ([58.25.184.130])
+	by afflict-dns.ci.worcester.ma.us (9.60.9/6.97.4) with ESMTP id q7SClja4193762
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Thu, 31 Aug 2017 14:32:10 -0600 (EST)
+	(envelope-from dwolxegeegwjx@adware.us)
+Received: from [0.16.16.52] (helo=bloodshot1.ci.worcester.ma.us)
+	by mail.ci.worcester.ma.us with esmtp (Exim 6.65)
+	id 0SymvR-1047aT-BC
+	for lists-openssl-dev@bruce-guenter.dyndns.org; Thu, 31 Aug 2017 19:34:10 -0100
+Received: from scat8.ci.worcester.ma.us (localhost.ci.worcester.ma.us [127.0.0.1])
+	by bivouac2.ci.worcester.ma.us (4.74.5x8/4.22.6) with ESMTP id q6KWrVH3794143
+	for <lists-openssl-dev@bruce-guenter.dyndns.org>; Thu, 31 Aug 2017 17:35:10 -0300 (CST)
+	(envelope-from dwolxegeegwjx@adware.us)
+Received: (from stamp@localhost)
+	by croak1.ci.worcester.ma.us (1.55.6a4/0.79.6/kabul) id p3FKrKM1229039;
+	Thu, 31 Aug 2017 21:36:10 +0100 (CST)
+Date: Thu, 31 Aug 2017 14:30:10 -0600 (CST)
+Message-Id: <265086392482.j8URiAG41628228@discretion5.ci.worcester.ma.us>
+To: lists-openssl-dev@bruce-guenter.dyndns.org
+Subject: I want to be in your bed
+From: Madison Reynolds <dwolxegeegwjx@adware.us>
+MIME-Version: 1.0
+Content-Type: text/html;
+Content-Transfer-Encoding: 7Bit
+
+
+Do U want to see my sexy boobs and other sexy images? 
+If U are interested in watching at wonderful pictures of my large tits & pretty butt, just take a look at my page <a href="http://bit.ly/2uUgL6k">there</a> . I will be waiting up for u.
+

@@ -1,0 +1,277 @@
+Delivered-To: bruce@untroubled.org
+Received: (fqmail 1133 invoked from network); 02 Sep 2017 20:05:05 -0000
+Received: from mx10.futurequest.net (mx10.futurequest.net [69.5.6.182])
+  by 10.170.1.196 ([10.170.1.196])
+  with FQDP via TCP; 02 Sep 2017 20:05:05 -0000
+Received: (qmail 6579 invoked from network); 2 Sep 2017 20:05:05 -0000
+Received: from mail.mchb.ir (static.198.45.130.94.clients.your-server.de [94.130.45.198])
+  by mx10.futurequest.net ([69.5.6.182])
+  with ESMTP via TCP; 02 Sep 2017 20:05:05 -0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=mchb.ir;
+	s=x; h=List-Id:List-Unsubscribe:Content-Type:MIME-Version:To:Reply-To:From:
+	Subject:Date:Message-ID:Sender:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Help:List-Subscribe:List-Post:
+	List-Owner:List-Archive; bh=ldbc54jfDu+pkkLh0O2rYLOjdcL1ARR6cu9J2sTrRHA=; b=e
+	2CbAazJmt1kmEJaqGKluqcGLPK71keWS8WDFGLq7/boCbfQekYwYiVosWYaoiSExzfGeWxGeQtQKT
+	xUuFMCpBq0AkspR9Bc6gyYcU3GVO0x1j032j/tb8Ng9pvusdohx/SFw03eC+xoWFFZt4idWURIiTd
+	aIZoR0q6a2l7NHYJRHQTv+SdO5okbEUVPHwDKUYXGqyy7X8EGFJ+JH6ukHAWiVXf1hbaTk1IvhESJ
+	8R3pqrOxURjwXI5SFs1DEGsVD4+IrPQCSqic+3AwQSnxzfK+NY69GUi5UZ76zePFr+hqvmEnLxIhO
+	T0imVTcTICLdcvGk08nstTb2ucbcNYotA==;
+Received: from static.198.45.130.94.clients.your-server.de ([94.130.45.198] helo=mchb.ir)
+	by mail.mchb.ir with esmtpa (Exim 4.87)
+	(envelope-from <bounce3@mchb.ir>)
+	id 1doEf9-00084V-Pp
+	for bruce@untroubled.org; Sun, 03 Sep 2017 00:35:03 +0430
+Message-ID: <be96d832951c2d1b7e0cf04d061059cc@mchb.ir>
+Date: Sat, 02 Sep 2017 20:05:03 +0000
+Subject: =?utf-8?Q?=D8=AB=D8=A8=D8=AA_=D8=A2=DA=AF=D9=87=DB=8C?=
+ =?utf-8?Q?_=D8=B1=D8=A7=DB=8C=DA=AF=D8=A7=D9=86?=
+From: =?utf-8?Q?=D8=A2=DA=AF=D9=87=DB=8C_=D9=88_=D9=86?=
+ =?utf-8?Q?=DB=8C=D8=A7=D8=B2=D9=85=D9=86=D8=AF=DB=8C=D9=87?=
+ =?utf-8?Q?=D8=A7=DB=8C_=D9=88=D8=B7=D9=86?= <info@mchb.ir>
+Reply-To: =?utf-8?Q?=D8=A2=DA=AF=D9=87=DB=8C_=D9=88_=D9=86?=
+ =?utf-8?Q?=DB=8C=D8=A7=D8=B2=D9=85=D9=86=D8=AF=DB=8C=D9=87?=
+ =?utf-8?Q?=D8=A7=DB=8C_=D9=88=D8=B7=D9=86?= <info@81418.ir>
+To: "bruce@untroubled.org" <bruce@untroubled.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1504382703_02e4e22e9a10b51c27ecbbb0ce13b849_=_"
+X-Sender: bounce3@mchb.ir
+X-Report-Abuse: Please report abuse for this campaign here:
+ https://mchb.ir/index.php/campaigns/ew752rma0je3b/report-abuse/gj8425nq2f158/tv935ez86x566
+X-Receiver: bruce@untroubled.org
+X-Ltnn-Tracking-Did: 0
+X-Ltnn-Subscriber-Uid: tv935ez86x566
+X-Ltnn-Mailer: SwiftMailer - 5.4.x
+X-Ltnn-EBS: https://mchb.ir/index.php/lists/block-address
+X-Ltnn-Delivery-Sid: 3
+X-Ltnn-Customer-Uid: xp556s0vo1702
+X-Ltnn-Customer-Gid: 0
+X-Ltnn-Campaign-Uid: ew752rma0je3b
+Precedence: bulk
+List-Unsubscribe: <https://mchb.ir/index.php/lists/gj8425nq2f158/unsubscribe/tv935ez86x566/ew752rma0je3b/unsubscribe-direct?source=email-client-unsubscribe-button>
+List-Id: gj8425nq2f158 =?utf-8?Q?=3C=D8=A2=DA=AF=D9=87=DB=8C_=D9=88_?=
+ =?utf-8?Q?=D9=86=DB=8C=D8=A7=D8=B2=D9=85=D9=86=D8=AF=DB=8C?=
+ =?utf-8?Q?=D9=87=D8=A7=DB=8C_=D9=88=D8=B7=D9=86=3E?=
+Feedback-ID: ew752rma0je3b:tv935ez86x566:gj8425nq2f158:xp556s0vo1702
+Content-Length: 8167
+
+
+--_=_swift_v4_1504382703_02e4e22e9a10b51c27ecbbb0ce13b849_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+_=D8=AF=D8=B1 =D9=85=D8=B4=D8=A7=D9=87=D8=AF=D9=87 =D8=A7=DB=8C=
+=D9=85=DB=8C=D9=84 =D9=85=D8=B4=DA=A9=D9=84 =D8=AF=D8=A7=D8=B1=D9=8A=D8=
+=AF=D8=9F =D9=84=D8=B7=D9=81=D8=A7
+=D8=A7=D9=8A=D9=86=D8=AC=D8=A7 =DA=
+=A9=D9=84=D9=8A=DA=A9 =DA=A9=D9=86=D9=8A=D8=AF
+https://mchb.ir/index.php/=
+campaigns/ew752rma0je3b/track-url/tv935ez86x566/0060c06846bc3ae55914ddf0496=
+e05685da5a8d7_
+
+
+ =09=09
+https://mchb.ir/index.php/campaigns/ew752r=
+ma0je3b/track-url/tv935ez86x566/25af871fab230673766eedeeb1e29851bd560f36
+=
+
+ =09=09
+https://mchb.ir/index.php/campaigns/ew752rma0je3b/track-url/tv=
+935ez86x566/ccc50a17741762f6aa4a02c4b7796a0f590e4540
+https://mchb.ir/inde=
+x.php/campaigns/ew752rma0je3b/track-url/tv935ez86x566/1fcf2842f3b0f609386ee=
+eac5cb2a48f6a60df80
+https://mchb.ir/index.php/campaigns/ew752rma0je3b/tra=
+ck-url/tv935ez86x566/173ce7783389d55b32d3f293b8dbf6da87550302
+
+
+ =09=
+=09=C2=A0
+
+=C2=A0 _=D8=A8=D8=B1=D8=A7=DB=8C =D9=84=D8=BA=D9=88 =D8=
+=A7=D8=B4=D8=AA=D8=B1=D8=A7=DA=A9 =DA=A9=D9=84=DB=8C=DA=A9 =DA=A9=D9=86=
+=DB=8C=D8=AF
+https://mchb.ir/index.php/campaigns/ew752rma0je3b/track-url/=
+tv935ez86x566/0ec55c18012dfe3abda41bbb6171e076e6c2f79a
+_=20
+ =D8=A2=DA=
+=AF=D9=87=DB=8C =D9=88 =D9=86=DB=8C=D8=A7=D8=B2=D9=85=D9=86=D8=AF=DB=8C=
+=D9=87=D8=A7=DB=8C =D9=88=D8=B7=D9=86
+ Hafez Boulevard No. 260Shahrekord =
+Chahar Mahaal and Bakhtiari
+8816756996
+ Iran (Islamic Republic of) - ht=
+tp://www.81418.ir
+
+ =D8=AA=D9=85=D8=A7=D9=85=D9=8A =D8=AD=D9=82=D9=
+=88=D9=82 =D9=85=D8=AD=D9=81=D9=88=D8=B8 =D9=85=D9=8A =D8=A8=D8=A7=D8=B4=
+=D8=AF
+ =D8=B7=D8=B1=D8=A7=D8=AD=D9=8A =D9=88 =D8=AA=D9=88=D8=B3=D8=B9=
+=D9=87 =D8=AA=D9=88=D8=B3=D8=B7 =D8=B4=D9=87=D8=B1=DA=A9=D8=B1=D8=AF =D9=
+=88=D8=A8 =D9=87=D8=A7=D8=B3=D8=AA
+https://mchb.ir/index.php/campaigns/ew=
+752rma0je3b/track-url/tv935ez86x566/317968b12eaf06f7e126f1d330697936a389ac7=
+f
+
+
+=C2=A0=20
+
+--_=_swift_v4_1504382703_02e4e22e9a10b51c27ecbbb0ce13b849_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+=09<title></title>
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"=
+>
+</head>
+<body bottommargin=3D"0" leftmargin=3D"0" rightmargin=3D"0" topmargin=3D"0"=
+>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" dir=3D"rtl" width=
+=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td height=3D"40">
+=09=09=09<p align=3D"center"><u><em><strong><span style=3D"font-size:16px;"=
+><font face=3D"Tahoma" id=3D"yui_3_7_2_1_1378308972954_85287" style=3D"font=
+-size: 10pt">=D8=AF=D8=B1 =D9=85=D8=B4=D8=A7=D9=87=D8=AF=D9=87 =D8=A7=DB=
+=8C=D9=85=DB=8C=D9=84 =D9=85=D8=B4=DA=A9=D9=84 =D8=AF=D8=A7=D8=B1=D9=8A=
+=D8=AF=D8=9F <font color=3D"#003358"> <a href=3D"https://mchb.ir/index.php/=
+campaigns/ew752rma0je3b/track-url/tv935ez86x566/0060c06846bc3ae55914ddf0496=
+e05685da5a8d7" style=3D"text-decoration: none" target=3D"_blank"> <font col=
+or=3D"#0066FF">=D9=84=D8=B7=D9=81=D8=A7 =D8=A7=D9=8A=D9=86=D8=AC=D8=A7 =
+=DA=A9=D9=84=D9=8A=DA=A9 =DA=A9=D9=86=D9=8A=D8=AF</font></a></font></font><=
+/span></strong></em></u></p>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>
+=09=09=09<div align=3D"center">
+=09=09=09<table bgcolor=3D"#C0C0C0" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"1" dir=3D"rtl" width=3D"100">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>
+=09=09=09=09=09=09<div align=3D"center">
+=09=09=09=09=09=09<table bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" dir=3D"rtl" width=3D"800">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><img height=3D"177" src=3D"http://81418.ir/a=
+ds-81418/img/newsletter_04.jpg" width=3D"800" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><img height=3D"132" src=3D"http://81418.ir/a=
+ds-81418/img/newsletter_05.jpg" width=3D"800" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><img height=3D"55" src=3D"http://81418.ir/ad=
+s-81418/img/newsletter_06.jpg" width=3D"800" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><a><img border=3D"0" height=3D"150" src=3D"h=
+ttp://81418.ir/ads-81418/img/newsletter_601.jpg" width=3D"500" /></a> <a hr=
+ef=3D"https://mchb.ir/index.php/campaigns/ew752rma0je3b/track-url/tv935ez86=
+x566/25af871fab230673766eedeeb1e29851bd560f36" target=3D"_blank"> <img bord=
+er=3D"0" div=3D"rtl" height=3D"150" src=3D"http://81418.ir/ads-81418/img/ne=
+wsletter_503.jpg" width=3D"294" /></a></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><br />
+=09=09=09=09=09=09=09=09=09<img height=3D"177" src=3D"http://81418.ir/ads-8=
+1418/img/newsletter_11.jpg" width=3D"800" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td><br />
+=09=09=09=09=09=09=09=09=09<img height=3D"50" src=3D"http://81418.ir/ads-81=
+418/img/newsletter_18.jpg" width=3D"800" /></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09<center><a href=3D"https://mchb.ir/index.php/cam=
+paigns/ew752rma0je3b/track-url/tv935ez86x566/ccc50a17741762f6aa4a02c4b7796a=
+0f590e4540" target=3D"_blank"><img border=3D"0" height=3D"100" src=3D"http:=
+//81418.ir/ads-81418/img/newsletter_23.jpg" width=3D"200" /></a> <a href=3D=
+"https://mchb.ir/index.php/campaigns/ew752rma0je3b/track-url/tv935ez86x566/=
+1fcf2842f3b0f609386eeeac5cb2a48f6a60df80" target=3D"_blank"> <img border=3D=
+"0" height=3D"100" src=3D"http://81418.ir/ads-81418/img/newsletter_22.jpg" =
+width=3D"200" /></a> <a href=3D"https://mchb.ir/index.php/campaigns/ew752rm=
+a0je3b/track-url/tv935ez86x566/173ce7783389d55b32d3f293b8dbf6da87550302" ta=
+rget=3D"_blank"> <img border=3D"0" height=3D"100" src=3D"http://81418.ir/ad=
+s-81418/img/newsletter_21.jpg" width=3D"200" /></a></center>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09<tr>
+=09=09=09<td>=C2=A0</td>
+=09=09</tr>
+=09</tbody>
+</table>
+
+<div>
+<center>
+<div class=3D"col-lg-4 col-sm-6 col-md-6">
+<p>=C2=A0</p>
+
+<center><u><em><strong><a data-unsubtag=3D"_UNSUBSCRIBE_URL_" href=3D"https=
+://mchb.ir/index.php/campaigns/ew752rma0je3b/track-url/tv935ez86x566/0ec55c=
+18012dfe3abda41bbb6171e076e6c2f79a">=D8=A8=D8=B1=D8=A7=DB=8C =D9=84=D8=
+=BA=D9=88 =D8=A7=D8=B4=D8=AA=D8=B1=D8=A7=DA=A9 =DA=A9=D9=84=DB=8C=DA=A9 =
+=DA=A9=D9=86=DB=8C=D8=AF </a> </strong></em></u></center>
+<br />
+<u><em><strong>=D8=A2=DA=AF=D9=87=DB=8C =D9=88 =D9=86=DB=8C=D8=A7=D8=B2=
+=D9=85=D9=86=D8=AF=DB=8C=D9=87=D8=A7=DB=8C =D9=88=D8=B7=D9=86<br />
+Hafez=
+ Boulevard No. 260Shahrekord Chahar Mahaal and Bakhtiari 8816756996<br />=
+
+Iran (Islamic Republic of) - http://www.81418.ir</strong></em></u><br />
+<br />
+<u><em><strong><span style=3D"font-size:16px;"><small style=3D"text-align:c=
+enter">=D8=AA=D9=85=D8=A7=D9=85=D9=8A =D8=AD=D9=82=D9=88=D9=82 =D9=85=D8=
+=AD=D9=81=D9=88=D8=B8 =D9=85=D9=8A =D8=A8=D8=A7=D8=B4=D8=AF<br />
+=D8=B7=D8=B1=D8=A7=D8=AD=D9=8A =D9=88 =D8=AA=D9=88=D8=B3=D8=B9=D9=87 =D8=
+=AA=D9=88=D8=B3=D8=B7<a href=3D"https://mchb.ir/index.php/campaigns/ew752rm=
+a0je3b/track-url/tv935ez86x566/317968b12eaf06f7e126f1d330697936a389ac7f" ta=
+rget=3D"_blank"> =D8=B4=D9=87=D8=B1=DA=A9=D8=B1=D8=AF =D9=88=D8=A8 =D9=
+=87=D8=A7=D8=B3=D8=AA</a></small></span></strong></em></u>
+
+<p>=C2=A0</p>
+</div>
+</center>
+</div>
+<style type=3D"text/css"><!--=20
+a:link {=20
+text-decoration: none;=20
+}=20
+a:visited {=20
+text-decoration: none;=20
+}=20
+a:hover {=20
+text-decoration: none;=20
+}=20
+a:active {=20
+text-decoration: none;=20
+}=20
+-->
+</style>
+<img width=3D"1" height=3D"1" src=3D"https://mchb.ir/index.php/campaigns/ew=
+752rma0je3b/track-opening/tv935ez86x566" alt=3D"" />
+</body>
+</html>
+
+
+--_=_swift_v4_1504382703_02e4e22e9a10b51c27ecbbb0ce13b849_=_--
